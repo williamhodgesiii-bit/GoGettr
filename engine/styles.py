@@ -86,11 +86,7 @@ def close_cta(fmt, spec):
     y += c.px(190)
     y = c.hook(spec.get("cta_hook", "Save this. Run it this week."), y,
                max_size=104, max_lines=4)
-    y = c.volt_bar(y + c.px(18))
-    fdrop = b.font("mono", c.px(28), 600)
-    b.draw_tracked(c.d, (c.mx, y + c.px(6)),
-                   spec.get("drop", "NEW PAGE EVERY MORNING · GOGETTR.CO"),
-                   fdrop, c.muted, tracking=c.px(28) * 0.16)
+    c.volt_bar(y + c.px(18))
     c.footer(spec.get("handle", HANDLE), spec.get("cta", "FOLLOW →"))
     return c.img
 
@@ -124,7 +120,7 @@ def pin_list(fmt, spec):
     y = c.hook(spec["hook"], y, max_size=88, max_lines=3)
     y += c.px(24)
     c.rows(spec.get("items", [])[:6], y, size=44, gap=1.55)
-    c.url_stamp(spec.get("url", "GOGETTR.CO"))
+    c.footer(spec.get("handle", HANDLE), "SAVE →")
     return c.img
 
 def pin_rule(fmt, spec):
@@ -133,7 +129,7 @@ def pin_rule(fmt, spec):
     y = c.eyebrow(spec.get("keyword", "GOGETTR"), color=b.WHITE)
     y = int(c.h * 0.30)
     y = c.hook(spec["hook"], y, max_size=104, max_lines=5, color=b.WHITE)
-    c.url_stamp(spec.get("url", "GOGETTR.CO"))
+    c.footer(spec.get("handle", HANDLE), "SAVE →")
     return c.img
 
 def vert_hook(fmt, spec):
@@ -169,7 +165,7 @@ def vert_end(fmt, spec):
     y = (c.top_safe + c.bot_safe) / 2 - c.px(230)
     c.chevron(int(c.w / 2 - c.px(84)), int(y), 150)
     y += c.px(250)
-    txt = spec.get("cta_hook", "Follow for one system a day.")
+    txt = spec.get("cta_hook", "Follow for more.")
     f, sz, tr, lines = b.fit_hook(c.d, txt, c.w - 2 * c.mx, c.px(92), c.px(48), max_lines=3)
     for ln in lines:
         b.draw_tracked(c.d, (c.w / 2, y), ln, f, c.fg, tracking=tr, anchor="ma")
@@ -209,7 +205,7 @@ def wide_stat(fmt, spec):
     for ln in lines:
         b.draw_tracked(c.d, (lx, yy), ln, f, c.fg, tracking=tr); yy += sz * 1.06
     fh = b.font("mono", c.px(28), 600)
-    b.draw_tracked(c.d, (c.w - c.mx, c.h - c.my), (HANDLE + "  ·  GOGETTR.CO").upper(),
+    b.draw_tracked(c.d, (c.w - c.mx, c.h - c.my), HANDLE.upper(),
                    fh, c.muted, tracking=c.px(28) * 0.16, anchor="ra")
     c.chevron(c.mx, c.h - c.my - c.px(4), 28)
     return c.img

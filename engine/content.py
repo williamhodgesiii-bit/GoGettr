@@ -28,7 +28,7 @@ HASHTAGS = {
 # accent + kind are hints; build.py rotates styles deterministically for grid variety.
 THEMES = [
  # ---- WEEK 1 — the machine over the mood -----------------------------------
- dict(id="T01", pillar="SYSTEM DESIGN", series="OPERATING SYSTEM № 01",
+ dict(id="T01", pillar="SYSTEM DESIGN", series="SYSTEM DESIGN",
    hook="You do not need more motivation. You need fewer decisions.",
    sub="Willpower is a tax you pay every morning. A system pays it once.",
    beats=["Same wake window, every day.", "Automatic transfers on payday.",

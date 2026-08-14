@@ -1,10 +1,10 @@
 POST ID   : GG-261009-LI
 PLATFORM  : LinkedIn
 PUBLISH   : 2026-10-09 08:00 ET  (Fri)
-FORMAT    : Document carousel · 7 slides (1080x1080) + link card
+FORMAT    : Single image (1080x1080)
 PILLAR    : MINI CHALLENGES   (theme T54 · The 5-Night Tomorrow-Note)
 PRIMARY   : 01_cover.png
-ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png, link_card.png
+ASSETS    : 01_cover.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -21,7 +21,5 @@ For five nights, leave one sentence telling tomorrow where to start.
 • Make morning inherit clarity.
 
 Systems beat motivation because they only ask you to decide once.
-
-Operating systems for ambitious people — new one every morning.
 
 #gogettr #buildthemachine #selfimprovement #discipline

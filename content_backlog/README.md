@@ -18,10 +18,9 @@ content_backlog/
 │   ├── youtube.csv    tiktok.csv    pinterest.csv
 ├── instagram/  facebook/  x/  linkedin/  youtube/  tiktok/  pinterest/
 │   └── <POST_ID>/
-│        ├── 01_cover.png, 02_beat.png … 07_close.png   (carousels)
-│        ├── video.mp4  + frames/                        (TikTok / Shorts / IG Reels)
-│        ├── 01_card.png / 01_pin.png / image.png        (single-asset posts)
-│        ├── link_card.png                               (LinkedIn)
+│        ├── 01_cover.png, 02_beat.png … 07_close.png   (Instagram carousels)
+│        ├── video.mp4                                    (TikTok / Shorts / IG Reels)
+│        ├── 01_card.png / 01_pin.png / 01_cover.png      (X / Pinterest / FB / LinkedIn single image)
 │        └── caption.txt   ← ID, publish time, format, and the caption to paste
 ```
 
@@ -49,8 +48,8 @@ folder for the media.
   audio > embedded music for reach). Text is already burned in.
 - **X / Twitter** — attach `01_card.png`; the caption is written as a short thread
   (post line 1, then the numbered steps as replies).
-- **LinkedIn** — upload the 7 square slides as a **document/PDF carousel** (or
-  post `link_card.png` with the caption for a link-style post).
+- **LinkedIn** — one square image + the caption. The steps live in the caption
+  (bulleted), which is where LinkedIn readers engage. Simple on purpose.
 - **Pinterest** — upload `01_pin.png`, paste the title (first line of caption) +
   description, set the destination link to your URL.
 - **YouTube Shorts** — upload `video.mp4`, paste the title line + description.

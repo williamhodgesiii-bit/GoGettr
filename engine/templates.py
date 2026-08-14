@@ -238,7 +238,7 @@ class Canvas:
                            f, self.accent_rgb if self.dark else b.VIOLET,
                            tracking=self.px(28) * 0.16, anchor="ra")
 
-    def url_stamp(self, text="GOGETTR.CO", y=None):
+    def url_stamp(self, text="GOGETTR", y=None):  # (unused; kept for optional URL pill)
         y = (self.h - self.my) if y is None else y
         f = b.font("mono", self.px(30), 700)
         pill_w = b.tracked_width(f, text.upper(), self.px(30)*0.16) + self.px(56)

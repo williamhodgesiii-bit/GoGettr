@@ -2,7 +2,7 @@ POST ID   : GG-260817-X
 PLATFORM  : X / Twitter
 PUBLISH   : 2026-08-17 09:00 ET  (Mon)
 FORMAT    : Text + image card (1600x900)
-PILLAR    : SYSTEM DESIGN   (theme T01 · Operating System № 01)
+PILLAR    : SYSTEM DESIGN   (theme T01 · System Design)
 PRIMARY   : 01_card.png
 ASSETS    : 01_card.png
 

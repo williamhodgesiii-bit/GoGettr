@@ -2,7 +2,7 @@ POST ID   : GG-260817-YT
 PLATFORM  : YouTube Shorts
 PUBLISH   : 2026-08-17 15:00 ET  (Mon)
 FORMAT    : Shorts · vertical MP4 (1080x1920)
-PILLAR    : SYSTEM DESIGN   (theme T01 · Operating System № 01)
+PILLAR    : SYSTEM DESIGN   (theme T01 · System Design)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
 TITLE     : You do not need more motivation. You need fewer decisions. #shorts
@@ -21,6 +21,6 @@ Willpower is a tax you pay every morning. A system pays it once.
 → Tomorrow planned before today ends.
 → Remove the daily negotiation.
 
-New system every morning. gogettr.co
+Follow @gogettrdaily for more.
 
 #gogettr #buildthemachine #selfimprovement #discipline #shorts #gogettr

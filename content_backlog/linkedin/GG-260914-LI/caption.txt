@@ -1,10 +1,10 @@
 POST ID   : GG-260914-LI
 PLATFORM  : LinkedIn
 PUBLISH   : 2026-09-14 08:00 ET  (Mon)
-FORMAT    : Document carousel · 7 slides (1080x1080) + link card
+FORMAT    : Single image (1080x1080)
 PILLAR    : BORING EDGE   (theme T29 · Boring Edge)
 PRIMARY   : 01_cover.png
-ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png, link_card.png
+ASSETS    : 01_cover.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -21,7 +21,5 @@ What successful people make boring.
 • Make the right move unsurprising.
 
 Systems beat motivation because they only ask you to decide once.
-
-Operating systems for ambitious people — new one every morning.
 
 #gogettr #buildthemachine #selfimprovement #discipline

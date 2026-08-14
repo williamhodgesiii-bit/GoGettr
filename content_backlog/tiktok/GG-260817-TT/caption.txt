@@ -2,7 +2,7 @@ POST ID   : GG-260817-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-08-17 19:00 ET  (Mon)
 FORMAT    : Vertical MP4 slideshow (1080x1920)
-PILLAR    : SYSTEM DESIGN   (theme T01 · Operating System № 01)
+PILLAR    : SYSTEM DESIGN   (theme T01 · System Design)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
 

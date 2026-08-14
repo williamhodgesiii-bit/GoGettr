@@ -2,7 +2,7 @@ POST ID   : GG-260817-PIN
 PLATFORM  : Pinterest
 PUBLISH   : 2026-08-17 20:00 ET  (Mon)
 FORMAT    : Pin 1000x1500
-PILLAR    : SYSTEM DESIGN   (theme T01 · Operating System № 01)
+PILLAR    : SYSTEM DESIGN   (theme T01 · System Design)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
 TITLE     : Systems That Beat Willpower
@@ -11,6 +11,6 @@ TITLE     : Systems That Beat Willpower
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Systems That Beat Willpower — a simple GoGettr system. You do not need more motivation. You need fewer decisions. Willpower is a tax you pay every morning. A system pays it once. Save this pin for the next time you need it. More systems for money, training and recovery at gogettr.co.
+Systems That Beat Willpower. You do not need more motivation. You need fewer decisions. Willpower is a tax you pay every morning. A system pays it once. Save this pin for the next time you need it. Follow @gogettrdaily for more.
 
 #gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #systemsthinking

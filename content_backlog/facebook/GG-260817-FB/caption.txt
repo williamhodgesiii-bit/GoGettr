@@ -2,7 +2,7 @@ POST ID   : GG-260817-FB
 PLATFORM  : Facebook
 PUBLISH   : 2026-08-17 09:00 ET  (Mon)
 FORMAT    : Single image (1080x1350)
-PILLAR    : SYSTEM DESIGN   (theme T01 · Operating System № 01)
+PILLAR    : SYSTEM DESIGN   (theme T01 · System Design)
 PRIMARY   : 01_cover.png
 ASSETS    : 01_cover.png
 

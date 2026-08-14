@@ -23,7 +23,7 @@ different asset, different caption, same spine.
 | **Facebook** (linked) | Single light "chrome" card 1080×1350 + conversational caption | Distinct lighter look for FB's audience; question-led captions drive comments. |
 | **TikTok** | Vertical MP4 slideshow 1080×1920 (4 beats, ~11s) | Cold-open hook in <1.5s, one idea per frame, text-on-screen (68% watch muted), built for *add trending sound*. |
 | **X / Twitter** | Text thread + 1600×900 card | Text leads engagement on X (~3.56%); the card carries the hook, the thread carries the system. |
-| **LinkedIn** | Document carousel 1080×1080 (7 slides) + link card | Document/PDF carousels are the top LinkedIn format (median ~21.8% eng, ~196% > video). Calmer register, no slang. |
+| **LinkedIn** | Single image 1080×1080 + a value-packed caption | Kept deliberately simple — the steps live in the caption (where LinkedIn readers actually engage). Calmer register, no slang. |
 | **Pinterest** | 2:3 Pin 1000×1500, keyword eyebrow, URL stamped | 2:3 pins get ~31% more saves; Pinterest is search — every pin is keyworded and URL-stamped. |
 | **YouTube Shorts** | Vertical MP4 1080×1920 | Hook first, **logo/CTA at the END** (moving branding off the first 3s lifts retention 15–30%). |
 
@@ -55,7 +55,7 @@ in the schedule CSV and can be shifted in one place (`engine/build.py`).
   with a save/comment/follow. Videos are 4 frames that build to the CTA so people
   watch to the end.
 - **One idea per frame.** Big type, one thought, high contrast.
-- **Recognisable shell.** Fixed eyebrow/index system (`SYSTEM № 03 · 1/5`) so a
+- **Recognisable shell.** Fixed eyebrow + `1/5` slide index so a
   carousel and its Reel read as the same drop and a series is recognised before
   it's read.
 - **Grid rhythm.** Cover styles rotate (hook / list / stat / plate / violet quote)

@@ -56,7 +56,8 @@ def make_video(post, folder):
     r = subprocess.run(cmd, cwd=frames_dir, capture_output=True, text=True)
     if r.returncode != 0:
         raise RuntimeError("ffmpeg failed for %s: %s" % (post["post_id"], r.stderr[-400:]))
-    return "video.mp4", [f"frames/{x}" for x in fnames]
+    shutil.rmtree(frames_dir, ignore_errors=True)   # keep only the finished mp4
+    return "video.mp4", []
 
 def write_caption(post, folder, assets, primary):
     lines = [
@@ -76,7 +77,13 @@ def write_caption(post, folder, assets, primary):
 
 def main():
     if os.path.isdir(OUT):
-        shutil.rmtree(OUT)
+        for name in os.listdir(OUT):        # wipe generated content, keep README.md
+            if name == "README.md":
+                continue
+            p = os.path.join(OUT, name)
+            shutil.rmtree(p) if os.path.isdir(p) else os.remove(p)
+    else:
+        os.makedirs(OUT, exist_ok=True)
     posts = build_all()
     rows = []
     per_plat = {}

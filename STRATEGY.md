@@ -61,8 +61,9 @@ in the schedule CSV and can be shifted in one place (`engine/build.py`).
 - **No slide repeats another.** A carousel is a cover, one card per beat, an
   optional recap and a close — and **every one of them is a different layout**:
   a step numeral, a plate band, a centred line, a highlighted phrase, a step
-  rail, a quote card. Carousels run 7 or 8 slides and the recipe rotates daily,
-  so two days in a row never swipe the same.
+  rail, a quote card. Carousels run 7 or 8 slides and the recipe rotates daily.
+  No outlet serves the same layout two days running — the audit fails the
+  build if it does.
 - **Grid rhythm.** Cover templates follow the board's nine-post rotation and
   Reels are planned as grid tiles too, so the profile reads as texture: never
   two light grounds side by side, and violet held to about one tile per row of
@@ -91,7 +92,7 @@ they never exceed what a platform rewards in 2025–26:
   covers (spectrum hook, list cover, inset photo, stat, violet quote), the four
   TikTok/Reels frames (cold-open, day counter, B-roll plate, list tease), the
   four Pinterest pins (list, printable, photo-top, rule) and the LinkedIn set —
-  plus carousel interiors and X cards in the same language. **42 distinct
+  plus carousel interiors and X cards in the same language. **43 distinct
   templates** are in rotation, and they differ by *structure* — where the content
   region sits, how the artboard is split, which components carry it — not by
   colour swap.
@@ -110,10 +111,21 @@ stack is too tall, type steps down and optional lines drop out until it fits —
 so a volt bar, a hairline or a footer can never land on a descender, and text
 can never run off the artboard.
 
-`python -m engine.audit` proves it: it re-renders all **1,057 slides** and fails
-on any slide that is out of format, crosses a margin or the video UI-safe band,
-overlaps another element, sets type below the legibility floor, repeats a layout
-inside one post, or breaks the grid rotation. The backlog ships at zero issues.
+`python -m engine.audit` proves it. It re-renders all **1,060 slides** and fails on:
+
+- a slide out of format, crossing a margin, or entering the video UI-safe band;
+- any two foreground elements overlapping;
+- type below the legibility floor, **or squeezed well under the size its
+  template asks for** — copy that has to be shrunk to fit is a template
+  mismatch, not a layout that "just fits";
+- volt reading as a wash rather than one accent element (measured off the
+  rendered pixels), unless the template fields volt by design;
+- a post that isn't built to be swiped — no forward cue on the cover, no CTA
+  card at the close, or a video that doesn't end on the mark;
+- a layout repeated inside one post, **an outlet serving the same layout two
+  days running**, or a break in the grid rotation.
+
+The backlog ships at zero issues on every one of those.
 
 ## Sources (research)
 - Socialinsider / Buffer — 2025–26 format benchmarks (carousels vs Reels; 45M-post format study).

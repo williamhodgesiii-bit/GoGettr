@@ -337,7 +337,7 @@ def v_coldopen(fmt, spec):
     region = c.region(top=c.top_safe + c.px(40), reserve_footer=False,
                       bottom=c.bot_safe - c.px(120))
     Stack(Spectrum(),
-          _hook(c, spec, size=124, max_lines=4, gap=48),
+          _hook(c, spec, size=124, max_lines=5, gap=48),
           _sub(c, spec, gap=34),
           align="center").render(c, region)
     c.vert_handle()
@@ -553,7 +553,7 @@ def li_note(fmt, spec):
     """A LinkedIn note card — the system in hairline rows."""
     c = Canvas("square", ground=spec.get("ground", "graphite"), accent="volt")
     region = c.region(top=_head(c, spec, eb_color=b.VOLT, pad=50))
-    Stack(_hook(c, spec, size=70, max_lines=2, accent=False),
+    Stack(_hook(c, spec, size=64, max_lines=3, accent=False),
           Rows(spec.get("items", [])[:4], mode="hairline", size=38, gap=50,
                row_gap=42, text_color=c.fg, max_lines=2),
           align="top").render(c, region)
@@ -618,6 +618,7 @@ def x_split(fmt, spec):
     c.record(Box(0, 0, pw, c.h, "panel"))
     ptext = b.WHITE if panel == "violet" else b.INK
     c.safe_x0 = c.px(64)                       # the panel is its own column
+    c.volt_field = c.volt_field or panel == "volt"
     pregion = Box(c.px(64), c.my, pw - c.px(56), c.h - c.my)
     Stack(Text(spec.get("eyebrow", "GOGETTR"), family="mono", size=26, weight=700,
                max_lines=2, color=ptext, upper=True),

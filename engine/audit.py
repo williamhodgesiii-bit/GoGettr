@@ -8,9 +8,16 @@ Every slide of every post is rendered and checked for:
     on type, which is what the layout engine exists to prevent;
   · everything inside the margins and, on vertical video, inside the UI-safe
     band where the caption and action rail live;
-  · type never set below the legibility floor;
-  · template diversity — no post repeats a layout, and the Instagram grid
-    keeps the board's rotation (no two light grounds side by side).
+  · type above the legibility floor *and* set near the size its template asks
+    for — copy that has to be squeezed to fit is a template mismatch, not a
+    layout that "just fits";
+  · volt read as one accent element, not a wash (unless the template fields
+    volt by design, like the day counter);
+  · the shape that earns a swipe — a forward cue on the cover, a CTA card at
+    the close, and the mark at the END of every video;
+  · template diversity — no post repeats a layout, no outlet repeats itself two
+    days running, and the Instagram grid keeps the board's rotation (never two
+    light grounds side by side, violet ≈ one per row of three).
 
 Run:  python -m engine.audit            (full)
       python -m engine.audit --sample 40
@@ -28,6 +35,14 @@ BACKGROUND = {"plate", "band", "panel", "region", "footer_band"}
 TOL = 2.0                      # px of anti-aliasing slack
 SIDE_TOL = 12.0                # optical overhang allowed on the side edges
 MIN_TYPE = 24                  # px on a 1080 artboard
+MIN_FILL = 0.05                # sanity floor: an all-but-empty card is a bug
+MIN_SET = 0.72                 # type must land near the size the template asks for
+MAX_VOLT = 0.10                # volt is an accent element, never a wash
+
+# the cues that make a post worth swiping: a forward promise on the cover,
+# an ask on the close, the mark at the END of a video (the retention rule)
+FORWARD_CUES = ("SWIPE", "SAVE THIS", "READ MORE", "READ")
+CLOSE_STYLES = {"close_follow", "close_volt", "close_violet"}
 
 
 def _expected(fmt):
@@ -38,6 +53,7 @@ def check_slide(fmt, style, spec):
     """Render one slide and return a list of problem strings."""
     img = S.STYLES[style](fmt, dict(spec))
     c = img.canvas                 # the element registry the canvas built up
+    check_slide.last = c
     problems = []
 
     # 1 — aspect ratio / exact size
@@ -66,11 +82,102 @@ def check_slide(fmt, style, spec):
                                 f"({a} / {other})")
 
     # 4 — legibility floor
-    for size, family in c.type_sizes:
+    for size, family, asked in c.type_sizes:
         if size / c.s < MIN_TYPE:
             problems.append(f"{family} type set at {size / c.s:.0f}px (floor {MIN_TYPE})")
+        elif asked and size < asked * MIN_SET:
+            problems.append(f"{family} type squeezed to {size / asked:.0%} of spec "
+                            f"({size / c.s:.0f}px of {asked / c.s:.0f}px) — copy is "
+                            f"too long for this template")
+
+    # 5 — the card has to be *set*, not floated in a sea of ground
+    fill = _fill_ratio(c, fg)
+    if fill is not None and fill < MIN_FILL:
+        problems.append(f"content fills only {fill:.0%} of the card — near-empty")
+
+    # 6 — volt is a highlighter, not a background: one element, not a wash
+    share = volt_share(img)
+    if c.volt_field:
+        if share < 0.20:
+            problems.append(f"{style} fields volt by design but volt covers "
+                            f"only {share:.0%}")
+    elif share > MAX_VOLT:
+        problems.append(f"volt covers {share:.1%} of the card (cap {MAX_VOLT:.0%}) "
+                        f"— it should read as one accent element")
 
     return problems
+
+
+def _fill_ratio(c, fg):
+    """How much of the usable card the content actually occupies."""
+    body = [x for x in fg if x.name not in ("label", "badge")]
+    if not body:
+        return None
+    top = c.top_safe
+    bottom = c._footer_top if c._footer_top else c.bot_safe
+    available = bottom - top
+    if available <= 0:
+        return None
+    used = max(x.y1 for x in body) - min(x.y0 for x in body)
+    return used / available
+
+
+def volt_share(img):
+    """Fraction of the card within a short reach of volt."""
+    small = img.resize((108, int(108 * img.height / img.width)))
+    hits = 0
+    px = small.load()
+    w, h = small.size
+    for y in range(h):
+        for x in range(w):
+            r, g, bl = px[x, y][:3]
+            if abs(r - b.VOLT[0]) < 40 and abs(g - b.VOLT[1]) < 40 and abs(bl - b.VOLT[2]) < 50:
+                hits += 1
+    return hits / float(w * h)
+
+
+def check_shape(post, styles, cues):
+    """Is this post built to be swiped? Opener promises, close asks, and on a
+    video the mark lands at the END (the retention rule)."""
+    out = []
+    pid = post["post_id"]
+    if post["is_video"]:
+        if styles[-1] != "v_end":
+            out.append(f"{pid}: video does not close on the end card ({styles[-1]})")
+        if styles[0] == "v_end":
+            out.append(f"{pid}: video opens on the end card")
+        if len(styles) < 4:
+            out.append(f"{pid}: video is only {len(styles)} frames")
+    elif len(styles) > 1:                       # a carousel
+        if not styles[0].startswith("ig_"):
+            out.append(f"{pid}: carousel opens on {styles[0]}, not a cover")
+        if styles[-1] not in CLOSE_STYLES:
+            out.append(f"{pid}: carousel does not close on a CTA card ({styles[-1]})")
+        if not 6 <= len(styles) <= 9:
+            out.append(f"{pid}: carousel is {len(styles)} slides")
+        if not any(any(cue.startswith(f) for f in FORWARD_CUES) for cue in cues):
+            out.append(f"{pid}: cover carries no forward cue (got {cues})")
+    return out
+
+
+def check_cadence(posts):
+    """Day to day, an outlet must not serve the same layout twice running."""
+    out = []
+    by_plat = defaultdict(list)
+    for p in posts:
+        by_plat[p["platform"]].append(p)
+    for plat, plist in sorted(by_plat.items()):
+        plist.sort(key=lambda p: p["date"])
+        for n in range(len(plist) - 1):
+            a = [s for s, _ in plist[n]["slides"]]
+            c = [s for s, _ in plist[n + 1]["slides"]]
+            if a == c:
+                out.append(f"{plat}: {plist[n]['date']} and {plist[n + 1]['date']} "
+                           f"use the identical layout set {a}")
+            elif a[0] == c[0]:
+                out.append(f"{plat}: {plist[n]['date']} and {plist[n + 1]['date']} "
+                           f"both open on {a[0]}")
+    return out
 
 
 def main(argv):
@@ -97,10 +204,17 @@ def main(argv):
         if dupes:
             issues.append(f"{post['post_id']}: repeats template(s) {dupes}")
 
+        cues = []
         for k, (style, spec) in enumerate(post["slides"], 1):
             for p in check_slide(fmt, style, spec):
                 issues.append(f"{post['post_id']} slide {k} [{style}] {p}")
+            if k == 1:
+                cues = list(check_slide.last.cues)
             slides_checked += 1
+
+        # a post has to earn the next tap: a forward promise on the opener,
+        # an ask at the close, the mark at the END of a video
+        issues += check_shape(post, styles, cues)
         if n % 40 == 0:
             print(f"  ...{n}/{len(posts)} posts, {slides_checked} slides")
 
@@ -125,7 +239,11 @@ def main(argv):
         if missing:
             issues.append(f"grid: rotation slots never used: {sorted(missing)}")
 
-    # 6 — every outlet must be running a real spread of templates
+    # 6 — day to day, no outlet may repeat itself
+    if not sample:
+        issues += check_cadence(posts)
+
+    # 7 — every outlet must be running a real spread of templates
     if not sample:
         for plat, tset in sorted(per_platform_templates.items()):
             if len(tset) < 4:

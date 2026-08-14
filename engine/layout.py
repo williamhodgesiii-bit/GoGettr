@@ -151,7 +151,7 @@ class Text(Block):
         if not self.text:
             return Box(x, y, x, y)
         f, size, tr, lines, lead, ink_top, ink_bot, h = self._fit(c, width, k)
-        c.type_sizes.append((size, self.family))
+        c.type_sizes.append((size, self.family, c.px(self.size)))
         col = self.color if self.color is not None else c.fg
         acol = self.accent_color if self.accent_color is not None else c.accent_rgb
         box = None

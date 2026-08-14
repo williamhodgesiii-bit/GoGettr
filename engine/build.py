@@ -118,6 +118,54 @@ def _cover_style(t, name):
     return name
 
 
+_PLANS = {}
+
+
+def rotation_plan(name, rotation, resolve=None):
+    """Walk a rotation across the 56 themes, skipping any slot that would serve
+    the same layout two days running.
+
+    Without this, a fallback silently collapses the rotation: a stat template
+    on a day with no number falls back to its neighbour in the cycle, and the
+    outlet quietly posts the same card twice in a row.
+    """
+    if name in _PLANS:
+        return _PLANS[name]
+    plan, prev, rot = {}, None, 0
+    for t in C.THEMES:
+        cand = None
+        for _ in range(len(rotation)):
+            cand = rotation[rot % len(rotation)]
+            rot += 1
+            if resolve:
+                cand = resolve(t, cand)
+            if cand != prev:
+                break
+        plan[idxof(t)] = cand
+        prev = cand
+    _PLANS[name] = plan
+    return plan
+
+
+def video_plan(platform):
+    """Same idea for video: no two days running may open on the same frame."""
+    key = f"video:{platform}"
+    if key in _PLANS:
+        return _PLANS[key]
+    plan, prev, rot = {}, None, VIDEO_OFFSET.get(platform, 0)
+    for t in C.THEMES:
+        idx = rot % len(VIDEO_RECIPES)
+        for _ in range(len(VIDEO_RECIPES)):
+            idx = rot % len(VIDEO_RECIPES)
+            rot += 1
+            if VIDEO_RECIPES[idx][0] != prev:
+                break
+        plan[idxof(t)] = idx
+        prev = VIDEO_RECIPES[idx][0]
+    _PLANS[key] = plan
+    return plan
+
+
 _IG_PLAN = None
 
 
@@ -137,7 +185,11 @@ def ig_plan():
     prev = prev2 = None
     rot = rrot = 0
 
-    def allowed(g):
+    prev_style = None
+
+    def allowed(g, style):
+        if style == prev_style:              # never the same tile twice running
+            return False
         if g == "light" and prev == "light":
             return False
         if g == "violet" and (prev == "violet" or prev2 == "violet"):
@@ -150,19 +202,21 @@ def ig_plan():
             for _ in range(len(IG_REEL_RECIPES)):
                 idx = rrot % len(IG_REEL_RECIPES)
                 rrot += 1
-                ground = TEMPLATE_GROUND.get(IG_REEL_RECIPES[idx][0], "dark")
-                if allowed(ground):
+                style = IG_REEL_RECIPES[idx][0]
+                ground = TEMPLATE_GROUND.get(style, "dark")
+                if allowed(ground, style):
                     break
             reels[i] = idx
         else:
             for _ in range(len(IG_ROTATION)):
-                name = _cover_style(t, IG_ROTATION[rot % len(IG_ROTATION)])
+                style = _cover_style(t, IG_ROTATION[rot % len(IG_ROTATION)])
                 rot += 1
-                ground = TEMPLATE_GROUND.get(name, "dark")
-                if allowed(ground):
+                ground = TEMPLATE_GROUND.get(style, "dark")
+                if allowed(ground, style):
                     break
-            covers[i] = name
+            covers[i] = style
         prev2, prev = prev, ground
+        prev_style = style
     _IG_PLAN = (covers, reels)
     return _IG_PLAN
 
@@ -213,7 +267,7 @@ def video_frames(t, i, platform):
         idx = ig_plan()[1].get(i)
         recipe = IG_REEL_RECIPES[idx if idx is not None else (i - 1) % len(IG_REEL_RECIPES)]
     else:
-        recipe = VIDEO_RECIPES[(i - 1 + VIDEO_OFFSET.get(platform, 0)) % len(VIDEO_RECIPES)]
+        recipe = VIDEO_RECIPES[video_plan(platform)[i]]
     if t.get("numeral") and "v_step" in recipe:
         recipe = [("v_stat" if s == "v_step" else s) for s in recipe]
     beats = list(t["beats"])
@@ -386,14 +440,15 @@ def build_all():
                                   format=f"Carousel · {len(slides)} slides (1080x1350)",
                                   slides=slides, caption=cap_instagram(t))
             elif pkey == "facebook":
-                style = FB_ROTATION[(i - 1) % len(FB_ROTATION)]
+                style = rotation_plan("fb", FB_ROTATION)[i]
                 spec = _base(t, treatment=_tex(i, 2), mood=_mood(i, 2))
                 common.update(fmt="ig", is_video=False, format="Single image (1080x1350)",
                               slides=[(style, spec)], caption=cap_facebook(t))
             elif pkey == "x":
-                style = X_ROTATION[(i - 1) % len(X_ROTATION)]
-                if style == "x_stat" and not t.get("numeral"):
-                    style = "x_headline"
+                style = rotation_plan(
+                    "x", X_ROTATION,
+                    lambda th, c: "x_headline" if c == "x_stat"
+                    and not th.get("numeral") else c)[i]
                 spec = _base(t, treatment=_tex(i, 4), mood=_mood(i, 4),
                              panel="violet" if i % 2 else "volt",
                              panel_line=t["quote"])
@@ -401,9 +456,10 @@ def build_all():
                               format="Text + image card (1600x900)",
                               slides=[(style, spec)], caption=cap_x(t))
             elif pkey == "linkedin":
-                style = LI_ROTATION[(i - 1) % len(LI_ROTATION)]
-                if style == "li_stat" and not t.get("numeral"):
-                    style = "li_note"
+                style = rotation_plan(
+                    "li", LI_ROTATION,
+                    lambda th, c: "li_note" if c == "li_stat"
+                    and not th.get("numeral") else c)[i]
                 spec = _base(t, eyebrow=f"GOGETTR · {t['pillar'].title()}",
                              footer_right="READ →" if style == "li_carousel" else None)
                 common.update(fmt="square", is_video=False,
@@ -423,7 +479,7 @@ def build_all():
                               slides=slides, durations=video_durations(len(slides)),
                               caption=cap_tiktok(t))
             elif pkey == "pinterest":
-                style = PIN_ROTATION[(i - 1) % len(PIN_ROTATION)]
+                style = rotation_plan("pin", PIN_ROTATION)[i]
                 board = board_for(t)
                 spec = _base(t, board=board, treatment=_tex(i, 5), mood=_mood(i, 5),
                              kicker="CHECKLIST", plate_ratio=0.40 + (i % 3) * 0.03)

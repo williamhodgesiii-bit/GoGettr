@@ -226,6 +226,8 @@ class Canvas:
 
         self._footer_top = None
         self.type_sizes = []
+        self.cues = []                       # forward promises drawn in the footer
+        self.volt_field = (ground == "volt")  # volt as ground/panel, by design
         # the safe edges the audit holds elements to; a template that lays out
         # in its own column (a colour panel) may widen them
         self.safe_x0, self.safe_x1 = self.mx, self.w - self.mx
@@ -350,6 +352,7 @@ class Canvas:
                                     color=left_color if left_color is not None
                                     else (self.muted if not self.light else b.INK_FAINT)))
         if right:
+            self.cues.append(b.normalise(right).upper())
             boxes.append(self.label(right, self.w - self.mx, y, size=size, anchor="rm",
                                     color=right_color if right_color is not None
                                     else (b.VOLT if not self.light else b.VIOLET)))

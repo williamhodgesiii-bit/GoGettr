@@ -44,7 +44,7 @@ into Metricool / Later / Buffer / Publer. Columns map cleanly: `date`, `time`
 folder for the media.
 
 ## Per-platform notes
-- **Instagram** — carousels: upload `01…07` in order. Reels (every 3rd day):
+- **Instagram** — carousels (7–8 slides): upload `01…08` in order. Reels (every 3rd day):
   upload `video.mp4`, add a trending audio in-app. IG is the main page; mirror to
   Facebook or use the FB-specific card in `facebook/`.
 - **Facebook** — one image + a comment-friendly caption. Lighter look on purpose.
@@ -88,4 +88,7 @@ The whole backlog regenerates from `engine/` (`python -m engine.render`):
 
 After any change run `python -m engine.audit` — it re-renders every slide and
 fails if anything is out of format, crosses a margin, overlaps, sets type below
-the legibility floor, or breaks the grid rotation. `--sample 40` for a quick pass.
+the legibility floor or squeezed under its template's size, lets volt read as a
+wash, drops the swipe cues, repeats a layout inside a post, serves the same
+layout two days running, or breaks the grid rotation. `--sample 40` for a quick
+pass.

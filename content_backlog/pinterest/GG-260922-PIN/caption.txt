@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : PURCHASE LAB   (theme T37 · The Would-I-Still-Want-This Rule)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Money & Personal Finance   <- pin to this Pinterest board
 TITLE     : Questions Before You Buy
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 Questions Before You Buy. One question removes half your impulse buys. Strip the hype and ask again. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #personalfinance

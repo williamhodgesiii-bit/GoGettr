@@ -17,6 +17,7 @@ content_backlog/
 │   ├── instagram.csv  facebook.csv  x.csv  linkedin.csv
 │   ├── youtube.csv    tiktok.csv    pinterest.csv
 ├── instagram/  facebook/  x/  linkedin/  youtube/  tiktok/  pinterest/
+│   └── pinterest/by_board/    ← pins split by board + _BOARDS.txt (create these boards)
 │   └── <POST_ID>/
 │        ├── 01_cover.png, 02_beat.png … 07_close.png   (Instagram carousels)
 │        ├── video.mp4                                    (TikTok / Shorts / IG Reels)
@@ -50,9 +51,19 @@ folder for the media.
   (post line 1, then the numbered steps as replies).
 - **LinkedIn** — one square image + the caption. The steps live in the caption
   (bulleted), which is where LinkedIn readers engage. Simple on purpose.
-- **Pinterest** — upload `01_pin.png`, paste the title (first line of caption) +
-  description, set the destination link to your URL.
+- **Pinterest** — **organised by board.** Create the 7 boards listed in
+  `pinterest/by_board/_BOARDS.txt`, then upload each pin to the board named in its
+  `caption.txt` (`BOARD:` line) — or work board-by-board from the
+  `pinterest/by_board/*.csv` files. Paste the title (first caption line) +
+  description. Pinterest ranks on keywords, so the titles/descriptions are
+  keyword-led and carry **no hashtags** (Pinterest no longer recommends them).
 - **YouTube Shorts** — upload `video.mp4`, paste the title line + description.
+
+## Hashtags (already capped to each platform's 2025/26 limit)
+Broad, high-traffic tags only — and never more than a platform rewards:
+**Instagram 5** (hard cap since Dec 2025), **TikTok 5** (incl. #fyp),
+**YouTube Shorts 5** (incl. #shorts), **LinkedIn 3**, **X 2**, **Facebook 2**,
+**Pinterest 0** (keywords + boards instead). They're baked into each caption.
 
 ## About the videos
 Per the Vault's *Easy MP4* rule, videos are clean vertical slideshows (hook →

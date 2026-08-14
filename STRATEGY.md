@@ -24,7 +24,7 @@ different asset, different caption, same spine.
 | **TikTok** | Vertical MP4 slideshow 1080×1920 (4 beats, ~11s) | Cold-open hook in <1.5s, one idea per frame, text-on-screen (68% watch muted), built for *add trending sound*. |
 | **X / Twitter** | Text thread + 1600×900 card | Text leads engagement on X (~3.56%); the card carries the hook, the thread carries the system. |
 | **LinkedIn** | Single image 1080×1080 + a value-packed caption | Kept deliberately simple — the steps live in the caption (where LinkedIn readers actually engage). Calmer register, no slang. |
-| **Pinterest** | 2:3 Pin 1000×1500, keyword eyebrow, URL stamped | 2:3 pins get ~31% more saves; Pinterest is search — every pin is keyworded and URL-stamped. |
+| **Pinterest** | 2:3 Pin 1000×1500, keyword eyebrow, sorted into 7 keyword-named boards | 2:3 pins get ~31% more saves; Pinterest is keyword search (not hashtags) — titles/descriptions are keyword-led and each pin is filed to a themed board. |
 | **YouTube Shorts** | Vertical MP4 1080×1920 | Hook first, **logo/CTA at the END** (moving branding off the first 3s lifts retention 15–30%). |
 
 ## Posting times (ET) — the daily "drip"
@@ -61,6 +61,17 @@ in the schedule CSV and can be shifted in one place (`engine/build.py`).
 - **Grid rhythm.** Cover styles rotate (hook / list / stat / plate / violet quote)
   and grounds alternate, so the profile grid reads as texture, never as five
   identical tiles.
+
+## Hashtags — broad reach, within each platform's limit
+Tags are chosen for **broad, high-traffic reach** (e.g. `#selfimprovement`,
+`#money`, `#productivity`, `#discipline`) and led by the post's own topic, and
+they never exceed what a platform rewards in 2025–26:
+
+- **Instagram — 5** (a hard cap since Dec 2025; more get demoted from Explore/Reels)
+- **TikTok — 5** (incl. `#fyp`) · **YouTube Shorts — 5** (incl. `#shorts`)
+- **LinkedIn — 3** · **X — 2** (3+ hashtags measurably drops reach) · **Facebook — 2**
+- **Pinterest — 0.** Pinterest is keyword search, so pins rely on keyword titles,
+  descriptions and board names instead of hashtags.
 
 ## Design system (from the Volt Brand Kit)
 

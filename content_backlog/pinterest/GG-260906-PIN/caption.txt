@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : CAREER SIGNALS   (theme T21 · Skill Stack)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Career Growth & Success   <- pin to this Pinterest board
 TITLE     : Most Valuable Skills To Learn
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 Most Valuable Skills To Learn. You do not need to be elite at one thing if the stack is rare. Build a combination that is hard to ignore. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #careeradvice

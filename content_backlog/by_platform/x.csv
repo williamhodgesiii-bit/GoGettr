@@ -1,5 +1,5 @@
-post_id,date,time,tz,weekday,platform,pillar,theme_id,format,is_video,hook,title,primary_asset,asset_folder,caption
-GG-260817-X,2026-08-17,09:00,ET,Mon,X / Twitter,SYSTEM DESIGN,T01,Text + image card (1600x900),no,You do not need more motivation. You need fewer decisions.,,01_card.png,content_backlog/x/GG-260817-X,"You do not need more motivation. You need fewer decisions.
+post_id,date,time,tz,weekday,platform,pillar,board,theme_id,format,is_video,hook,title,primary_asset,asset_folder,caption
+GG-260817-X,2026-08-17,09:00,ET,Mon,X / Twitter,SYSTEM DESIGN,,T01,Text + image card (1600x900),no,You do not need more motivation. You need fewer decisions.,,01_card.png,content_backlog/x/GG-260817-X,"You do not need more motivation. You need fewer decisions.
 
 1. Same wake window, every day.
 2. Automatic transfers on payday.
@@ -9,8 +9,8 @@ GG-260817-X,2026-08-17,09:00,ET,Mon,X / Twitter,SYSTEM DESIGN,T01,Text + image c
 
 Pick one decision to automate this week.
 
-#gogettr #buildthemachine"
-GG-260818-X,2026-08-18,09:00,ET,Tue,X / Twitter,168 HOURS,T02,Text + image card (1600x900),no,Your 9 to 5 pays today. What does 6 to 10 build?,,01_card.png,content_backlog/x/GG-260818-X,"Your 9 to 5 pays today. What does 6 to 10 build?
+#productivity #selfimprovement"
+GG-260818-X,2026-08-18,09:00,ET,Tue,X / Twitter,168 HOURS,,T02,Text + image card (1600x900),no,Your 9 to 5 pays today. What does 6 to 10 build?,,01_card.png,content_backlog/x/GG-260818-X,"Your 9 to 5 pays today. What does 6 to 10 build?
 
 1. 6-7: come down.
 2. 7-8: train.
@@ -20,8 +20,8 @@ GG-260818-X,2026-08-18,09:00,ET,Tue,X / Twitter,168 HOURS,T02,Text + image card 
 
 Block one 6-10 window tonight.
 
-#gogettr #buildthemachine"
-GG-260819-X,2026-08-19,09:00,ET,Wed,X / Twitter,THE AUDIT,T03,Text + image card (1600x900),no,"If nothing changes for 365 days, are you okay with the result?",,01_card.png,content_backlog/x/GG-260819-X,"If nothing changes for 365 days, are you okay with the result?
+#productivity #selfimprovement"
+GG-260819-X,2026-08-19,09:00,ET,Wed,X / Twitter,THE AUDIT,,T03,Text + image card (1600x900),no,"If nothing changes for 365 days, are you okay with the result?",,01_card.png,content_backlog/x/GG-260819-X,"If nothing changes for 365 days, are you okay with the result?
 
 1. Same income?
 2. Same body?
@@ -31,8 +31,8 @@ GG-260819-X,2026-08-19,09:00,ET,Wed,X / Twitter,THE AUDIT,T03,Text + image card 
 
 Name your lowest answer in the comments.
 
-#gogettr #buildthemachine"
-GG-260820-X,2026-08-20,09:00,ET,Thu,X / Twitter,ESCAPE VELOCITY,T04,Text + image card (1600x900),no,Your first $10K changes the game — and not the way you think.,,01_card.png,content_backlog/x/GG-260820-X,"Your first $10K changes the game — and not the way you think.
+#mindset #selfimprovement"
+GG-260820-X,2026-08-20,09:00,ET,Thu,X / Twitter,ESCAPE VELOCITY,,T04,Text + image card (1600x900),no,Your first $10K changes the game — and not the way you think.,,01_card.png,content_backlog/x/GG-260820-X,"Your first $10K changes the game — and not the way you think.
 
 1. First real breathing room.
 2. First proof you can keep money.
@@ -42,8 +42,8 @@ GG-260820-X,2026-08-20,09:00,ET,Thu,X / Twitter,ESCAPE VELOCITY,T04,Text + image
 
 Set the target. Automate the first transfer.
 
-#gogettr #buildthemachine"
-GG-260821-X,2026-08-21,09:00,ET,Fri,X / Twitter,RECEIPTS,T05,Text + image card (1600x900),no,At some point the handoff never comes. The first move is yours.,,01_card.png,content_backlog/x/GG-260821-X,"At some point the handoff never comes. The first move is yours.
+#money #selfimprovement"
+GG-260821-X,2026-08-21,09:00,ET,Fri,X / Twitter,RECEIPTS,,T05,Text + image card (1600x900),no,At some point the handoff never comes. The first move is yours.,,01_card.png,content_backlog/x/GG-260821-X,"At some point the handoff never comes. The first move is yours.
 
 1. No one builds your savings.
 2. No one protects your calendar.
@@ -53,8 +53,8 @@ GG-260821-X,2026-08-21,09:00,ET,Fri,X / Twitter,RECEIPTS,T05,Text + image card (
 
 Claim one thing no one is coming to fix.
 
-#gogettr #buildthemachine"
-GG-260822-X,2026-08-22,09:00,ET,Sat,X / Twitter,ENVIRONMENT ENGINEERING,T06,Text + image card (1600x900),no,Want Monday to feel less expensive? Pay for it on Sunday.,,01_card.png,content_backlog/x/GG-260822-X,"Want Monday to feel less expensive? Pay for it on Sunday.
+#mindset #selfimprovement"
+GG-260822-X,2026-08-22,09:00,ET,Sat,X / Twitter,ENVIRONMENT ENGINEERING,,T06,Text + image card (1600x900),no,Want Monday to feel less expensive? Pay for it on Sunday.,,01_card.png,content_backlog/x/GG-260822-X,"Want Monday to feel less expensive? Pay for it on Sunday.
 
 1. Read the week's calendar.
 2. Choose three outcomes.
@@ -64,8 +64,8 @@ GG-260822-X,2026-08-22,09:00,ET,Sat,X / Twitter,ENVIRONMENT ENGINEERING,T06,Text
 
 Run this before you sleep tonight.
 
-#gogettr #buildthemachine"
-GG-260823-X,2026-08-23,09:00,ET,Sun,X / Twitter,PURCHASE LAB,T07,Text + image card (1600x900),no,Would you still want it if nobody could ever see it?,,01_card.png,content_backlog/x/GG-260823-X,"Would you still want it if nobody could ever see it?
+#productivity #selfimprovement"
+GG-260823-X,2026-08-23,09:00,ET,Sun,X / Twitter,PURCHASE LAB,,T07,Text + image card (1600x900),no,Would you still want it if nobody could ever see it?,,01_card.png,content_backlog/x/GG-260823-X,"Would you still want it if nobody could ever see it?
 
 1. Remove the audience.
 2. Remove the logo.
@@ -75,8 +75,8 @@ GG-260823-X,2026-08-23,09:00,ET,Sun,X / Twitter,PURCHASE LAB,T07,Text + image ca
 
 Run this before your next checkout.
 
-#gogettr #buildthemachine"
-GG-260824-X,2026-08-24,09:00,ET,Mon,X / Twitter,THE AUDIT,T08,Text + image card (1600x900),no,Your week is leaking. Find the hole before you add another goal.,,01_card.png,content_backlog/x/GG-260824-X,"Your week is leaking. Find the hole before you add another goal.
+#money #selfimprovement"
+GG-260824-X,2026-08-24,09:00,ET,Mon,X / Twitter,THE AUDIT,,T08,Text + image card (1600x900),no,Your week is leaking. Find the hole before you add another goal.,,01_card.png,content_backlog/x/GG-260824-X,"Your week is leaking. Find the hole before you add another goal.
 
 1. Mark every non-work, non-recovery block.
 2. Circle anything you did by default.
@@ -86,8 +86,8 @@ GG-260824-X,2026-08-24,09:00,ET,Mon,X / Twitter,THE AUDIT,T08,Text + image card 
 
 Start the seven-day count today.
 
-#gogettr #buildthemachine"
-GG-260825-X,2026-08-25,09:00,ET,Tue,X / Twitter,MONEY SYSTEMS,T09,Text + image card (1600x900),no,Own these before you own the flex.,,01_card.png,content_backlog/x/GG-260825-X,"Own these before you own the flex.
+#productivity #selfimprovement"
+GG-260825-X,2026-08-25,09:00,ET,Tue,X / Twitter,MONEY SYSTEMS,,T09,Text + image card (1600x900),no,Own these before you own the flex.,,01_card.png,content_backlog/x/GG-260825-X,"Own these before you own the flex.
 
 1. Emergency cash.
 2. Reliable tools for work.
@@ -97,8 +97,8 @@ GG-260825-X,2026-08-25,09:00,ET,Tue,X / Twitter,MONEY SYSTEMS,T09,Text + image c
 
 Check which rung you actually own.
 
-#gogettr #buildthemachine"
-GG-260826-X,2026-08-26,09:00,ET,Wed,X / Twitter,WORK CAPACITY,T10,Text + image card (1600x900),no,How to become hard to replace — without a new title.,,01_card.png,content_backlog/x/GG-260826-X,"How to become hard to replace — without a new title.
+#money #selfimprovement"
+GG-260826-X,2026-08-26,09:00,ET,Wed,X / Twitter,WORK CAPACITY,,T10,Text + image card (1600x900),no,How to become hard to replace — without a new title.,,01_card.png,content_backlog/x/GG-260826-X,"How to become hard to replace — without a new title.
 
 1. Solve before escalation.
 2. Write clearly.
@@ -108,8 +108,8 @@ GG-260826-X,2026-08-26,09:00,ET,Wed,X / Twitter,WORK CAPACITY,T10,Text + image c
 
 Rate yourself 1-5 on each. Fix the lowest.
 
-#gogettr #buildthemachine"
-GG-260827-X,2026-08-27,09:00,ET,Thu,X / Twitter,MONEY SYSTEMS,T11,Text + image card (1600x900),no,You get $100. It must improve next month. Where does it go?,,01_card.png,content_backlog/x/GG-260827-X,"You get $100. It must improve next month. Where does it go?
+#career #selfimprovement"
+GG-260827-X,2026-08-27,09:00,ET,Thu,X / Twitter,MONEY SYSTEMS,,T11,Text + image card (1600x900),no,You get $100. It must improve next month. Where does it go?,,01_card.png,content_backlog/x/GG-260827-X,"You get $100. It must improve next month. Where does it go?
 
 1. Sleep.
 2. Skill.
@@ -119,8 +119,8 @@ GG-260827-X,2026-08-27,09:00,ET,Thu,X / Twitter,MONEY SYSTEMS,T11,Text + image c
 
 Drop your allocation in the comments.
 
-#gogettr #buildthemachine"
-GG-260828-X,2026-08-28,09:00,ET,Fri,X / Twitter,ENVIRONMENT ENGINEERING,T12,Text + image card (1600x900),no,Your phone is either a tool or a slot machine. Which did you build?,,01_card.png,content_backlog/x/GG-260828-X,"Your phone is either a tool or a slot machine. Which did you build?
+#money #selfimprovement"
+GG-260828-X,2026-08-28,09:00,ET,Fri,X / Twitter,ENVIRONMENT ENGINEERING,,T12,Text + image card (1600x900),no,Your phone is either a tool or a slot machine. Which did you build?,,01_card.png,content_backlog/x/GG-260828-X,"Your phone is either a tool or a slot machine. Which did you build?
 
 1. Move feeds off the first screen.
 2. Put calendar and tasks where your thumb lands.
@@ -130,8 +130,8 @@ GG-260828-X,2026-08-28,09:00,ET,Fri,X / Twitter,ENVIRONMENT ENGINEERING,T12,Text
 
 Rebuild your first screen tonight.
 
-#gogettr #buildthemachine"
-GG-260829-X,2026-08-29,09:00,ET,Sat,X / Twitter,RECOVERY PROTOCOL,T13,Text + image card (1600x900),no,"Recovery is a performance metric, not a reward.",,01_card.png,content_backlog/x/GG-260829-X,"Recovery is a performance metric, not a reward.
+#minimalism #selfimprovement"
+GG-260829-X,2026-08-29,09:00,ET,Sat,X / Twitter,RECOVERY PROTOCOL,,T13,Text + image card (1600x900),no,"Recovery is a performance metric, not a reward.",,01_card.png,content_backlog/x/GG-260829-X,"Recovery is a performance metric, not a reward.
 
 1. Same sleep and wake window.
 2. A hard stop on the screen.
@@ -141,8 +141,8 @@ GG-260829-X,2026-08-29,09:00,ET,Sat,X / Twitter,RECOVERY PROTOCOL,T13,Text + ima
 
 Schedule your rest day before the week starts.
 
-#gogettr #buildthemachine"
-GG-260830-X,2026-08-30,09:00,ET,Sun,X / Twitter,SOCIAL CAPITAL,T14,Text + image card (1600x900),no,Good conversation. Now the part almost everyone skips.,,01_card.png,content_backlog/x/GG-260830-X,"Good conversation. Now the part almost everyone skips.
+#health #selfimprovement"
+GG-260830-X,2026-08-30,09:00,ET,Sun,X / Twitter,SOCIAL CAPITAL,,T14,Text + image card (1600x900),no,Good conversation. Now the part almost everyone skips.,,01_card.png,content_backlog/x/GG-260830-X,"Good conversation. Now the part almost everyone skips.
 
 1. Within 24 hours, send one specific line from the talk.
 2. Add the promised link or intro.
@@ -152,8 +152,8 @@ GG-260830-X,2026-08-30,09:00,ET,Sun,X / Twitter,SOCIAL CAPITAL,T14,Text + image 
 
 Send one follow-up you have been sitting on.
 
-#gogettr #buildthemachine"
-GG-260831-X,2026-08-31,09:00,ET,Mon,X / Twitter,THE REBUILD,T15,Text + image card (1600x900),no,You wake up at 22 with no network and no savings. First move?,,01_card.png,content_backlog/x/GG-260831-X,"You wake up at 22 with no network and no savings. First move?
+#confidence #selfimprovement"
+GG-260831-X,2026-08-31,09:00,ET,Mon,X / Twitter,THE REBUILD,,T15,Text + image card (1600x900),no,You wake up at 22 with no network and no savings. First move?,,01_card.png,content_backlog/x/GG-260831-X,"You wake up at 22 with no network and no savings. First move?
 
 1. Build one month of breathing room.
 2. Choose one skill people already pay for.
@@ -163,8 +163,8 @@ GG-260831-X,2026-08-31,09:00,ET,Mon,X / Twitter,THE REBUILD,T15,Text + image car
 
 Which move would you make first?
 
-#gogettr #buildthemachine"
-GG-260901-X,2026-09-01,09:00,ET,Tue,X / Twitter,DECISION FILTER,T16,Text + image card (1600x900),no,"Before the next yes, buy, quit or delay — run this test.",,01_card.png,content_backlog/x/GG-260901-X,"Before the next yes, buy, quit or delay — run this test.
+#career #selfimprovement"
+GG-260901-X,2026-09-01,09:00,ET,Tue,X / Twitter,DECISION FILTER,,T16,Text + image card (1600x900),no,"Before the next yes, buy, quit or delay — run this test.",,01_card.png,content_backlog/x/GG-260901-X,"Before the next yes, buy, quit or delay — run this test.
 
 1. Will tomorrow-you thank you?
 2. Will one-year-you still care?
@@ -174,8 +174,8 @@ GG-260901-X,2026-09-01,09:00,ET,Tue,X / Twitter,DECISION FILTER,T16,Text + image
 
 Run it on the decision you are avoiding.
 
-#gogettr #buildthemachine"
-GG-260902-X,2026-09-02,09:00,ET,Wed,X / Twitter,ESCAPE VELOCITY,T17,Text + image card (1600x900),no,How many months could you breathe if income stopped tomorrow?,,01_card.png,content_backlog/x/GG-260902-X,"How many months could you breathe if income stopped tomorrow?
+#mindset #selfimprovement"
+GG-260902-X,2026-09-02,09:00,ET,Wed,X / Twitter,ESCAPE VELOCITY,,T17,Text + image card (1600x900),no,How many months could you breathe if income stopped tomorrow?,,01_card.png,content_backlog/x/GG-260902-X,"How many months could you breathe if income stopped tomorrow?
 
 1. Cash you can actually use.
 2. Essential monthly burn.
@@ -185,8 +185,8 @@ GG-260902-X,2026-09-02,09:00,ET,Wed,X / Twitter,ESCAPE VELOCITY,T17,Text + image
 
 Do the math today. Write the number down.
 
-#gogettr #buildthemachine"
-GG-260903-X,2026-09-03,09:00,ET,Thu,X / Twitter,RECEIPTS,T18,Text + image card (1600x900),no,Things that look like success but usually are not.,,01_card.png,content_backlog/x/GG-260903-X,"Things that look like success but usually are not.
+#money #selfimprovement"
+GG-260903-X,2026-09-03,09:00,ET,Thu,X / Twitter,RECEIPTS,,T18,Text + image card (1600x900),no,Things that look like success but usually are not.,,01_card.png,content_backlog/x/GG-260903-X,"Things that look like success but usually are not.
 
 1. A car payment that owns the month.
 2. A calendar packed with low-value work.
@@ -196,8 +196,8 @@ GG-260903-X,2026-09-03,09:00,ET,Thu,X / Twitter,RECEIPTS,T18,Text + image card (
 
 Which signal have you been chasing?
 
-#gogettr #buildthemachine"
-GG-260904-X,2026-09-04,09:00,ET,Fri,X / Twitter,MONEY SYSTEMS,T19,Text + image card (1600x900),no,You are paying for more than apps. Most of it is invisible.,,01_card.png,content_backlog/x/GG-260904-X,"You are paying for more than apps. Most of it is invisible.
+#money #selfimprovement"
+GG-260904-X,2026-09-04,09:00,ET,Fri,X / Twitter,MONEY SYSTEMS,,T19,Text + image card (1600x900),no,You are paying for more than apps. Most of it is invisible.,,01_card.png,content_backlog/x/GG-260904-X,"You are paying for more than apps. Most of it is invisible.
 
 1. List recurring charges.
 2. Then recurring habits that create spending.
@@ -207,8 +207,8 @@ GG-260904-X,2026-09-04,09:00,ET,Fri,X / Twitter,MONEY SYSTEMS,T19,Text + image c
 
 Cancel one autopilot today.
 
-#gogettr #buildthemachine"
-GG-260905-X,2026-09-05,09:00,ET,Sat,X / Twitter,SYSTEM DESIGN,T20,Text + image card (1600x900),no,Your life gets easier when you stop doing these 5 things.,,01_card.png,content_backlog/x/GG-260905-X,"Your life gets easier when you stop doing these 5 things.
+#money #selfimprovement"
+GG-260905-X,2026-09-05,09:00,ET,Sat,X / Twitter,SYSTEM DESIGN,,T20,Text + image card (1600x900),no,Your life gets easier when you stop doing these 5 things.,,01_card.png,content_backlog/x/GG-260905-X,"Your life gets easier when you stop doing these 5 things.
 
 1. Stop answering everything immediately.
 2. Stop buying things to be seen.
@@ -218,8 +218,8 @@ GG-260905-X,2026-09-05,09:00,ET,Sat,X / Twitter,SYSTEM DESIGN,T20,Text + image c
 
 Pick one to cut for seven days.
 
-#gogettr #buildthemachine"
-GG-260906-X,2026-09-06,09:00,ET,Sun,X / Twitter,CAREER SIGNALS,T21,Text + image card (1600x900),no,You do not need to be elite at one thing if the stack is rare.,,01_card.png,content_backlog/x/GG-260906-X,"You do not need to be elite at one thing if the stack is rare.
+#mindset #selfimprovement"
+GG-260906-X,2026-09-06,09:00,ET,Sun,X / Twitter,CAREER SIGNALS,,T21,Text + image card (1600x900),no,You do not need to be elite at one thing if the stack is rare.,,01_card.png,content_backlog/x/GG-260906-X,"You do not need to be elite at one thing if the stack is rare.
 
 1. Write.
 2. Sell.
@@ -229,8 +229,8 @@ GG-260906-X,2026-09-06,09:00,ET,Sun,X / Twitter,CAREER SIGNALS,T21,Text + image 
 
 Which one is your weakest? Start there.
 
-#gogettr #buildthemachine"
-GG-260907-X,2026-09-07,09:00,ET,Mon,X / Twitter,168 HOURS,T22,Text + image card (1600x900),no,168 hours a week. Most of us can only account for 90.,,01_card.png,content_backlog/x/GG-260907-X,"168 hours a week. Most of us can only account for 90.
+#career #selfimprovement"
+GG-260907-X,2026-09-07,09:00,ET,Mon,X / Twitter,168 HOURS,,T22,Text + image card (1600x900),no,168 hours a week. Most of us can only account for 90.,,01_card.png,content_backlog/x/GG-260907-X,"168 hours a week. Most of us can only account for 90.
 
 1. Sleep is a third of it.
 2. Work takes its slice.
@@ -240,8 +240,8 @@ GG-260907-X,2026-09-07,09:00,ET,Mon,X / Twitter,168 HOURS,T22,Text + image card 
 
 Reclaim one hour. Schedule it now.
 
-#gogettr #buildthemachine"
-GG-260908-X,2026-09-08,09:00,ET,Tue,X / Twitter,ONE-WAY DOORS,T23,Text + image card (1600x900),no,The most expensive habit nobody prices: waiting.,,01_card.png,content_backlog/x/GG-260908-X,"The most expensive habit nobody prices: waiting.
+#productivity #selfimprovement"
+GG-260908-X,2026-09-08,09:00,ET,Tue,X / Twitter,ONE-WAY DOORS,,T23,Text + image card (1600x900),no,The most expensive habit nobody prices: waiting.,,01_card.png,content_backlog/x/GG-260908-X,"The most expensive habit nobody prices: waiting.
 
 1. Waiting to apply.
 2. Waiting to invest.
@@ -251,8 +251,8 @@ GG-260908-X,2026-09-08,09:00,ET,Tue,X / Twitter,ONE-WAY DOORS,T23,Text + image c
 
 What have you been waiting on? Start it.
 
-#gogettr #buildthemachine"
-GG-260909-X,2026-09-09,09:00,ET,Wed,X / Twitter,PURCHASE LAB,T24,Text + image card (1600x900),no,Cheap gets expensive when you use it every day.,,01_card.png,content_backlog/x/GG-260909-X,"Cheap gets expensive when you use it every day.
+#mindset #selfimprovement"
+GG-260909-X,2026-09-09,09:00,ET,Wed,X / Twitter,PURCHASE LAB,,T24,Text + image card (1600x900),no,Cheap gets expensive when you use it every day.,,01_card.png,content_backlog/x/GG-260909-X,"Cheap gets expensive when you use it every day.
 
 1. Sleep surface.
 2. Shoes.
@@ -262,8 +262,8 @@ GG-260909-X,2026-09-09,09:00,ET,Wed,X / Twitter,PURCHASE LAB,T24,Text + image ca
 
 Which one are you overdue to upgrade?
 
-#gogettr #buildthemachine"
-GG-260910-X,2026-09-10,09:00,ET,Thu,X / Twitter,THE AUDIT,T25,Text + image card (1600x900),no,Your calendar is a better personality test than your bio.,,01_card.png,content_backlog/x/GG-260910-X,"Your calendar is a better personality test than your bio.
+#money #selfimprovement"
+GG-260910-X,2026-09-10,09:00,ET,Thu,X / Twitter,THE AUDIT,,T25,Text + image card (1600x900),no,Your calendar is a better personality test than your bio.,,01_card.png,content_backlog/x/GG-260910-X,"Your calendar is a better personality test than your bio.
 
 1. Where did the evenings go?
 2. Who got your best hours?
@@ -273,8 +273,8 @@ GG-260910-X,2026-09-10,09:00,ET,Thu,X / Twitter,THE AUDIT,T25,Text + image card 
 
 Open last week. What does it confess?
 
-#gogettr #buildthemachine"
-GG-260911-X,2026-09-11,09:00,ET,Fri,X / Twitter,MONEY SYSTEMS,T26,Text + image card (1600x900),no,"Two people get the same $1,000. Same money, different year.",,01_card.png,content_backlog/x/GG-260911-X,"Two people get the same $1,000. Same money, different year.
+#productivity #selfimprovement"
+GG-260911-X,2026-09-11,09:00,ET,Fri,X / Twitter,MONEY SYSTEMS,,T26,Text + image card (1600x900),no,"Two people get the same $1,000. Same money, different year.",,01_card.png,content_backlog/x/GG-260911-X,"Two people get the same $1,000. Same money, different year.
 
 1. Person A upgrades what can be seen.
 2. Person B buys breathing room.
@@ -284,8 +284,8 @@ GG-260911-X,2026-09-11,09:00,ET,Fri,X / Twitter,MONEY SYSTEMS,T26,Text + image c
 
 Which sequence are you running?
 
-#gogettr #buildthemachine"
-GG-260912-X,2026-09-12,09:00,ET,Sat,X / Twitter,SOCIAL CAPITAL,T27,Text + image card (1600x900),no,People notice these before they notice your clothes.,,01_card.png,content_backlog/x/GG-260912-X,"People notice these before they notice your clothes.
+#money #selfimprovement"
+GG-260912-X,2026-09-12,09:00,ET,Sat,X / Twitter,SOCIAL CAPITAL,,T27,Text + image card (1600x900),no,People notice these before they notice your clothes.,,01_card.png,content_backlog/x/GG-260912-X,"People notice these before they notice your clothes.
 
 1. Posture.
 2. Voice.
@@ -295,8 +295,8 @@ GG-260912-X,2026-09-12,09:00,ET,Sat,X / Twitter,SOCIAL CAPITAL,T27,Text + image 
 
 Which one will you fix this week?
 
-#gogettr #buildthemachine"
-GG-260913-X,2026-09-13,09:00,ET,Sun,X / Twitter,FRICTION FILE,T28,Text + image card (1600x900),no,You have 20 minutes. Use them where the return lasts.,,01_card.png,content_backlog/x/GG-260913-X,"You have 20 minutes. Use them where the return lasts.
+#confidence #selfimprovement"
+GG-260913-X,2026-09-13,09:00,ET,Sun,X / Twitter,FRICTION FILE,,T28,Text + image card (1600x900),no,You have 20 minutes. Use them where the return lasts.,,01_card.png,content_backlog/x/GG-260913-X,"You have 20 minutes. Use them where the return lasts.
 
 1. Cancel one dead subscription.
 2. Book the appointment.
@@ -306,8 +306,8 @@ GG-260913-X,2026-09-13,09:00,ET,Sun,X / Twitter,FRICTION FILE,T28,Text + image c
 
 Set a 20-minute timer. Pick one.
 
-#gogettr #buildthemachine"
-GG-260914-X,2026-09-14,09:00,ET,Mon,X / Twitter,BORING EDGE,T29,Text + image card (1600x900),no,What successful people make boring.,,01_card.png,content_backlog/x/GG-260914-X,"What successful people make boring.
+#productivity #selfimprovement"
+GG-260914-X,2026-09-14,09:00,ET,Mon,X / Twitter,BORING EDGE,,T29,Text + image card (1600x900),no,What successful people make boring.,,01_card.png,content_backlog/x/GG-260914-X,"What successful people make boring.
 
 1. Saving.
 2. Training.
@@ -317,8 +317,8 @@ GG-260914-X,2026-09-14,09:00,ET,Mon,X / Twitter,BORING EDGE,T29,Text + image car
 
 Which habit needs to get boring for you?
 
-#gogettr #buildthemachine"
-GG-260915-X,2026-09-15,09:00,ET,Tue,X / Twitter,PURCHASE LAB,T30,Text + image card (1600x900),no,Checkout can wait 60 seconds. Run the first check.,,01_card.png,content_backlog/x/GG-260915-X,"Checkout can wait 60 seconds. Run the first check.
+#mindset #selfimprovement"
+GG-260915-X,2026-09-15,09:00,ET,Tue,X / Twitter,PURCHASE LAB,,T30,Text + image card (1600x900),no,Checkout can wait 60 seconds. Run the first check.,,01_card.png,content_backlog/x/GG-260915-X,"Checkout can wait 60 seconds. Run the first check.
 
 1. Will you use it 50 times?
 2. What is the cost per use?
@@ -328,8 +328,8 @@ GG-260915-X,2026-09-15,09:00,ET,Tue,X / Twitter,PURCHASE LAB,T30,Text + image ca
 
 Save this before your next cart.
 
-#gogettr #buildthemachine"
-GG-260916-X,2026-09-16,09:00,ET,Wed,X / Twitter,RECOVERY PROTOCOL,T31,Text + image card (1600x900),no,Track your energy for 5 days. The pattern is louder than motivation.,,01_card.png,content_backlog/x/GG-260916-X,"Track your energy for 5 days. The pattern is louder than motivation.
+#money #selfimprovement"
+GG-260916-X,2026-09-16,09:00,ET,Wed,X / Twitter,RECOVERY PROTOCOL,,T31,Text + image card (1600x900),no,Track your energy for 5 days. The pattern is louder than motivation.,,01_card.png,content_backlog/x/GG-260916-X,"Track your energy for 5 days. The pattern is louder than motivation.
 
 1. Note energy every two hours.
 2. Mark the true peak and the crash.
@@ -339,8 +339,8 @@ GG-260916-X,2026-09-16,09:00,ET,Wed,X / Twitter,RECOVERY PROTOCOL,T31,Text + ima
 
 Start the five-day energy log today.
 
-#gogettr #buildthemachine"
-GG-260917-X,2026-09-17,09:00,ET,Thu,X / Twitter,ESCAPE VELOCITY,T32,Text + image card (1600x900),no,Which skill could move your income without changing your whole life?,,01_card.png,content_backlog/x/GG-260917-X,"Which skill could move your income without changing your whole life?
+#health #selfimprovement"
+GG-260917-X,2026-09-17,09:00,ET,Thu,X / Twitter,ESCAPE VELOCITY,,T32,Text + image card (1600x900),no,Which skill could move your income without changing your whole life?,,01_card.png,content_backlog/x/GG-260917-X,"Which skill could move your income without changing your whole life?
 
 1. Write your current skill stack.
 2. Mark what employers already pay for.
@@ -350,8 +350,8 @@ GG-260917-X,2026-09-17,09:00,ET,Thu,X / Twitter,ESCAPE VELOCITY,T32,Text + image
 
 Name your one adjacent skill.
 
-#gogettr #buildthemachine"
-GG-260918-X,2026-09-18,09:00,ET,Fri,X / Twitter,THE AUDIT,T33,Text + image card (1600x900),no,"How together is your life, actually? Score it.",,01_card.png,content_backlog/x/GG-260918-X,"How together is your life, actually? Score it.
+#career #selfimprovement"
+GG-260918-X,2026-09-18,09:00,ET,Fri,X / Twitter,THE AUDIT,,T33,Text + image card (1600x900),no,"How together is your life, actually? Score it.",,01_card.png,content_backlog/x/GG-260918-X,"How together is your life, actually? Score it.
 
 1. Money / 10.
 2. Work / 10.
@@ -361,8 +361,8 @@ GG-260918-X,2026-09-18,09:00,ET,Fri,X / Twitter,THE AUDIT,T33,Text + image card 
 
 Post your lowest category below.
 
-#gogettr #buildthemachine"
-GG-260919-X,2026-09-19,09:00,ET,Sat,X / Twitter,SOCIAL CAPITAL,T34,Text + image card (1600x900),no,Your reputation is compounding while you are not in the room.,,01_card.png,content_backlog/x/GG-260919-X,"Your reputation is compounding while you are not in the room.
+#productivity #selfimprovement"
+GG-260919-X,2026-09-19,09:00,ET,Sat,X / Twitter,SOCIAL CAPITAL,,T34,Text + image card (1600x900),no,Your reputation is compounding while you are not in the room.,,01_card.png,content_backlog/x/GG-260919-X,"Your reputation is compounding while you are not in the room.
 
 1. On time or late.
 2. Prepared or improvising.
@@ -372,8 +372,8 @@ GG-260919-X,2026-09-19,09:00,ET,Sat,X / Twitter,SOCIAL CAPITAL,T34,Text + image 
 
 What do they say after you leave?
 
-#gogettr #buildthemachine"
-GG-260920-X,2026-09-20,09:00,ET,Sun,X / Twitter,ENVIRONMENT ENGINEERING,T35,Text + image card (1600x900),no,Do not redo the room. Fix the most annoying 10%.,,01_card.png,content_backlog/x/GG-260920-X,"Do not redo the room. Fix the most annoying 10%.
+#confidence #selfimprovement"
+GG-260920-X,2026-09-20,09:00,ET,Sun,X / Twitter,ENVIRONMENT ENGINEERING,,T35,Text + image card (1600x900),no,Do not redo the room. Fix the most annoying 10%.,,01_card.png,content_backlog/x/GG-260920-X,"Do not redo the room. Fix the most annoying 10%.
 
 1. Find the corner you avoid.
 2. Name the one friction.
@@ -383,8 +383,8 @@ GG-260920-X,2026-09-20,09:00,ET,Sun,X / Twitter,ENVIRONMENT ENGINEERING,T35,Text
 
 Which corner is your 10%?
 
-#gogettr #buildthemachine"
-GG-260921-X,2026-09-21,09:00,ET,Mon,X / Twitter,CAREER SIGNALS,T36,Text + image card (1600x900),no,What your future employer cares about more than your GPA.,,01_card.png,content_backlog/x/GG-260921-X,"What your future employer cares about more than your GPA.
+#minimalism #selfimprovement"
+GG-260921-X,2026-09-21,09:00,ET,Mon,X / Twitter,CAREER SIGNALS,,T36,Text + image card (1600x900),no,What your future employer cares about more than your GPA.,,01_card.png,content_backlog/x/GG-260921-X,"What your future employer cares about more than your GPA.
 
 1. Can you explain clearly?
 2. Can you solve without being chased?
@@ -394,8 +394,8 @@ GG-260921-X,2026-09-21,09:00,ET,Mon,X / Twitter,CAREER SIGNALS,T36,Text + image 
 
 Which proof are you missing?
 
-#gogettr #buildthemachine"
-GG-260922-X,2026-09-22,09:00,ET,Tue,X / Twitter,PURCHASE LAB,T37,Text + image card (1600x900),no,One question removes half your impulse buys.,,01_card.png,content_backlog/x/GG-260922-X,"One question removes half your impulse buys.
+#career #selfimprovement"
+GG-260922-X,2026-09-22,09:00,ET,Tue,X / Twitter,PURCHASE LAB,,T37,Text + image card (1600x900),no,One question removes half your impulse buys.,,01_card.png,content_backlog/x/GG-260922-X,"One question removes half your impulse buys.
 
 1. Remove the app that showed you.
 2. Remove your friends seeing it.
@@ -405,8 +405,8 @@ GG-260922-X,2026-09-22,09:00,ET,Tue,X / Twitter,PURCHASE LAB,T37,Text + image ca
 
 Try it on your open cart right now.
 
-#gogettr #buildthemachine"
-GG-260923-X,2026-09-23,09:00,ET,Wed,X / Twitter,RECOVERY PROTOCOL,T38,Text + image card (1600x900),no,Save this for the next overwhelmed day. Do it in this order.,,01_card.png,content_backlog/x/GG-260923-X,"Save this for the next overwhelmed day. Do it in this order.
+#money #selfimprovement"
+GG-260923-X,2026-09-23,09:00,ET,Wed,X / Twitter,RECOVERY PROTOCOL,,T38,Text + image card (1600x900),no,Save this for the next overwhelmed day. Do it in this order.,,01_card.png,content_backlog/x/GG-260923-X,"Save this for the next overwhelmed day. Do it in this order.
 
 1. Write every open loop.
 2. Circle what matters today.
@@ -416,8 +416,8 @@ GG-260923-X,2026-09-23,09:00,ET,Wed,X / Twitter,RECOVERY PROTOCOL,T38,Text + ima
 
 Save this before you need it.
 
-#gogettr #buildthemachine"
-GG-260924-X,2026-09-24,09:00,ET,Thu,X / Twitter,BORING EDGE,T39,Text + image card (1600x900),no,Things that become valuable fast after 25.,,01_card.png,content_backlog/x/GG-260924-X,"Things that become valuable fast after 25.
+#health #selfimprovement"
+GG-260924-X,2026-09-24,09:00,ET,Thu,X / Twitter,BORING EDGE,,T39,Text + image card (1600x900),no,Things that become valuable fast after 25.,,01_card.png,content_backlog/x/GG-260924-X,"Things that become valuable fast after 25.
 
 1. Sleep.
 2. Good credit.
@@ -427,8 +427,8 @@ GG-260924-X,2026-09-24,09:00,ET,Thu,X / Twitter,BORING EDGE,T39,Text + image car
 
 Which one are you glad you started early?
 
-#gogettr #buildthemachine"
-GG-260925-X,2026-09-25,09:00,ET,Fri,X / Twitter,ENVIRONMENT ENGINEERING,T40,Text + image card (1600x900),no,Keep 12 groceries that can always make something.,,01_card.png,content_backlog/x/GG-260925-X,"Keep 12 groceries that can always make something.
+#mindset #selfimprovement"
+GG-260925-X,2026-09-25,09:00,ET,Fri,X / Twitter,ENVIRONMENT ENGINEERING,,T40,Text + image card (1600x900),no,Keep 12 groceries that can always make something.,,01_card.png,content_backlog/x/GG-260925-X,"Keep 12 groceries that can always make something.
 
 1. Eggs and oats.
 2. Rice and beans.
@@ -438,8 +438,8 @@ GG-260925-X,2026-09-25,09:00,ET,Fri,X / Twitter,ENVIRONMENT ENGINEERING,T40,Text
 
 What is on your default 12?
 
-#gogettr #buildthemachine"
-GG-260926-X,2026-09-26,09:00,ET,Sat,X / Twitter,SYSTEM DESIGN,T41,Text + image card (1600x900),no,Steal one operating habit from each kind of high performer.,,01_card.png,content_backlog/x/GG-260926-X,"Steal one operating habit from each kind of high performer.
+#productivity #selfimprovement"
+GG-260926-X,2026-09-26,09:00,ET,Sat,X / Twitter,SYSTEM DESIGN,,T41,Text + image card (1600x900),no,Steal one operating habit from each kind of high performer.,,01_card.png,content_backlog/x/GG-260926-X,"Steal one operating habit from each kind of high performer.
 
 1. Athlete: repetition.
 2. Salesperson: follow-up.
@@ -449,8 +449,8 @@ GG-260926-X,2026-09-26,09:00,ET,Sat,X / Twitter,SYSTEM DESIGN,T41,Text + image c
 
 Which habit do you steal first?
 
-#gogettr #buildthemachine"
-GG-260927-X,2026-09-27,09:00,ET,Sun,X / Twitter,MINI CHALLENGES,T42,Text + image card (1600x900),no,"Three days, no delivery apps. Notice what the convenience was solving.",,01_card.png,content_backlog/x/GG-260927-X,"Three days, no delivery apps. Notice what the convenience was solving.
+#mindset #selfimprovement"
+GG-260927-X,2026-09-27,09:00,ET,Sun,X / Twitter,MINI CHALLENGES,,T42,Text + image card (1600x900),no,"Three days, no delivery apps. Notice what the convenience was solving.",,01_card.png,content_backlog/x/GG-260927-X,"Three days, no delivery apps. Notice what the convenience was solving.
 
 1. Delete the apps for 72 hours.
 2. Cook or walk to it.
@@ -460,8 +460,8 @@ GG-260927-X,2026-09-27,09:00,ET,Sun,X / Twitter,MINI CHALLENGES,T42,Text + image
 
 Start the 3-day test today.
 
-#gogettr #buildthemachine"
-GG-260928-X,2026-09-28,09:00,ET,Mon,X / Twitter,THE AUDIT,T43,Text + image card (1600x900),no,"You might be consuming self-improvement, not doing it.",,01_card.png,content_backlog/x/GG-260928-X,"You might be consuming self-improvement, not doing it.
+#discipline #selfimprovement"
+GG-260928-X,2026-09-28,09:00,ET,Mon,X / Twitter,THE AUDIT,,T43,Text + image card (1600x900),no,"You might be consuming self-improvement, not doing it.",,01_card.png,content_backlog/x/GG-260928-X,"You might be consuming self-improvement, not doing it.
 
 1. Saved posts.
 2. Unfinished books.
@@ -471,8 +471,8 @@ GG-260928-X,2026-09-28,09:00,ET,Mon,X / Twitter,THE AUDIT,T43,Text + image card 
 
 What is one input you will finally apply?
 
-#gogettr #buildthemachine"
-GG-260929-X,2026-09-29,09:00,ET,Tue,X / Twitter,MONEY SYSTEMS,T44,Text + image card (1600x900),no,Same goal. Three budgets. Very different moves.,,01_card.png,content_backlog/x/GG-260929-X,"Same goal. Three budgets. Very different moves.
+#mindset #selfimprovement"
+GG-260929-X,2026-09-29,09:00,ET,Tue,X / Twitter,MONEY SYSTEMS,,T44,Text + image card (1600x900),no,Same goal. Three budgets. Very different moves.,,01_card.png,content_backlog/x/GG-260929-X,"Same goal. Three budgets. Very different moves.
 
 1. $20: remove one small friction.
 2. $200: upgrade a repeated process.
@@ -482,8 +482,8 @@ GG-260929-X,2026-09-29,09:00,ET,Tue,X / Twitter,MONEY SYSTEMS,T44,Text + image c
 
 Pick your tier and your one move.
 
-#gogettr #buildthemachine"
-GG-260930-X,2026-09-30,09:00,ET,Wed,X / Twitter,ENVIRONMENT ENGINEERING,T45,Text + image card (1600x900),no,Make one note with the info you would hate to search for under stress.,,01_card.png,content_backlog/x/GG-260930-X,"Make one note with the info you would hate to search for under stress.
+#money #selfimprovement"
+GG-260930-X,2026-09-30,09:00,ET,Wed,X / Twitter,ENVIRONMENT ENGINEERING,,T45,Text + image card (1600x900),no,Make one note with the info you would hate to search for under stress.,,01_card.png,content_backlog/x/GG-260930-X,"Make one note with the info you would hate to search for under stress.
 
 1. Emergency contacts.
 2. Insurance and policy numbers.
@@ -493,8 +493,8 @@ GG-260930-X,2026-09-30,09:00,ET,Wed,X / Twitter,ENVIRONMENT ENGINEERING,T45,Text
 
 Build the note tonight.
 
-#gogettr #buildthemachine"
-GG-261001-X,2026-10-01,09:00,ET,Thu,X / Twitter,SOCIAL CAPITAL,T46,Text + image card (1600x900),no,Who could you connect without asking for anything back?,,01_card.png,content_backlog/x/GG-261001-X,"Who could you connect without asking for anything back?
+#productivity #selfimprovement"
+GG-261001-X,2026-10-01,09:00,ET,Thu,X / Twitter,SOCIAL CAPITAL,,T46,Text + image card (1600x900),no,Who could you connect without asking for anything back?,,01_card.png,content_backlog/x/GG-261001-X,"Who could you connect without asking for anything back?
 
 1. List 10 people and what they do.
 2. Draw lines where a match exists.
@@ -504,8 +504,8 @@ GG-261001-X,2026-10-01,09:00,ET,Thu,X / Twitter,SOCIAL CAPITAL,T46,Text + image 
 
 Make one intro this week.
 
-#gogettr #buildthemachine"
-GG-261002-X,2026-10-02,09:00,ET,Fri,X / Twitter,ONE-WAY DOORS,T47,Text + image card (1600x900),no,Two versions of you wake up tomorrow. Which one gets the better year?,,01_card.png,content_backlog/x/GG-261002-X,"Two versions of you wake up tomorrow. Which one gets the better year?
+#confidence #selfimprovement"
+GG-261002-X,2026-10-02,09:00,ET,Fri,X / Twitter,ONE-WAY DOORS,,T47,Text + image card (1600x900),no,Two versions of you wake up tomorrow. Which one gets the better year?,,01_card.png,content_backlog/x/GG-261002-X,"Two versions of you wake up tomorrow. Which one gets the better year?
 
 1. Scroll or train.
 2. Impress or invest.
@@ -515,8 +515,8 @@ GG-261002-X,2026-10-02,09:00,ET,Fri,X / Twitter,ONE-WAY DOORS,T47,Text + image c
 
 Which fork are you taking tomorrow?
 
-#gogettr #buildthemachine"
-GG-261003-X,2026-10-03,09:00,ET,Sat,X / Twitter,MINI CHALLENGES,T48,Text + image card (1600x900),no,Arrive five minutes early for five days. Track how different the day feels.,,01_card.png,content_backlog/x/GG-261003-X,"Arrive five minutes early for five days. Track how different the day feels.
+#mindset #selfimprovement"
+GG-261003-X,2026-10-03,09:00,ET,Sat,X / Twitter,MINI CHALLENGES,,T48,Text + image card (1600x900),no,Arrive five minutes early for five days. Track how different the day feels.,,01_card.png,content_backlog/x/GG-261003-X,"Arrive five minutes early for five days. Track how different the day feels.
 
 1. Five minutes early, five days.
 2. Notice the calmer start.
@@ -526,8 +526,8 @@ GG-261003-X,2026-10-03,09:00,ET,Sat,X / Twitter,MINI CHALLENGES,T48,Text + image
 
 Start the 5-day test tomorrow.
 
-#gogettr #buildthemachine"
-GG-261004-X,2026-10-04,09:00,ET,Sun,X / Twitter,SOCIAL CAPITAL,T49,Text + image card (1600x900),no,Things that quietly make you look competent.,,01_card.png,content_backlog/x/GG-261004-X,"Things that quietly make you look competent.
+#discipline #selfimprovement"
+GG-261004-X,2026-10-04,09:00,ET,Sun,X / Twitter,SOCIAL CAPITAL,,T49,Text + image card (1600x900),no,Things that quietly make you look competent.,,01_card.png,content_backlog/x/GG-261004-X,"Things that quietly make you look competent.
 
 1. Arrive early.
 2. Take notes.
@@ -537,8 +537,8 @@ GG-261004-X,2026-10-04,09:00,ET,Sun,X / Twitter,SOCIAL CAPITAL,T49,Text + image 
 
 Which one will you do today?
 
-#gogettr #buildthemachine"
-GG-261005-X,2026-10-05,09:00,ET,Mon,X / Twitter,ENVIRONMENT ENGINEERING,T50,Text + image card (1600x900),no,Mail has two jobs: act or archive. Give both a place.,,01_card.png,content_backlog/x/GG-261005-X,"Mail has two jobs: act or archive. Give both a place.
+#confidence #selfimprovement"
+GG-261005-X,2026-10-05,09:00,ET,Mon,X / Twitter,ENVIRONMENT ENGINEERING,,T50,Text + image card (1600x900),no,Mail has two jobs: act or archive. Give both a place.,,01_card.png,content_backlog/x/GG-261005-X,"Mail has two jobs: act or archive. Give both a place.
 
 1. One tray to ACT.
 2. One tray to FILE.
@@ -548,8 +548,8 @@ GG-261005-X,2026-10-05,09:00,ET,Mon,X / Twitter,ENVIRONMENT ENGINEERING,T50,Text
 
 Set up two trays today.
 
-#gogettr #buildthemachine"
-GG-261006-X,2026-10-06,09:00,ET,Tue,X / Twitter,MINI CHALLENGES,T51,Text + image card (1600x900),no,"For seven meals, eat without a screen. Notice the pace.",,01_card.png,content_backlog/x/GG-261006-X,"For seven meals, eat without a screen. Notice the pace.
+#minimalism #selfimprovement"
+GG-261006-X,2026-10-06,09:00,ET,Tue,X / Twitter,MINI CHALLENGES,,T51,Text + image card (1600x900),no,"For seven meals, eat without a screen. Notice the pace.",,01_card.png,content_backlog/x/GG-261006-X,"For seven meals, eat without a screen. Notice the pace.
 
 1. No phone at the table.
 2. No show in the background.
@@ -559,8 +559,8 @@ GG-261006-X,2026-10-06,09:00,ET,Tue,X / Twitter,MINI CHALLENGES,T51,Text + image
 
 Start at your next meal.
 
-#gogettr #buildthemachine"
-GG-261007-X,2026-10-07,09:00,ET,Wed,X / Twitter,BORING EDGE,T52,Text + image card (1600x900),no,Consistency is not intensity. It is making the right move unsurprising.,,01_card.png,content_backlog/x/GG-261007-X,"Consistency is not intensity. It is making the right move unsurprising.
+#discipline #selfimprovement"
+GG-261007-X,2026-10-07,09:00,ET,Wed,X / Twitter,BORING EDGE,,T52,Text + image card (1600x900),no,Consistency is not intensity. It is making the right move unsurprising.,,01_card.png,content_backlog/x/GG-261007-X,"Consistency is not intensity. It is making the right move unsurprising.
 
 1. Same time.
 2. Same trigger.
@@ -570,8 +570,8 @@ GG-261007-X,2026-10-07,09:00,ET,Wed,X / Twitter,BORING EDGE,T52,Text + image car
 
 Which move will you make automatic?
 
-#gogettr #buildthemachine"
-GG-261008-X,2026-10-08,09:00,ET,Thu,X / Twitter,ENVIRONMENT ENGINEERING,T53,Text + image card (1600x900),no,Refill the same five things on the same day every week.,,01_card.png,content_backlog/x/GG-261008-X,"Refill the same five things on the same day every week.
+#mindset #selfimprovement"
+GG-261008-X,2026-10-08,09:00,ET,Thu,X / Twitter,ENVIRONMENT ENGINEERING,,T53,Text + image card (1600x900),no,Refill the same five things on the same day every week.,,01_card.png,content_backlog/x/GG-261008-X,"Refill the same five things on the same day every week.
 
 1. Water and drinks.
 2. Meds and vitamins.
@@ -581,8 +581,8 @@ GG-261008-X,2026-10-08,09:00,ET,Thu,X / Twitter,ENVIRONMENT ENGINEERING,T53,Text
 
 Pick your refill day.
 
-#gogettr #buildthemachine"
-GG-261009-X,2026-10-09,09:00,ET,Fri,X / Twitter,MINI CHALLENGES,T54,Text + image card (1600x900),no,"For five nights, leave one sentence telling tomorrow where to start.",,01_card.png,content_backlog/x/GG-261009-X,"For five nights, leave one sentence telling tomorrow where to start.
+#productivity #selfimprovement"
+GG-261009-X,2026-10-09,09:00,ET,Fri,X / Twitter,MINI CHALLENGES,,T54,Text + image card (1600x900),no,"For five nights, leave one sentence telling tomorrow where to start.",,01_card.png,content_backlog/x/GG-261009-X,"For five nights, leave one sentence telling tomorrow where to start.
 
 1. One sentence before bed.
 2. The single first task.
@@ -592,8 +592,8 @@ GG-261009-X,2026-10-09,09:00,ET,Fri,X / Twitter,MINI CHALLENGES,T54,Text + image
 
 Write tonight's sentence now.
 
-#gogettr #buildthemachine"
-GG-261010-X,2026-10-10,09:00,ET,Sat,X / Twitter,SOCIAL CAPITAL,T55,Text + image card (1600x900),no,Most conversations die on the second question. Here is the fix.,,01_card.png,content_backlog/x/GG-261010-X,"Most conversations die on the second question. Here is the fix.
+#discipline #selfimprovement"
+GG-261010-X,2026-10-10,09:00,ET,Sat,X / Twitter,SOCIAL CAPITAL,,T55,Text + image card (1600x900),no,Most conversations die on the second question. Here is the fix.,,01_card.png,content_backlog/x/GG-261010-X,"Most conversations die on the second question. Here is the fix.
 
 1. Skip 'so what do you do'.
 2. Ask about the part they lit up on.
@@ -603,8 +603,8 @@ GG-261010-X,2026-10-10,09:00,ET,Sat,X / Twitter,SOCIAL CAPITAL,T55,Text + image 
 
 Try it in your next conversation.
 
-#gogettr #buildthemachine"
-GG-261011-X,2026-10-11,09:00,ET,Sun,X / Twitter,SYSTEM DESIGN,T56,Text + image card (1600x900),no,You do not rise to your goals. You fall to your systems.,,01_card.png,content_backlog/x/GG-261011-X,"You do not rise to your goals. You fall to your systems.
+#confidence #selfimprovement"
+GG-261011-X,2026-10-11,09:00,ET,Sun,X / Twitter,SYSTEM DESIGN,,T56,Text + image card (1600x900),no,You do not rise to your goals. You fall to your systems.,,01_card.png,content_backlog/x/GG-261011-X,"You do not rise to your goals. You fall to your systems.
 
 1. Fewer decisions.
 2. Automatic money.
@@ -614,4 +614,4 @@ GG-261011-X,2026-10-11,09:00,ET,Sun,X / Twitter,SYSTEM DESIGN,T56,Text + image c
 
 Save the whole series. Start the machine.
 
-#gogettr #buildthemachine"
+#productivity #selfimprovement"

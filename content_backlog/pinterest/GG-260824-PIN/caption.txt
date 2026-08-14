@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : THE AUDIT   (theme T08 · The 7-Day Time Leak Audit)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Productivity & Time Management   <- pin to this Pinterest board
 TITLE     : Time Management Audit
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 Time Management Audit. Your week is leaking. Find the hole before you add another goal. For seven days, mark every block that was neither work nor recovery. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #timemanagement

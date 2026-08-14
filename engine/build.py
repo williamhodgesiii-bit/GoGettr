@@ -29,19 +29,40 @@ def idxof(t):
     return int(t["id"][1:])
 
 def tags_for(t, n, extra=None):
-    pool = []
-    for k in (["core"] + t["tags"] + (extra or [])):
+    """Broad, high-traffic tags: lead with the theme's own topic, guarantee at
+    least one universal-reach tag, cap at n (the platform's limit)."""
+    topic = []
+    for k in (t["tags"] + (extra or [])):
         for h in C.HASHTAGS.get(k, []):
-            if h not in pool:
-                pool.append(h)
-    # keep #gogettr first, then spread
-    out = []
-    for h in pool:
-        if h not in out:
-            out.append(h)
-        if len(out) >= n:
+            if h not in topic:
+                topic.append(h)
+    picked = topic[:max(1, n - 1)] if n > 1 else topic[:1]
+    for h in C.HASHTAGS["core"]:            # ensure a universal broad tag
+        if len(picked) >= n:
             break
-    return out
+        if h not in picked:
+            picked.append(h)
+    for h in topic:                          # backfill if topic was short
+        if len(picked) >= n:
+            break
+        if h not in picked:
+            picked.append(h)
+    return picked[:n]
+
+# Pinterest boards — keyword-rich names (Pinterest is search, not hashtags).
+BOARDS = {
+    "money": "Money & Personal Finance", "career": "Career Growth & Success",
+    "training": "Fitness & Healthy Habits", "recovery": "Fitness & Healthy Habits",
+    "time": "Productivity & Time Management", "declutter": "Home & Life Organization",
+    "social": "Confidence & Social Skills",
+}
+BOARD_DEFAULT = "Self Improvement & Discipline"
+
+def board_for(t):
+    for k in ["money", "career", "training", "recovery", "time", "declutter", "social"]:
+        if k in t["tags"]:
+            return BOARDS[k]
+    return BOARD_DEFAULT
 
 # ------------------------------------------------------------------ SLIDES
 def _cover(t, fmt, calmer=False):
@@ -105,14 +126,14 @@ def cap_instagram(t):
     body = (f"{t['hook']}\n\n{t['sub']}\n\n"
             f"Save this one and send it to someone who needs it. "
             f"Follow {HANDLE} for more.")
-    return body + "\n\n" + " ".join(tags_for(t, 12))
+    return body + "\n\n" + " ".join(tags_for(t, 5))   # IG hard-caps at 5 (Dec 2025)
 
 def cap_facebook(t):
     return (f"{t['hook']}\n\n{t['sub']}\n\n"
             f"{_arrow_list(t['beats'])}\n\n"
             f"Which one would move your month the most? Tell me below. "
             f"(Save the post so it is there when you need it.)\n\n"
-            + " ".join(tags_for(t, 3)))
+            + " ".join(tags_for(t, 2)))   # FB: hashtags barely help, keep it to 2
 
 def cap_x(t):
     thread = (f"{t['hook']}\n\n"
@@ -125,14 +146,14 @@ def cap_linkedin(t):
     return (f"{opener}\n\n{t['hook']}\n\n"
             + "\n".join(f"• {b}" for b in t['beats'])
             + "\n\nSystems beat motivation because they only ask you to decide once.\n\n"
-            + " ".join(tags_for(t, 4)))
+            + " ".join(tags_for(t, 3)))   # LinkedIn: 1-3 is the sweet spot
 
 def cap_pinterest(t):
+    # Pinterest is keyword search, not hashtags — keyword-rich title + description.
     title = t["keyword"].title()
     desc = (f"{title}. {t['hook']} {t['sub']} "
             f"Save this pin for the next time you need it. Follow {HANDLE} for more.")
-    kws = " ".join(tags_for(t, 6))
-    return title, desc + "\n\n" + kws
+    return title, desc
 
 def cap_youtube(t):
     title = f"{t['hook']} #shorts"
@@ -141,13 +162,13 @@ def cap_youtube(t):
     desc = (f"{t['hook']}\n\n{t['sub']}\n\n"
             + _arrow_list(t['beats'])
             + f"\n\nFollow {HANDLE} for more.\n\n"
-            + " ".join(tags_for(t, 4, extra=None) + ["#shorts", "#gogettr"]))
+            + " ".join(tags_for(t, 4) + ["#shorts"]))   # Shorts: keep to ~5
     return title, desc
 
 def cap_tiktok(t):
     return (f"{t['hook']} {t['cta']}\n\n"
             f"(add a trending sound) — save it for later.\n"
-            + " ".join(tags_for(t, 6) + ["#fyp", "#foryou"]))
+            + " ".join(tags_for(t, 4) + ["#fyp"]))   # TikTok: 3-5 relevant
 
 # ------------------------------------------------------------------ BUILD
 def post_id(d, code):
@@ -212,13 +233,14 @@ def build_all():
                               slides=slides, caption=cap_tiktok(t))
             elif pkey == "pinterest":
                 style = "pin_rule" if i % 4 == 0 else "pin_list"
+                board = board_for(t)
                 spec = dict(keyword=t["keyword"], hook=t["hook"], items=t["beats"],
-                            accent=t["accent"],
+                            accent=t["accent"], board=board,
                             ground="violet" if style == "pin_rule" else "graphite",
                             plate="violet" if style == "pin_rule" else None)
                 title, desc = cap_pinterest(t)
                 common.update(fmt="pin", is_video=False, format="Pin 1000x1500",
-                              slides=[(style, spec)], title=title, caption=desc)
+                              board=board, slides=[(style, spec)], title=title, caption=desc)
             posts.append(common)
     return posts
 

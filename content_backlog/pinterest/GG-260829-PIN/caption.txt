@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : RECOVERY PROTOCOL   (theme T13 · Recovery Is A Metric)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Fitness & Healthy Habits   <- pin to this Pinterest board
 TITLE     : Recovery Routine For Performance
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 Recovery Routine For Performance. Recovery is a performance metric, not a reward. You do not rise to your goals. You fall to your recovery. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #sleephabits

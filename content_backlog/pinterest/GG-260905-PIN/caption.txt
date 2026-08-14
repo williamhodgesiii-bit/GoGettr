@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : SYSTEM DESIGN   (theme T20 · Cut List)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Home & Life Organization   <- pin to this Pinterest board
 TITLE     : Things To Stop Doing To Be Happier
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 Things To Stop Doing To Be Happier. Your life gets easier when you stop doing these 5 things. What if the next upgrade is subtraction? Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #mindsetshift

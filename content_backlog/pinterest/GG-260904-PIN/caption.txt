@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : MONEY SYSTEMS   (theme T19 · The Invisible Subscription Audit)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Money & Personal Finance   <- pin to this Pinterest board
 TITLE     : How To Cut Subscriptions And Save
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 How To Cut Subscriptions And Save. You are paying for more than apps. Most of it is invisible. Price the behavior, not just the subscription. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #personalfinance

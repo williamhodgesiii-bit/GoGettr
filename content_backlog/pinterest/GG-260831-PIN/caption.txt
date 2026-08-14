@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : THE REBUILD   (theme T15 · Rebuild Roadmap)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Career Growth & Success   <- pin to this Pinterest board
 TITLE     : How To Start Over At 22
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 How To Start Over At 22. You wake up at 22 with no network and no savings. First move? Spend the year becoming easy to recommend. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #careeradvice

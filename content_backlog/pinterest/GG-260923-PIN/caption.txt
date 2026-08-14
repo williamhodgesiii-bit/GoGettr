@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : RECOVERY PROTOCOL   (theme T38 · Save Card)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Fitness & Healthy Habits   <- pin to this Pinterest board
 TITLE     : What To Do When Overwhelmed
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 What To Do When Overwhelmed. Save this for the next overwhelmed day. Do it in this order. Do not rebuild the system while you are inside the fire. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #sleephabits

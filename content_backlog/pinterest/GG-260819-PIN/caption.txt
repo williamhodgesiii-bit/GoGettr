@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : THE AUDIT   (theme T03 · Future Audit)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Self Improvement & Discipline   <- pin to this Pinterest board
 TITLE     : Life Audit Checklist
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 Life Audit Checklist. If nothing changes for 365 days, are you okay with the result? Answer honestly. Your lowest answer is your next project. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #mindsetshift

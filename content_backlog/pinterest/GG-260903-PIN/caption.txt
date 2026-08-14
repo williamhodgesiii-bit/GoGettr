@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : RECEIPTS   (theme T18 · False Signals)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Money & Personal Finance   <- pin to this Pinterest board
 TITLE     : Fake Success Vs Real Success
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 Fake Success Vs Real Success. Things that look like success but usually are not. Measure what compounds, not what photographs well. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #personalfinance

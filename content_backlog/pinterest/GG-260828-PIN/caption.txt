@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : ENVIRONMENT ENGINEERING   (theme T12 · Phone Audit)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Productivity & Time Management   <- pin to this Pinterest board
 TITLE     : Phone Home Screen Setup For Focus
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 Phone Home Screen Setup For Focus. Your phone is either a tool or a slot machine. Which did you build? Your home screen is an environment. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #minimalism

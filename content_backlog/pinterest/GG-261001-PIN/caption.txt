@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : SOCIAL CAPITAL   (theme T46 · The Introduction Bank)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Career Growth & Success   <- pin to this Pinterest board
 TITLE     : How To Network By Giving
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 How To Network By Giving. Who could you connect without asking for anything back? Be useful before you need usefulness. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #networking

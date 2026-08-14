@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : MONEY SYSTEMS   (theme T26 · Parallel Story)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Money & Personal Finance   <- pin to this Pinterest board
 TITLE     : Smart Ways To Use 1000 Dollars
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 Smart Ways To Use 1000 Dollars. Two people get the same $1,000. Same money, different year. Same money. Different sequence. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #personalfinance

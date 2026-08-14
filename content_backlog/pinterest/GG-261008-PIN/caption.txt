@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : ENVIRONMENT ENGINEERING   (theme T53 · The Weekly Refill List)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Home & Life Organization   <- pin to this Pinterest board
 TITLE     : Weekly Reset Checklist
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 Weekly Reset Checklist. Refill the same five things on the same day every week. Maintenance gets easier when it has a day. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #systemsthinking

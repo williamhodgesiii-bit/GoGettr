@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : MONEY SYSTEMS   (theme T09 · Priority Ladder)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Money & Personal Finance   <- pin to this Pinterest board
 TITLE     : Financial Priorities In Order
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 Financial Priorities In Order. Own these before you own the flex. Foundation before decoration. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #personalfinance

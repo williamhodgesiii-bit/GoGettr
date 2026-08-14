@@ -4,7 +4,7 @@ Render pipeline. Reads build_all(), renders every slide to PNG, stitches
 vertical MP4 slideshows, writes per-post caption files, and emits the
 master schedule + per-platform CSVs. Output tree: content_backlog/.
 """
-import os, csv, subprocess, shutil, json
+import os, csv, subprocess, shutil, json, glob, sys
 import imageio_ffmpeg
 import engine.styles as S
 from engine.build import build_all, PLATFORMS
@@ -69,20 +69,22 @@ def write_caption(post, folder, assets, primary):
         f"PRIMARY   : {primary}",
         f"ASSETS    : {', '.join(assets)}",
     ]
+    if post.get("board"):
+        lines.append(f"BOARD     : {post['board']}   <- pin to this Pinterest board")
     if post.get("title"):
         lines.append(f"TITLE     : {post['title']}")
     lines += ["", "-" * 60, "CAPTION (copy below):", "-" * 60, "", post["caption"], ""]
     with open(os.path.join(folder, "caption.txt"), "w") as f:
         f.write("\n".join(lines))
 
-def main():
-    if os.path.isdir(OUT):
+def main(render_assets=True):
+    if render_assets and os.path.isdir(OUT):
         for name in os.listdir(OUT):        # wipe generated content, keep README.md
             if name == "README.md":
                 continue
             p = os.path.join(OUT, name)
             shutil.rmtree(p) if os.path.isdir(p) else os.remove(p)
-    else:
+    elif not os.path.isdir(OUT):
         os.makedirs(OUT, exist_ok=True)
     posts = build_all()
     rows = []
@@ -91,12 +93,19 @@ def main():
     for n, post in enumerate(posts, 1):
         folder = os.path.join(OUT, post["platform"], post["post_id"])
         os.makedirs(folder, exist_ok=True)
-        if post["is_video"]:
+        if not render_assets:
+            # captions-only refresh: reuse the assets already on disk
+            if post["is_video"]:
+                assets, primary = ["video.mp4"], "video.mp4"
+            else:
+                pngs = sorted(os.path.basename(x) for x in glob.glob(os.path.join(folder, "*.png")))
+                assets = pngs
+                primary = pngs[0] if pngs else "image.png"
+        elif post["is_video"]:
             primary, extra = make_video(post, folder)
             assets = [primary] + extra
         else:
             names = render_slides(post, folder)
-            # linkedin link card
             if post.get("link_slide"):
                 ls, lspec = post["link_slide"]
                 S.STYLES[ls]("link", lspec).save(os.path.join(folder, "link_card.png"))
@@ -110,6 +119,7 @@ def main():
             "post_id": post["post_id"], "date": post["date"], "time": post["time"],
             "tz": post["tz"], "weekday": post["weekday"], "platform": post["platform_label"],
             "pillar": post["pillar"], "theme_id": post["theme_id"], "format": post["format"],
+            "board": post.get("board", ""),
             "is_video": "yes" if post["is_video"] else "no", "hook": post["hook"],
             "title": post.get("title", ""), "asset_folder": rel, "primary_asset": primary,
             "caption": post["caption"],
@@ -121,14 +131,30 @@ def main():
 
     rows.sort(key=lambda r: (r["date"], PLAT_ORDER.get(_pk(r["platform"]), 9), r["time"]))
     cols = ["post_id", "date", "time", "tz", "weekday", "platform", "pillar",
-            "theme_id", "format", "is_video", "hook", "title", "primary_asset",
-            "asset_folder", "caption"]
+            "board", "theme_id", "format", "is_video", "hook", "title",
+            "primary_asset", "asset_folder", "caption"]
     with open(os.path.join(OUT, "00_MASTER_SCHEDULE.csv"), "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=cols); w.writeheader(); w.writerows(rows)
     bp = os.path.join(OUT, "by_platform"); os.makedirs(bp, exist_ok=True)
     for plat, rws in per_plat.items():
         with open(os.path.join(bp, f"{plat}.csv"), "w", newline="") as f:
             w = csv.DictWriter(f, fieldnames=cols); w.writeheader(); w.writerows(rws)
+    # Pinterest broken down by board (one CSV per board) + a board index
+    pins = per_plat.get("pinterest", [])
+    if pins:
+        bb = os.path.join(OUT, "pinterest", "by_board"); os.makedirs(bb, exist_ok=True)
+        boards = {}
+        for r in pins:
+            boards.setdefault(r["board"], []).append(r)
+        idx = []
+        for board, rws in sorted(boards.items()):
+            slug = board.lower().replace(" & ", "-and-").replace(" ", "-")
+            with open(os.path.join(bb, f"{slug}.csv"), "w", newline="") as f:
+                w = csv.DictWriter(f, fieldnames=cols); w.writeheader(); w.writerows(rws)
+            idx.append(f"{board}  ->  {len(rws)} pins  ->  by_board/{slug}.csv")
+        with open(os.path.join(bb, "_BOARDS.txt"), "w") as f:
+            f.write("PINTEREST BOARDS — create these boards, then upload each pin to its board.\n\n"
+                    + "\n".join(sorted(idx)) + "\n")
     manifest = dict(total_posts=len(posts), total_image_assets=total_assets,
                     videos=sum(1 for p in posts if p["is_video"]),
                     platforms=list(per_plat.keys()))
@@ -144,4 +170,4 @@ def _pk(label):
     return label
 
 if __name__ == "__main__":
-    main()
+    main(render_assets="--captions-only" not in sys.argv)

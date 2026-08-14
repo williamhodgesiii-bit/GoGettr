@@ -10,19 +10,21 @@ Each theme: id, pillar, series (eyebrow), hook (S1 contract), sub, beats
 keyword (Pinterest search intent), cta, accent, kind, tags.
 """
 
-# hashtag pools by topic — assembled per platform in build.py
+# Hashtag pools — deliberately BROAD, high-traffic tags (not niche), assembled
+# per platform in build.py and capped to each platform's 2025/26 limit.
+# (Pinterest uses keywords + boards instead of hashtags.)
 HASHTAGS = {
-    "core":     ["#gogettr", "#buildthemachine", "#selfimprovement", "#discipline", "#personalgrowth"],
-    "systems":  ["#systemsthinking", "#productivitysystem", "#atomichabits", "#habits", "#routines", "#lifesystems"],
-    "money":    ["#personalfinance", "#moneytips", "#financialfreedom", "#budgeting", "#moneymindset", "#wealthbuilding"],
-    "career":   ["#careeradvice", "#careergrowth", "#skills", "#professionaldevelopment", "#worksmarter"],
-    "training": ["#fitnessmotivation", "#trainingsystem", "#strength", "#healthhabits", "#recovery"],
-    "recovery": ["#sleephabits", "#recovery", "#burnout", "#restday", "#energymanagement"],
-    "mindset":  ["#mindsetshift", "#discipline", "#motivation", "#growthmindset", "#dailyhabits"],
-    "time":     ["#timemanagement", "#productivity", "#focus", "#deepwork", "#timeblocking"],
-    "social":   ["#networking", "#socialcapital", "#communication", "#relationships", "#reputation"],
-    "declutter":["#minimalism", "#declutter", "#intentionalliving", "#simplify", "#environmentdesign"],
-    "challenge":["#7daychallenge", "#habitchallenge", "#selfdiscipline", "#dailychallenge"],
+    "core":     ["#selfimprovement", "#motivation", "#discipline", "#success", "#mindset", "#personalgrowth"],
+    "systems":  ["#productivity", "#habits", "#discipline", "#selfimprovement", "#success"],
+    "money":    ["#money", "#personalfinance", "#finance", "#wealth", "#investing", "#financialfreedom"],
+    "career":   ["#career", "#success", "#entrepreneur", "#motivation", "#growth"],
+    "training": ["#fitness", "#health", "#motivation", "#gym", "#discipline"],
+    "recovery": ["#health", "#wellness", "#selfcare", "#mindset", "#motivation"],
+    "mindset":  ["#mindset", "#motivation", "#discipline", "#success", "#growthmindset"],
+    "time":     ["#productivity", "#timemanagement", "#focus", "#success", "#habits"],
+    "social":   ["#confidence", "#communication", "#success", "#relationships", "#motivation"],
+    "declutter":["#minimalism", "#organization", "#productivity", "#declutter", "#intentionalliving"],
+    "challenge":["#discipline", "#motivation", "#selfimprovement", "#habits", "#goals"],
 }
 
 # accent + kind are hints; build.py rotates styles deterministically for grid variety.

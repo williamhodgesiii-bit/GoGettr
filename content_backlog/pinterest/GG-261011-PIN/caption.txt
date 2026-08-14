@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : SYSTEM DESIGN   (theme T56 · Build The Machine — Recap)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Self Improvement & Discipline   <- pin to this Pinterest board
 TITLE     : How To Build Life Systems That Last
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 How To Build Life Systems That Last. You do not rise to your goals. You fall to your systems. Eight weeks in one line: build the machine, skip the mood. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #systemsthinking

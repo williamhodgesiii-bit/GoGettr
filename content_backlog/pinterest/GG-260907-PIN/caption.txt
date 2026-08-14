@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : 168 HOURS   (theme T22 · 168 Hours)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Productivity & Time Management   <- pin to this Pinterest board
 TITLE     : Where Does My Time Go
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 Where Does My Time Go. 168 hours a week. Most of us can only account for 90. The calendar keeps receipts. Read last week before you plan next. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #timemanagement

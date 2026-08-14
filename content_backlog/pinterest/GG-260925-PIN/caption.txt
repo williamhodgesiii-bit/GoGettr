@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : ENVIRONMENT ENGINEERING   (theme T40 · The Default Grocery 12)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Home & Life Organization   <- pin to this Pinterest board
 TITLE     : Staple Grocery List For Adults
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 Staple Grocery List For Adults. Keep 12 groceries that can always make something. Build your 12 once. Never stare at an empty fridge again. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #systemsthinking

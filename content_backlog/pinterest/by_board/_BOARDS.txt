@@ -1,0 +1,9 @@
+PINTEREST BOARDS — create these boards, then upload each pin to its board.
+
+Career Growth & Success  ->  8 pins  ->  by_board/career-growth-and-success.csv
+Confidence & Social Skills  ->  2 pins  ->  by_board/confidence-and-social-skills.csv
+Fitness & Healthy Habits  ->  5 pins  ->  by_board/fitness-and-healthy-habits.csv
+Home & Life Organization  ->  7 pins  ->  by_board/home-and-life-organization.csv
+Money & Personal Finance  ->  15 pins  ->  by_board/money-and-personal-finance.csv
+Productivity & Time Management  ->  8 pins  ->  by_board/productivity-and-time-management.csv
+Self Improvement & Discipline  ->  11 pins  ->  by_board/self-improvement-and-discipline.csv

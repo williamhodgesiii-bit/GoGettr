@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : THE AUDIT   (theme T43 · Self-Help Audit)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Self Improvement & Discipline   <- pin to this Pinterest board
 TITLE     : Stop Consuming Start Doing
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 Stop Consuming Start Doing. You might be consuming self-improvement, not doing it. Count implementations, not inputs. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #mindsetshift

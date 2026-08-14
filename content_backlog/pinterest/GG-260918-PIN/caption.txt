@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : THE AUDIT   (theme T33 · The Gogettr Scorecard)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Self Improvement & Discipline   <- pin to this Pinterest board
 TITLE     : Life Scorecard Self Assessment
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 Life Scorecard Self Assessment. How together is your life, actually? Score it. Lowest score gets the next 30 days. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #systemsthinking

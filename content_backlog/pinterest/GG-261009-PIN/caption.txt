@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : MINI CHALLENGES   (theme T54 · The 5-Night Tomorrow-Note)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Productivity & Time Management   <- pin to this Pinterest board
 TITLE     : Night Routine For A Productive Morning
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 Night Routine For A Productive Morning. For five nights, leave one sentence telling tomorrow where to start. Make morning inherit clarity. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #7daychallenge

@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : SOCIAL CAPITAL   (theme T55 · The Better Second Question)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Confidence & Social Skills   <- pin to this Pinterest board
 TITLE     : How To Have Better Conversations
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 How To Have Better Conversations. Most conversations die on the second question. Here is the fix. Trade the reflex question for a real one. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #networking

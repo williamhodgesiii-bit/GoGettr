@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : CAREER SIGNALS   (theme T36 · Career Signals)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Career Growth & Success   <- pin to this Pinterest board
 TITLE     : What Employers Actually Want
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 What Employers Actually Want. What your future employer cares about more than your GPA. Build evidence, not just credentials. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #careeradvice

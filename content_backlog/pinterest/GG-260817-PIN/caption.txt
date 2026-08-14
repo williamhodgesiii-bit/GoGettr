@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : SYSTEM DESIGN   (theme T01 · System Design)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Self Improvement & Discipline   <- pin to this Pinterest board
 TITLE     : Systems That Beat Willpower
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 Systems That Beat Willpower. You do not need more motivation. You need fewer decisions. Willpower is a tax you pay every morning. A system pays it once. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #systemsthinking

@@ -5,6 +5,7 @@ FORMAT    : Pin 1000x1500
 PILLAR    : 168 HOURS   (theme T02 · The 6Pm Rule)
 PRIMARY   : 01_pin.png
 ASSETS    : 01_pin.png
+BOARD     : Productivity & Time Management   <- pin to this Pinterest board
 TITLE     : Evening Routine For Ambitious People
 
 ------------------------------------------------------------
@@ -12,5 +13,3 @@ CAPTION (copy below):
 ------------------------------------------------------------
 
 Evening Routine For Ambitious People. Your 9 to 5 pays today. What does 6 to 10 build? Four hours a night, repeated, becomes a direction. Save this pin for the next time you need it. Follow @gogettrdaily for more.
-
-#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #timemanagement

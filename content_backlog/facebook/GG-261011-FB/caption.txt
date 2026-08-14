@@ -3,8 +3,8 @@ PLATFORM  : Facebook
 PUBLISH   : 2026-10-11 09:00 ET  (Sun)
 FORMAT    : Single image (1080x1350)
 PILLAR    : SYSTEM DESIGN   (theme T56 · Build The Machine — Recap)
-PRIMARY   : 01_cover.png
-ASSETS    : 01_cover.png
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
 
 ------------------------------------------------------------
 CAPTION (copy below):

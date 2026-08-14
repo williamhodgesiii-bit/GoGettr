@@ -3,8 +3,8 @@ PLATFORM  : LinkedIn
 PUBLISH   : 2026-09-28 08:00 ET  (Mon)
 FORMAT    : Single image (1080x1080)
 PILLAR    : THE AUDIT   (theme T43 · Self-Help Audit)
-PRIMARY   : 01_cover.png
-ASSETS    : 01_cover.png
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
 
 ------------------------------------------------------------
 CAPTION (copy below):

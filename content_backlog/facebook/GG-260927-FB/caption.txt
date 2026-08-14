@@ -3,8 +3,8 @@ PLATFORM  : Facebook
 PUBLISH   : 2026-09-27 09:00 ET  (Sun)
 FORMAT    : Single image (1080x1350)
 PILLAR    : MINI CHALLENGES   (theme T42 · The 3-Day No-Delivery Test)
-PRIMARY   : 01_cover.png
-ASSETS    : 01_cover.png
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
 
 ------------------------------------------------------------
 CAPTION (copy below):

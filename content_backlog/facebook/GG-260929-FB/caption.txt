@@ -3,8 +3,8 @@ PLATFORM  : Facebook
 PUBLISH   : 2026-09-29 09:00 ET  (Tue)
 FORMAT    : Single image (1080x1350)
 PILLAR    : MONEY SYSTEMS   (theme T44 · Budget Ladder)
-PRIMARY   : 01_cover.png
-ASSETS    : 01_cover.png
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
 
 ------------------------------------------------------------
 CAPTION (copy below):

@@ -21,7 +21,7 @@ different asset, different caption, same spine.
 |---|---|---|
 | **Instagram** (main) | Carousel 1080×1350 (most days) + Reel every 3rd day | Carousels win engagement & saves (~0.55% vs 0.45% static); Reels win reach (~2.25×). We use carousels for depth, Reels for discovery. |
 | **Facebook** (linked) | Single light "chrome" card 1080×1350 + conversational caption | Distinct lighter look for FB's audience; question-led captions drive comments. |
-| **TikTok** | Vertical MP4 slideshow 1080×1920 (4 beats, ~11s) | Cold-open hook in <1.5s, one idea per frame, text-on-screen (68% watch muted), built for *add trending sound*. |
+| **TikTok** | Vertical MP4 slideshow 1080×1920 (4–5 frames, ~11–13s) | Cold-open hook in <1.5s, one idea per frame, text-on-screen (68% watch muted), built for *add trending sound*. Frame recipes rotate, and each outlet gets a different cut of the same theme. |
 | **X / Twitter** | Text thread + 1600×900 card | Text leads engagement on X (~3.56%); the card carries the hook, the thread carries the system. |
 | **LinkedIn** | Single image 1080×1080 + a value-packed caption | Kept deliberately simple — the steps live in the caption (where LinkedIn readers actually engage). Calmer register, no slang. |
 | **Pinterest** | 2:3 Pin 1000×1500, keyword eyebrow, sorted into 7 keyword-named boards | 2:3 pins get ~31% more saves; Pinterest is keyword search (not hashtags) — titles/descriptions are keyword-led and each pin is filed to a themed board. |
@@ -52,15 +52,21 @@ in the schedule CSV and can be shifted in one place (`engine/build.py`).
   next slide — a question, a gap, a first step. If the cover could stand alone, it
   was rewritten. (Straight from the Vault's own rule.)
 - **Escalation.** Carousels and videos go hook → tension → evidence/steps → close
-  with a save/comment/follow. Videos are 4 frames that build to the CTA so people
-  watch to the end.
+  with a save/comment/follow. Videos are 4–5 frames that build to the CTA so
+  people watch to the end, and no two frames use the same layout.
 - **One idea per frame.** Big type, one thought, high contrast.
-- **Recognisable shell.** Fixed eyebrow + `1/5` slide index so a
+- **Recognisable shell.** Fixed eyebrow + `2 / 7` slide index so a
   carousel and its Reel read as the same drop and a series is recognised before
   it's read.
-- **Grid rhythm.** Cover styles rotate (hook / list / stat / plate / violet quote)
-  and grounds alternate, so the profile grid reads as texture, never as five
-  identical tiles.
+- **No slide repeats another.** A carousel is a cover, one card per beat, an
+  optional recap and a close — and **every one of them is a different layout**:
+  a step numeral, a plate band, a centred line, a highlighted phrase, a step
+  rail, a quote card. Carousels run 7 or 8 slides and the recipe rotates daily,
+  so two days in a row never swipe the same.
+- **Grid rhythm.** Cover templates follow the board's nine-post rotation and
+  Reels are planned as grid tiles too, so the profile reads as texture: never
+  two light grounds side by side, and violet held to about one tile per row of
+  three.
 
 ## Hashtags — broad reach, within each platform's limit
 Tags are chosen for **broad, high-traffic reach** (e.g. `#selfimprovement`,
@@ -81,8 +87,33 @@ they never exceed what a platform rewards in 2025–26:
 - **Type:** Space Grotesk (display/hook), JetBrains Mono (eyebrows/indices/footers),
   Archivo (body). Exact scale & tracking from the board.
 - **Mark:** the Forward chevron `»` in three cuts (graphite / volt / violet).
-- **Variety by design:** 14 template skins across the platforms so no two posts —
-  and no two outlets — look the same, while every asset is unmistakably GoGettr.
+- **Templates:** every named layout on the board is built — Instagram's five
+  covers (spectrum hook, list cover, inset photo, stat, violet quote), the four
+  TikTok/Reels frames (cold-open, day counter, B-roll plate, list tease), the
+  four Pinterest pins (list, printable, photo-top, rule) and the LinkedIn set —
+  plus carousel interiors and X cards in the same language. **42 distinct
+  templates** are in rotation, and they differ by *structure* — where the content
+  region sits, how the artboard is split, which components carry it — not by
+  colour swap.
+- **Plates instead of stock:** where the board marks a "photo" slot, the asset
+  ships with a designed plate (seven procedural treatments — chevron, hatch,
+  grid, rings, dots, sweep, bars) so nothing is a placeholder.
+- **No URL:** the board stamps `gogettr.co` on pins and link cards. There is no
+  live domain, so the handle carries the mark instead.
+
+## Why nothing overlaps
+
+Layout is measured before it is drawn. Each slide is a stack of blocks that
+report their real inked height (from font metrics, not estimates) into a content
+region bounded by the margins above and a reserved footer band below. If the
+stack is too tall, type steps down and optional lines drop out until it fits —
+so a volt bar, a hairline or a footer can never land on a descender, and text
+can never run off the artboard.
+
+`python -m engine.audit` proves it: it re-renders all **1,057 slides** and fails
+on any slide that is out of format, crosses a margin or the video UI-safe band,
+overlaps another element, sets type below the legibility floor, repeats a layout
+inside one post, or breaks the grid rotation. The backlog ships at zero issues.
 
 ## Sources (research)
 - Socialinsider / Buffer — 2025–26 format benchmarks (carousels vs Reels; 45M-post format study).

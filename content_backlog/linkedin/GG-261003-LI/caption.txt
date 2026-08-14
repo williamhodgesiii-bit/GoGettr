@@ -3,8 +3,8 @@ PLATFORM  : LinkedIn
 PUBLISH   : 2026-10-03 08:00 ET  (Sat)
 FORMAT    : Single image (1080x1080)
 PILLAR    : MINI CHALLENGES   (theme T48 · The 5-Day Early-Arrival Test)
-PRIMARY   : 01_cover.png
-ASSETS    : 01_cover.png
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
 
 ------------------------------------------------------------
 CAPTION (copy below):

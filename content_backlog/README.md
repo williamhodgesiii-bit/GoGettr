@@ -19,11 +19,14 @@ content_backlog/
 ├── instagram/  facebook/  x/  linkedin/  youtube/  tiktok/  pinterest/
 │   └── pinterest/by_board/    ← pins split by board + _BOARDS.txt (create these boards)
 │   └── <POST_ID>/
-│        ├── 01_cover.png, 02_beat.png … 07_close.png   (Instagram carousels)
+│        ├── 01_cover.png, 02_beat.png … 08_close.png   (Instagram carousels)
 │        ├── video.mp4                                    (TikTok / Shorts / IG Reels)
-│        ├── 01_card.png / 01_pin.png / 01_cover.png      (X / Pinterest / FB / LinkedIn single image)
+│        ├── 01_card.png / 01_pin.png                     (X / Pinterest / FB / LinkedIn single image)
 │        └── caption.txt   ← ID, publish time, format, and the caption to paste
 ```
+
+Slide filenames name their role — `cover`, `beat`, `recap`, `close`, `frame`,
+`end`, `pin`, `card` — so you can see the shape of a carousel before opening it.
 
 ## Post ID format
 `GG-YYMMDD-PLATFORM` → e.g. **`GG-260817-IG`** = the Instagram post for Aug 17, 2026.
@@ -72,6 +75,17 @@ sound when you post**. That's the highest-reach move on TikTok/Reels/Shorts and
 keeps you clear of music licensing.
 
 ## Want changes?
-The whole backlog regenerates from `engine/` (`python -m engine.render`). Edit a
-theme's words in `engine/content.py`, tweak times/formats in `engine/build.py`, or
-adjust the look in `engine/templates.py` / `styles.py`, then re-run.
+The whole backlog regenerates from `engine/` (`python -m engine.render`):
+
+| file | what lives there |
+|---|---|
+| `engine/content.py` | the words — 56 themes, hooks, beats, quotes, keywords |
+| `engine/build.py` | which template each post gets, times, captions, hashtags |
+| `engine/styles.py` | the template library — every named layout on the board |
+| `engine/layout.py` | the measure-then-place engine (fit, spacing, no overlap) |
+| `engine/surface.py` | grounds, plates, the Forward mark, footers, UI-safe bands |
+| `engine/brand.py` | colour, type scale, tracking, text metrics |
+
+After any change run `python -m engine.audit` — it re-renders every slide and
+fails if anything is out of format, crosses a margin, overlaps, sets type below
+the legibility floor, or breaks the grid rotation. `--sample 40` for a quick pass.

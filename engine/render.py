@@ -15,12 +15,16 @@ FF = imageio_ffmpeg.get_ffmpeg_exe()
 PLAT_ORDER = {p[0]: n for n, p in enumerate(PLATFORMS)}
 
 # asset filename hints per style role
+ROLES = {"ig_": "cover", "beat_": "beat", "close_": "close", "v_": "frame",
+         "pin_": "pin", "li_": "card", "x_": "card", "fb_": "card"}
+
+
 def slide_name(k, style):
-    role = {"cover_hook": "cover", "cover_list": "cover", "stat": "cover",
-            "close_cta": "close", "body_beat": "beat", "rule": "line",
-            "quote": "quote", "pin_list": "pin", "pin_rule": "pin",
-            "vert_hook": "hook", "vert_end": "end", "wide_quote": "card",
-            "wide_stat": "card", "day_counter": "day"}.get(style, "slide")
+    role = next((v for p, v in ROLES.items() if style.startswith(p)), "slide")
+    if style in ("beat_ledger", "beat_rows"):
+        role = "recap"
+    elif style == "v_end":
+        role = "end"
     return f"{k:02d}_{role}.png"
 
 def render_slides(post, folder):
@@ -42,10 +46,10 @@ def make_video(post, folder):
         img.save(os.path.join(frames_dir, fn))
         fnames.append(fn)
     # concat list: hold each frame; duplicate last so its duration applies
-    durs = {1: 3.0, 2: 3.2, 3: 3.0, 4: 2.6}  # by position
+    durs = post.get("durations") or [3.0] * len(fnames)
     lines = []
     for k, fn in enumerate(fnames, 1):
-        lines.append(f"file '{fn}'\nduration {durs.get(k, 3.0)}")
+        lines.append(f"file '{fn}'\nduration {durs[k - 1] if k <= len(durs) else 3.0}")
     lines.append(f"file '{fnames[-1]}'")
     with open(os.path.join(frames_dir, "list.txt"), "w") as f:
         f.write("\n".join(lines) + "\n")
@@ -106,10 +110,6 @@ def main(render_assets=True):
             assets = [primary] + extra
         else:
             names = render_slides(post, folder)
-            if post.get("link_slide"):
-                ls, lspec = post["link_slide"]
-                S.STYLES[ls]("link", lspec).save(os.path.join(folder, "link_card.png"))
-                names.append("link_card.png")
             assets = names
             primary = names[0]
         total_assets += len([a for a in assets if not a.startswith("frames/")])

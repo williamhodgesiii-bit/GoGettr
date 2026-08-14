@@ -3,8 +3,8 @@ PLATFORM  : Facebook
 PUBLISH   : 2026-09-09 09:00 ET  (Wed)
 FORMAT    : Single image (1080x1350)
 PILLAR    : PURCHASE LAB   (theme T24 · Buy Once)
-PRIMARY   : 01_cover.png
-ASSETS    : 01_cover.png
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
 
 ------------------------------------------------------------
 CAPTION (copy below):

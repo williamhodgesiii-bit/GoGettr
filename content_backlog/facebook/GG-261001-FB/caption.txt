@@ -3,8 +3,8 @@ PLATFORM  : Facebook
 PUBLISH   : 2026-10-01 09:00 ET  (Thu)
 FORMAT    : Single image (1080x1350)
 PILLAR    : SOCIAL CAPITAL   (theme T46 · The Introduction Bank)
-PRIMARY   : 01_cover.png
-ASSETS    : 01_cover.png
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
 
 ------------------------------------------------------------
 CAPTION (copy below):

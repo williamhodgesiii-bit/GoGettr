@@ -1,0 +1,16 @@
+POST ID   : GG-261006-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-06 20:00 ET  (Tue)
+FORMAT    : Pin 1000x1500
+PILLAR    : MINI CHALLENGES   (theme T51 · The One-Week No-Multitask Meal)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+TITLE     : Mindful Eating Challenge
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Mindful Eating Challenge — a simple GoGettr system. For seven meals, eat without a screen. Notice the pace. Seven meals, not forever. Save this pin for the next time you need it. More systems for money, training and recovery at gogettr.co.
+
+#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #7daychallenge

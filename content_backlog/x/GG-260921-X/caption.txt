@@ -1,0 +1,23 @@
+POST ID   : GG-260921-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-21 09:00 ET  (Mon)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : CAREER SIGNALS   (theme T36 · Career Signals)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+What your future employer cares about more than your GPA.
+
+1. Can you explain clearly?
+2. Can you solve without being chased?
+3. Can people rely on your word?
+4. Can you show finished work?
+5. Build evidence, not just credentials.
+
+Which proof are you missing?
+
+#gogettr #buildthemachine

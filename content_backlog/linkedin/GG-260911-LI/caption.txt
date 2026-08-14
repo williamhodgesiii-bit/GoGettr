@@ -1,0 +1,27 @@
+POST ID   : GG-260911-LI
+PLATFORM  : LinkedIn
+PUBLISH   : 2026-09-11 08:00 ET  (Fri)
+FORMAT    : Document carousel · 7 slides (1080x1080) + link card
+PILLAR    : MONEY SYSTEMS   (theme T26 · Parallel Story)
+PRIMARY   : 01_cover.png
+ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png, link_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+The most capable people I know don't run on willpower. They design defaults.
+
+Two people get the same $1,000. Same money, different year.
+
+• Person A upgrades what can be seen.
+• Person B buys breathing room.
+• Then a tool or a skill.
+• Then an asset.
+• Same money. Different sequence.
+
+Systems beat motivation because they only ask you to decide once.
+
+Operating systems for ambitious people — new one every morning.
+
+#gogettr #buildthemachine #selfimprovement #discipline

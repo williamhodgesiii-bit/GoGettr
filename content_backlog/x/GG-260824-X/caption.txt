@@ -1,0 +1,23 @@
+POST ID   : GG-260824-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-08-24 09:00 ET  (Mon)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : THE AUDIT   (theme T08 · The 7-Day Time Leak Audit)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Your week is leaking. Find the hole before you add another goal.
+
+1. Mark every non-work, non-recovery block.
+2. Circle anything you did by default.
+3. Add the minutes.
+4. Pick the biggest leak.
+5. Next week, block it before it starts.
+
+Start the seven-day count today.
+
+#gogettr #buildthemachine

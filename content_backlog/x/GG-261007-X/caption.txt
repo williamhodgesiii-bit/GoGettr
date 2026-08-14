@@ -1,0 +1,23 @@
+POST ID   : GG-261007-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-07 09:00 ET  (Wed)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : BORING EDGE   (theme T52 · The Unsurprising Move)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Consistency is not intensity. It is making the right move unsurprising.
+
+1. Same time.
+2. Same trigger.
+3. Same small dose.
+4. No decision required.
+5. Boring on the outside, compounding underneath.
+
+Which move will you make automatic?
+
+#gogettr #buildthemachine

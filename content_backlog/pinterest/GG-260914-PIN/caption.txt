@@ -1,0 +1,16 @@
+POST ID   : GG-260914-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-09-14 20:00 ET  (Mon)
+FORMAT    : Pin 1000x1500
+PILLAR    : BORING EDGE   (theme T29 · Boring Edge)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+TITLE     : Boring Habits That Build Success
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Boring Habits That Build Success — a simple GoGettr system. What successful people make boring. The goal is to make the right move unsurprising. Save this pin for the next time you need it. More systems for money, training and recovery at gogettr.co.
+
+#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #mindsetshift

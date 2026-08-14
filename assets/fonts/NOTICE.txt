@@ -1,0 +1,6 @@
+Fonts in this folder are licensed under the SIL Open Font License 1.1
+(free for commercial use, including embedding in social graphics):
+  - Space Grotesk  — https://fonts.google.com/specimen/Space+Grotesk
+  - JetBrains Mono  — https://fonts.google.com/specimen/JetBrains+Mono
+  - Archivo         — https://fonts.google.com/specimen/Archivo
+Downloaded from the Google Fonts project (github.com/google/fonts).

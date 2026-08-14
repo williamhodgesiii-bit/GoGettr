@@ -1,0 +1,23 @@
+POST ID   : GG-260909-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-09 09:00 ET  (Wed)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : PURCHASE LAB   (theme T24 · Buy Once)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Cheap gets expensive when you use it every day.
+
+1. Sleep surface.
+2. Shoes.
+3. Office chair.
+4. Luggage.
+5. Daily-use tech.
+
+Which one are you overdue to upgrade?
+
+#gogettr #buildthemachine

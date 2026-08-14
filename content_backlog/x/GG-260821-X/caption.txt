@@ -1,0 +1,23 @@
+POST ID   : GG-260821-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-08-21 09:00 ET  (Fri)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : RECEIPTS   (theme T05 · Wake-Up Sequence)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+At some point the handoff never comes. The first move is yours.
+
+1. No one builds your savings.
+2. No one protects your calendar.
+3. No one trains your body for you.
+4. No one creates your next option.
+5. Responsibility is where leverage starts.
+
+Claim one thing no one is coming to fix.
+
+#gogettr #buildthemachine

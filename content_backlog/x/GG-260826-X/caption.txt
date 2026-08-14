@@ -1,0 +1,23 @@
+POST ID   : GG-260826-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-08-26 09:00 ET  (Wed)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : WORK CAPACITY   (theme T10 · Capability Stack)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+How to become hard to replace — without a new title.
+
+1. Solve before escalation.
+2. Write clearly.
+3. Learn without a classroom.
+4. Keep promises.
+5. Make the people around you better.
+
+Rate yourself 1-5 on each. Fix the lowest.
+
+#gogettr #buildthemachine

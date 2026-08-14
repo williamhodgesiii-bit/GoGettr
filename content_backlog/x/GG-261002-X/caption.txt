@@ -1,0 +1,23 @@
+POST ID   : GG-261002-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-02 09:00 ET  (Fri)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : ONE-WAY DOORS   (theme T47 · Branching Path)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Two versions of you wake up tomorrow. Which one gets the better year?
+
+1. Scroll or train.
+2. Impress or invest.
+3. Consume or build.
+4. Avoid or ask.
+5. Small forks become different lives.
+
+Which fork are you taking tomorrow?
+
+#gogettr #buildthemachine

@@ -1,0 +1,16 @@
+POST ID   : GG-260926-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-09-26 20:00 ET  (Sat)
+FORMAT    : Pin 1000x1500
+PILLAR    : SYSTEM DESIGN   (theme T41 · Habit Transfer)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+TITLE     : Habits Of High Performers
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Habits Of High Performers — a simple GoGettr system. Steal one operating habit from each kind of high performer. You do not need their life. Take their habit. Save this pin for the next time you need it. More systems for money, training and recovery at gogettr.co.
+
+#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #mindsetshift

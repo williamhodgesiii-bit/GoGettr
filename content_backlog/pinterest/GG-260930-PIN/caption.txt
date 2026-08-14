@@ -1,0 +1,16 @@
+POST ID   : GG-260930-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-09-30 20:00 ET  (Wed)
+FORMAT    : Pin 1000x1500
+PILLAR    : ENVIRONMENT ENGINEERING   (theme T45 · The Emergency Info Note)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+TITLE     : Emergency Information Checklist
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Emergency Information Checklist — a simple GoGettr system. Make one note with the info you would hate to search for under stress. Create it before you need it. Save this pin for the next time you need it. More systems for money, training and recovery at gogettr.co.
+
+#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #systemsthinking

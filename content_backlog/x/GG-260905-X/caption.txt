@@ -1,0 +1,23 @@
+POST ID   : GG-260905-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-05 09:00 ET  (Sat)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : SYSTEM DESIGN   (theme T20 · Cut List)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Your life gets easier when you stop doing these 5 things.
+
+1. Stop answering everything immediately.
+2. Stop buying things to be seen.
+3. Stop keeping every option open.
+4. Stop negotiating with the plan.
+5. Pick one thing to remove for 7 days.
+
+Pick one to cut for seven days.
+
+#gogettr #buildthemachine

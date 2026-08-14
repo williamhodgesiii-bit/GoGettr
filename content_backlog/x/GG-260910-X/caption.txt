@@ -1,0 +1,23 @@
+POST ID   : GG-260910-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-10 09:00 ET  (Thu)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : THE AUDIT   (theme T25 · Calendar Audit)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Your calendar is a better personality test than your bio.
+
+1. Where did the evenings go?
+2. Who got your best hours?
+3. What moved forward?
+4. What kept getting moved?
+5. The calendar keeps receipts.
+
+Open last week. What does it confess?
+
+#gogettr #buildthemachine

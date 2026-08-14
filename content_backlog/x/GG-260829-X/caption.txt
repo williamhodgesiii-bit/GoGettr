@@ -1,0 +1,23 @@
+POST ID   : GG-260829-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-08-29 09:00 ET  (Sat)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : RECOVERY PROTOCOL   (theme T13 · Recovery Is A Metric)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Recovery is a performance metric, not a reward.
+
+1. Same sleep and wake window.
+2. A hard stop on the screen.
+3. One real rest day, scheduled.
+4. Food and water on a timer.
+5. Track it or it did not happen.
+
+Schedule your rest day before the week starts.
+
+#gogettr #buildthemachine

@@ -1,0 +1,23 @@
+POST ID   : GG-260917-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-17 09:00 ET  (Thu)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : ESCAPE VELOCITY   (theme T32 · Career Map)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Which skill could move your income without changing your whole life?
+
+1. Write your current skill stack.
+2. Mark what employers already pay for.
+3. Find the one adjacent skill that unlocks more.
+4. Build proof, not just a plan.
+5. Move the income lever you already have.
+
+Name your one adjacent skill.
+
+#gogettr #buildthemachine

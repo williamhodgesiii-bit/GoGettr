@@ -1,0 +1,16 @@
+POST ID   : GG-261008-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-08 20:00 ET  (Thu)
+FORMAT    : Pin 1000x1500
+PILLAR    : ENVIRONMENT ENGINEERING   (theme T53 · The Weekly Refill List)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+TITLE     : Weekly Reset Checklist
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Weekly Reset Checklist — a simple GoGettr system. Refill the same five things on the same day every week. Maintenance gets easier when it has a day. Save this pin for the next time you need it. More systems for money, training and recovery at gogettr.co.
+
+#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #systemsthinking

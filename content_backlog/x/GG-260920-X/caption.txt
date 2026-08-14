@@ -1,0 +1,23 @@
+POST ID   : GG-260920-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-20 09:00 ET  (Sun)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : ENVIRONMENT ENGINEERING   (theme T35 · The 10% Better Room)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Do not redo the room. Fix the most annoying 10%.
+
+1. Find the corner you avoid.
+2. Name the one friction.
+3. Fix only that.
+4. Notice how the whole room lifts.
+5. Repeat next week, one corner at a time.
+
+Which corner is your 10%?
+
+#gogettr #buildthemachine

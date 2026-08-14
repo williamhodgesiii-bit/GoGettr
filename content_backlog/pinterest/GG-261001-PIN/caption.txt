@@ -1,0 +1,16 @@
+POST ID   : GG-261001-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-01 20:00 ET  (Thu)
+FORMAT    : Pin 1000x1500
+PILLAR    : SOCIAL CAPITAL   (theme T46 · The Introduction Bank)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+TITLE     : How To Network By Giving
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+How To Network By Giving — a simple GoGettr system. Who could you connect without asking for anything back? Be useful before you need usefulness. Save this pin for the next time you need it. More systems for money, training and recovery at gogettr.co.
+
+#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #networking

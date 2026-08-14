@@ -1,0 +1,16 @@
+POST ID   : GG-260910-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-09-10 20:00 ET  (Thu)
+FORMAT    : Pin 1000x1500
+PILLAR    : THE AUDIT   (theme T25 · Calendar Audit)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+TITLE     : What Your Calendar Says About You
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+What Your Calendar Says About You — a simple GoGettr system. Your calendar is a better personality test than your bio. Do not tell me your priorities. Show me last week. Save this pin for the next time you need it. More systems for money, training and recovery at gogettr.co.
+
+#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #timemanagement

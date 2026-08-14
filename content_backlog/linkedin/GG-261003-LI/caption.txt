@@ -1,0 +1,27 @@
+POST ID   : GG-261003-LI
+PLATFORM  : LinkedIn
+PUBLISH   : 2026-10-03 08:00 ET  (Sat)
+FORMAT    : Document carousel · 7 slides (1080x1080) + link card
+PILLAR    : MINI CHALLENGES   (theme T48 · The 5-Day Early-Arrival Test)
+PRIMARY   : 01_cover.png
+ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png, link_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+The most capable people I know don't run on willpower. They design defaults.
+
+Arrive five minutes early for five days. Track how different the day feels.
+
+• Five minutes early, five days.
+• Notice the calmer start.
+• Notice who reads it as respect.
+• Notice the decisions you make unrushed.
+• Keep what the data proves.
+
+Systems beat motivation because they only ask you to decide once.
+
+Operating systems for ambitious people — new one every morning.
+
+#gogettr #buildthemachine #selfimprovement #discipline

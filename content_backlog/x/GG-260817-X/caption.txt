@@ -1,0 +1,23 @@
+POST ID   : GG-260817-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-08-17 09:00 ET  (Mon)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : SYSTEM DESIGN   (theme T01 · Operating System № 01)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+You do not need more motivation. You need fewer decisions.
+
+1. Same wake window, every day.
+2. Automatic transfers on payday.
+3. Training clothes staged before bed.
+4. Tomorrow planned before today ends.
+5. Remove the daily negotiation.
+
+Pick one decision to automate this week.
+
+#gogettr #buildthemachine

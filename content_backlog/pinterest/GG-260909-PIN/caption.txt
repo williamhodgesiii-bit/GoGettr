@@ -1,0 +1,16 @@
+POST ID   : GG-260909-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-09-09 20:00 ET  (Wed)
+FORMAT    : Pin 1000x1500
+PILLAR    : PURCHASE LAB   (theme T24 · Buy Once)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+TITLE     : Buy It For Life Essentials
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Buy It For Life Essentials — a simple GoGettr system. Cheap gets expensive when you use it every day. Buy once where it touches your body and your work. Save this pin for the next time you need it. More systems for money, training and recovery at gogettr.co.
+
+#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #personalfinance

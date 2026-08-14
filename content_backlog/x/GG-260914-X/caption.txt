@@ -1,0 +1,23 @@
+POST ID   : GG-260914-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-14 09:00 ET  (Mon)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : BORING EDGE   (theme T29 · Boring Edge)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+What successful people make boring.
+
+1. Saving.
+2. Training.
+3. Following up.
+4. Sleeping.
+5. Make the right move unsurprising.
+
+Which habit needs to get boring for you?
+
+#gogettr #buildthemachine

@@ -1,0 +1,23 @@
+POST ID   : GG-260822-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-08-22 09:00 ET  (Sat)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : ENVIRONMENT ENGINEERING   (theme T06 · The Sunday Setup)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Want Monday to feel less expensive? Pay for it on Sunday.
+
+1. Read the week's calendar.
+2. Choose three outcomes.
+3. Reset your room.
+4. Stage food, clothes and chargers.
+5. Make Monday start before Monday.
+
+Run this before you sleep tonight.
+
+#gogettr #buildthemachine

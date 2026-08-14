@@ -1,0 +1,23 @@
+POST ID   : GG-261009-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-09 09:00 ET  (Fri)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : MINI CHALLENGES   (theme T54 · The 5-Night Tomorrow-Note)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+For five nights, leave one sentence telling tomorrow where to start.
+
+1. One sentence before bed.
+2. The single first task.
+3. No list, no essay.
+4. Wake into a decision already made.
+5. Make morning inherit clarity.
+
+Write tonight's sentence now.
+
+#gogettr #buildthemachine

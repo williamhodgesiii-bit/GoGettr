@@ -1,0 +1,23 @@
+POST ID   : GG-260926-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-26 09:00 ET  (Sat)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : SYSTEM DESIGN   (theme T41 · Habit Transfer)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Steal one operating habit from each kind of high performer.
+
+1. Athlete: repetition.
+2. Salesperson: follow-up.
+3. Investor: patience.
+4. Founder: ownership.
+5. Creator: shipping.
+
+Which habit do you steal first?
+
+#gogettr #buildthemachine

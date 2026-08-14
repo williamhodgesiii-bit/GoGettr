@@ -1,0 +1,27 @@
+POST ID   : GG-260921-LI
+PLATFORM  : LinkedIn
+PUBLISH   : 2026-09-21 08:00 ET  (Mon)
+FORMAT    : Document carousel · 7 slides (1080x1080) + link card
+PILLAR    : CAREER SIGNALS   (theme T36 · Career Signals)
+PRIMARY   : 01_cover.png
+ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png, link_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+The most capable people I know don't run on willpower. They design defaults.
+
+What your future employer cares about more than your GPA.
+
+• Can you explain clearly?
+• Can you solve without being chased?
+• Can people rely on your word?
+• Can you show finished work?
+• Build evidence, not just credentials.
+
+Systems beat motivation because they only ask you to decide once.
+
+Operating systems for ambitious people — new one every morning.
+
+#gogettr #buildthemachine #selfimprovement #discipline

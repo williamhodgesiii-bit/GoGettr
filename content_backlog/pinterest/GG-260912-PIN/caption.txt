@@ -1,0 +1,16 @@
+POST ID   : GG-260912-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-09-12 20:00 ET  (Sat)
+FORMAT    : Pin 1000x1500
+PILLAR    : SOCIAL CAPITAL   (theme T27 · Presence Audit)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+TITLE     : How To Make A Good Impression
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+How To Make A Good Impression — a simple GoGettr system. People notice these before they notice your clothes. Your outfit is not the first signal. Save this pin for the next time you need it. More systems for money, training and recovery at gogettr.co.
+
+#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #networking

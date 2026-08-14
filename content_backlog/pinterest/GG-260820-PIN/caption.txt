@@ -1,0 +1,16 @@
+POST ID   : GG-260820-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-08-20 20:00 ET  (Thu)
+FORMAT    : Pin 1000x1500
+PILLAR    : ESCAPE VELOCITY   (theme T04 · Money Milestone)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+TITLE     : How To Save Your First 10K
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+How To Save Your First 10K — a simple GoGettr system. Your first $10K changes the game — and not the way you think. The number matters. The identity shift matters more. Save this pin for the next time you need it. More systems for money, training and recovery at gogettr.co.
+
+#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #personalfinance

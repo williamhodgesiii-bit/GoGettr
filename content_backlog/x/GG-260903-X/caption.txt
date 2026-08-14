@@ -1,0 +1,23 @@
+POST ID   : GG-260903-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-03 09:00 ET  (Thu)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : RECEIPTS   (theme T18 · False Signals)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Things that look like success but usually are not.
+
+1. A car payment that owns the month.
+2. A calendar packed with low-value work.
+3. A wardrobe funded by future income.
+4. A title with no transferable skill.
+5. Measure what compounds, not what photographs well.
+
+Which signal have you been chasing?
+
+#gogettr #buildthemachine

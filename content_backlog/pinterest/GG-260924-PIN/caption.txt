@@ -1,0 +1,16 @@
+POST ID   : GG-260924-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-09-24 20:00 ET  (Thu)
+FORMAT    : Pin 1000x1500
+PILLAR    : BORING EDGE   (theme T39 · Age Shift)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+TITLE     : Things That Matter More After 25
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Things That Matter More After 25 — a simple GoGettr system. Things that become valuable fast after 25. The boring things stop being boring. Save this pin for the next time you need it. More systems for money, training and recovery at gogettr.co.
+
+#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #mindsetshift

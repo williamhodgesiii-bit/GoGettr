@@ -1,0 +1,23 @@
+POST ID   : GG-260925-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-25 09:00 ET  (Fri)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : ENVIRONMENT ENGINEERING   (theme T40 · The Default Grocery 12)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Keep 12 groceries that can always make something.
+
+1. Eggs and oats.
+2. Rice and beans.
+3. Frozen veg and fruit.
+4. A protein you trust.
+5. One sauce that saves any of it.
+
+What is on your default 12?
+
+#gogettr #buildthemachine

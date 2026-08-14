@@ -1,0 +1,23 @@
+POST ID   : GG-260906-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-06 09:00 ET  (Sun)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : CAREER SIGNALS   (theme T21 · Skill Stack)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+You do not need to be elite at one thing if the stack is rare.
+
+1. Write.
+2. Sell.
+3. Use new tools quickly.
+4. Speak clearly.
+5. Understand money.
+
+Which one is your weakest? Start there.
+
+#gogettr #buildthemachine

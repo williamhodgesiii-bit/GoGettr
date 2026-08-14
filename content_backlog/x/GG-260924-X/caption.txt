@@ -1,0 +1,23 @@
+POST ID   : GG-260924-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-24 09:00 ET  (Thu)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : BORING EDGE   (theme T39 · Age Shift)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Things that become valuable fast after 25.
+
+1. Sleep.
+2. Good credit.
+3. Cooking.
+4. Real friendships.
+5. A body that still works without negotiation.
+
+Which one are you glad you started early?
+
+#gogettr #buildthemachine

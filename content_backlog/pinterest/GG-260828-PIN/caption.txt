@@ -1,0 +1,16 @@
+POST ID   : GG-260828-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-08-28 20:00 ET  (Fri)
+FORMAT    : Pin 1000x1500
+PILLAR    : ENVIRONMENT ENGINEERING   (theme T12 · Phone Audit)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+TITLE     : Phone Home Screen Setup For Focus
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Phone Home Screen Setup For Focus — a simple GoGettr system. Your phone is either a tool or a slot machine. Which did you build? Your home screen is an environment. Save this pin for the next time you need it. More systems for money, training and recovery at gogettr.co.
+
+#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #minimalism

@@ -1,0 +1,23 @@
+POST ID   : GG-260901-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-01 09:00 ET  (Tue)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : DECISION FILTER   (theme T16 · The Future Me Test)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Before the next yes, buy, quit or delay — run this test.
+
+1. Will tomorrow-you thank you?
+2. Will one-year-you still care?
+3. Will five-year-you pay for it?
+4. If the answer worsens with time, change the move.
+5. Decide for the person who inherits it.
+
+Run it on the decision you are avoiding.
+
+#gogettr #buildthemachine

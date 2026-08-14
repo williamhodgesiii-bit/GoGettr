@@ -1,0 +1,27 @@
+POST ID   : GG-260926-LI
+PLATFORM  : LinkedIn
+PUBLISH   : 2026-09-26 08:00 ET  (Sat)
+FORMAT    : Document carousel · 7 slides (1080x1080) + link card
+PILLAR    : SYSTEM DESIGN   (theme T41 · Habit Transfer)
+PRIMARY   : 01_cover.png
+ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png, link_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+The most capable people I know don't run on willpower. They design defaults.
+
+Steal one operating habit from each kind of high performer.
+
+• Athlete: repetition.
+• Salesperson: follow-up.
+• Investor: patience.
+• Founder: ownership.
+• Creator: shipping.
+
+Systems beat motivation because they only ask you to decide once.
+
+Operating systems for ambitious people — new one every morning.
+
+#gogettr #buildthemachine #selfimprovement #discipline

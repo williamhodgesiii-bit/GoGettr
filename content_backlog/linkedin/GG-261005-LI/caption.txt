@@ -1,0 +1,27 @@
+POST ID   : GG-261005-LI
+PLATFORM  : LinkedIn
+PUBLISH   : 2026-10-05 08:00 ET  (Mon)
+FORMAT    : Document carousel · 7 slides (1080x1080) + link card
+PILLAR    : ENVIRONMENT ENGINEERING   (theme T50 · The Paperwork Drop Zone)
+PRIMARY   : 01_cover.png
+ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png, link_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+The most capable people I know don't run on willpower. They design defaults.
+
+Mail has two jobs: act or archive. Give both a place.
+
+• One tray to ACT.
+• One tray to FILE.
+• Nothing lands anywhere else.
+• Clear the ACT tray weekly.
+• Stop moving paper around the house.
+
+Systems beat motivation because they only ask you to decide once.
+
+Operating systems for ambitious people — new one every morning.
+
+#gogettr #buildthemachine #selfimprovement #discipline

@@ -1,0 +1,23 @@
+POST ID   : GG-260930-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-30 09:00 ET  (Wed)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : ENVIRONMENT ENGINEERING   (theme T45 · The Emergency Info Note)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Make one note with the info you would hate to search for under stress.
+
+1. Emergency contacts.
+2. Insurance and policy numbers.
+3. Medications and doses.
+4. Roadside and account lines.
+5. Create it before you need it.
+
+Build the note tonight.
+
+#gogettr #buildthemachine

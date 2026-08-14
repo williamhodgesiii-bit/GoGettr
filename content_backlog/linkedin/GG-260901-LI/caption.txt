@@ -1,0 +1,27 @@
+POST ID   : GG-260901-LI
+PLATFORM  : LinkedIn
+PUBLISH   : 2026-09-01 08:00 ET  (Tue)
+FORMAT    : Document carousel · 7 slides (1080x1080) + link card
+PILLAR    : DECISION FILTER   (theme T16 · The Future Me Test)
+PRIMARY   : 01_cover.png
+ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png, link_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+The most capable people I know don't run on willpower. They design defaults.
+
+Before the next yes, buy, quit or delay — run this test.
+
+• Will tomorrow-you thank you?
+• Will one-year-you still care?
+• Will five-year-you pay for it?
+• If the answer worsens with time, change the move.
+• Decide for the person who inherits it.
+
+Systems beat motivation because they only ask you to decide once.
+
+Operating systems for ambitious people — new one every morning.
+
+#gogettr #buildthemachine #selfimprovement #discipline

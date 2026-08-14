@@ -1,0 +1,27 @@
+POST ID   : GG-260907-LI
+PLATFORM  : LinkedIn
+PUBLISH   : 2026-09-07 08:00 ET  (Mon)
+FORMAT    : Document carousel · 7 slides (1080x1080) + link card
+PILLAR    : 168 HOURS   (theme T22 · 168 Hours)
+PRIMARY   : 01_cover.png
+ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png, link_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+The most capable people I know don't run on willpower. They design defaults.
+
+168 hours a week. Most of us can only account for 90.
+
+• Sleep is a third of it.
+• Work takes its slice.
+• Then the 90 nobody tracks.
+• Find the ten you would take back.
+• Put one reclaimed hour on the calendar.
+
+Systems beat motivation because they only ask you to decide once.
+
+Operating systems for ambitious people — new one every morning.
+
+#gogettr #buildthemachine #selfimprovement #discipline

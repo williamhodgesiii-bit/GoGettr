@@ -1,0 +1,23 @@
+POST ID   : GG-261010-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-10 09:00 ET  (Sat)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : SOCIAL CAPITAL   (theme T55 · The Better Second Question)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Most conversations die on the second question. Here is the fix.
+
+1. Skip 'so what do you do'.
+2. Ask about the part they lit up on.
+3. Follow the energy, not the script.
+4. Let silence do some work.
+5. Curiosity is the whole skill.
+
+Try it in your next conversation.
+
+#gogettr #buildthemachine

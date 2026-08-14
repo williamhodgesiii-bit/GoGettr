@@ -1,0 +1,23 @@
+POST ID   : GG-260904-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-04 09:00 ET  (Fri)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : MONEY SYSTEMS   (theme T19 · The Invisible Subscription Audit)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+You are paying for more than apps. Most of it is invisible.
+
+1. List recurring charges.
+2. Then recurring habits that create spending.
+3. Delivery. Convenience fees. Late fees. Top-ups.
+4. Price the behavior, not the app.
+5. Cancel one financial autopilot working against you.
+
+Cancel one autopilot today.
+
+#gogettr #buildthemachine

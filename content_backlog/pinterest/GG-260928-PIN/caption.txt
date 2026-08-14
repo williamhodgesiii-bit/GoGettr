@@ -1,0 +1,16 @@
+POST ID   : GG-260928-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-09-28 20:00 ET  (Mon)
+FORMAT    : Pin 1000x1500
+PILLAR    : THE AUDIT   (theme T43 · Self-Help Audit)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+TITLE     : Stop Consuming Start Doing
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Stop Consuming Start Doing — a simple GoGettr system. You might be consuming self-improvement, not doing it. Count implementations, not inputs. Save this pin for the next time you need it. More systems for money, training and recovery at gogettr.co.
+
+#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #mindsetshift

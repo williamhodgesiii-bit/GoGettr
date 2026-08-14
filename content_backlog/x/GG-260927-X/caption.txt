@@ -1,0 +1,23 @@
+POST ID   : GG-260927-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-27 09:00 ET  (Sun)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : MINI CHALLENGES   (theme T42 · The 3-Day No-Delivery Test)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Three days, no delivery apps. Notice what the convenience was solving.
+
+1. Delete the apps for 72 hours.
+2. Cook or walk to it.
+3. Notice the real cost you were paying.
+4. Keep the money you did not spend.
+5. Decide what stays deleted.
+
+Start the 3-day test today.
+
+#gogettr #buildthemachine

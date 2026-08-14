@@ -1,0 +1,23 @@
+POST ID   : GG-260915-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-15 09:00 ET  (Tue)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : PURCHASE LAB   (theme T30 · The Do-Not-Buy-It-Yet Checklist)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Checkout can wait 60 seconds. Run the first check.
+
+1. Will you use it 50 times?
+2. What is the cost per use?
+3. Are you buying the logo or the function?
+4. Would you still buy it without financing?
+5. If the answers are weak, leave the tab open.
+
+Save this before your next cart.
+
+#gogettr #buildthemachine

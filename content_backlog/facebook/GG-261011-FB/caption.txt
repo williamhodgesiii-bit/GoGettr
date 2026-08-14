@@ -1,0 +1,25 @@
+POST ID   : GG-261011-FB
+PLATFORM  : Facebook
+PUBLISH   : 2026-10-11 09:00 ET  (Sun)
+FORMAT    : Single image (1080x1350)
+PILLAR    : SYSTEM DESIGN   (theme T56 · Build The Machine — Recap)
+PRIMARY   : 01_cover.png
+ASSETS    : 01_cover.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+You do not rise to your goals. You fall to your systems.
+
+Eight weeks in one line: build the machine, skip the mood.
+
+→ Fewer decisions.
+→ Automatic money.
+→ Scheduled recovery.
+→ Proof of work.
+→ Track it or it did not happen.
+
+Which one would move your month the most? Tell me below. (Save the post so it is there when you need it.)
+
+#gogettr #buildthemachine #selfimprovement

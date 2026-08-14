@@ -1,0 +1,23 @@
+POST ID   : GG-260819-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-08-19 09:00 ET  (Wed)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : THE AUDIT   (theme T03 · Future Audit)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+If nothing changes for 365 days, are you okay with the result?
+
+1. Same income?
+2. Same body?
+3. Same habits?
+4. Same people around you?
+5. Your lowest answer is the next project.
+
+Name your lowest answer in the comments.
+
+#gogettr #buildthemachine

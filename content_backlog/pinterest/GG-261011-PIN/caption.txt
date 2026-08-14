@@ -1,0 +1,16 @@
+POST ID   : GG-261011-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-11 20:00 ET  (Sun)
+FORMAT    : Pin 1000x1500
+PILLAR    : SYSTEM DESIGN   (theme T56 · Build The Machine — Recap)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+TITLE     : How To Build Life Systems That Last
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+How To Build Life Systems That Last — a simple GoGettr system. You do not rise to your goals. You fall to your systems. Eight weeks in one line: build the machine, skip the mood. Save this pin for the next time you need it. More systems for money, training and recovery at gogettr.co.
+
+#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #systemsthinking

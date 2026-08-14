@@ -1,0 +1,23 @@
+POST ID   : GG-261005-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-05 09:00 ET  (Mon)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : ENVIRONMENT ENGINEERING   (theme T50 · The Paperwork Drop Zone)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Mail has two jobs: act or archive. Give both a place.
+
+1. One tray to ACT.
+2. One tray to FILE.
+3. Nothing lands anywhere else.
+4. Clear the ACT tray weekly.
+5. Stop moving paper around the house.
+
+Set up two trays today.
+
+#gogettr #buildthemachine

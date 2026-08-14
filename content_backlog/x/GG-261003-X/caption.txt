@@ -1,0 +1,23 @@
+POST ID   : GG-261003-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-03 09:00 ET  (Sat)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : MINI CHALLENGES   (theme T48 · The 5-Day Early-Arrival Test)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Arrive five minutes early for five days. Track how different the day feels.
+
+1. Five minutes early, five days.
+2. Notice the calmer start.
+3. Notice who reads it as respect.
+4. Notice the decisions you make unrushed.
+5. Keep what the data proves.
+
+Start the 5-day test tomorrow.
+
+#gogettr #buildthemachine

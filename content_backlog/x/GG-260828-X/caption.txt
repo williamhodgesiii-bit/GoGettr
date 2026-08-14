@@ -1,0 +1,23 @@
+POST ID   : GG-260828-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-08-28 09:00 ET  (Fri)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : ENVIRONMENT ENGINEERING   (theme T12 · Phone Audit)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Your phone is either a tool or a slot machine. Which did you build?
+
+1. Move feeds off the first screen.
+2. Put calendar and tasks where your thumb lands.
+3. Turn off alerts that create no action.
+4. Keep banking, notes and maps one tap away.
+5. Your home screen is an environment.
+
+Rebuild your first screen tonight.
+
+#gogettr #buildthemachine

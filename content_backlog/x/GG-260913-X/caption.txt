@@ -1,0 +1,23 @@
+POST ID   : GG-260913-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-13 09:00 ET  (Sun)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : FRICTION FILE   (theme T28 · The 20-Minute Life Upgrade)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+You have 20 minutes. Use them where the return lasts.
+
+1. Cancel one dead subscription.
+2. Book the appointment.
+3. Clear the desk.
+4. Move money automatically.
+5. Send the message you keep postponing.
+
+Set a 20-minute timer. Pick one.
+
+#gogettr #buildthemachine

@@ -1,0 +1,16 @@
+POST ID   : GG-260830-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-08-30 20:00 ET  (Sun)
+FORMAT    : Pin 1000x1500
+PILLAR    : SOCIAL CAPITAL   (theme T14 · The 24-Hour Follow-Up)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+TITLE     : Networking Follow Up Template
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Networking Follow Up Template — a simple GoGettr system. Good conversation. Now the part almost everyone skips. Follow-up turns a moment into a relationship. Save this pin for the next time you need it. More systems for money, training and recovery at gogettr.co.
+
+#gogettr #buildthemachine #selfimprovement #discipline #personalgrowth #networking

@@ -1,0 +1,23 @@
+POST ID   : GG-261011-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-11 09:00 ET  (Sun)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : SYSTEM DESIGN   (theme T56 · Build The Machine — Recap)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+You do not rise to your goals. You fall to your systems.
+
+1. Fewer decisions.
+2. Automatic money.
+3. Scheduled recovery.
+4. Proof of work.
+5. Track it or it did not happen.
+
+Save the whole series. Start the machine.
+
+#gogettr #buildthemachine

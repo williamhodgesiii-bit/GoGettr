@@ -1,0 +1,23 @@
+POST ID   : GG-260831-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-08-31 09:00 ET  (Mon)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : THE REBUILD   (theme T15 · Rebuild Roadmap)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+You wake up at 22 with no network and no savings. First move?
+
+1. Build one month of breathing room.
+2. Choose one skill people already pay for.
+3. Get stronger and harder to exhaust.
+4. Publish proof of work.
+5. Become easy to recommend.
+
+Which move would you make first?
+
+#gogettr #buildthemachine

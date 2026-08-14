@@ -1,0 +1,23 @@
+POST ID   : GG-260827-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-08-27 09:00 ET  (Thu)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : MONEY SYSTEMS   (theme T11 · The $100 Test)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+You get $100. It must improve next month. Where does it go?
+
+1. Sleep.
+2. Skill.
+3. Training.
+4. A tool that saves time.
+5. Comment your allocation before you see everyone else's.
+
+Drop your allocation in the comments.
+
+#gogettr #buildthemachine

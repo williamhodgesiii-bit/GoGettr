@@ -1,0 +1,23 @@
+POST ID   : GG-261001-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-01 09:00 ET  (Thu)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : SOCIAL CAPITAL   (theme T46 · The Introduction Bank)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Who could you connect without asking for anything back?
+
+1. List 10 people and what they do.
+2. Draw lines where a match exists.
+3. Make one warm intro this week.
+4. Ask both sides first.
+5. Be useful before you need usefulness.
+
+Make one intro this week.
+
+#gogettr #buildthemachine

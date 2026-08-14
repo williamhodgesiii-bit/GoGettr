@@ -1,0 +1,23 @@
+POST ID   : GG-260919-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-19 09:00 ET  (Sat)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : SOCIAL CAPITAL   (theme T34 · Reputation Loop)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Your reputation is compounding while you are not in the room.
+
+1. On time or late.
+2. Prepared or improvising.
+3. Keeps word or needs reminders.
+4. Useful or self-promotional.
+5. Reputation is the meeting you do not attend.
+
+What do they say after you leave?
+
+#gogettr #buildthemachine

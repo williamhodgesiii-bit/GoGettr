@@ -1,0 +1,23 @@
+POST ID   : GG-260916-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-16 09:00 ET  (Wed)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : RECOVERY PROTOCOL   (theme T31 · The Energy Audit)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Track your energy for 5 days. The pattern is louder than motivation.
+
+1. Note energy every two hours.
+2. Mark the true peak and the crash.
+3. Guard the peak for your hardest work.
+4. Protect the crash with recovery.
+5. Stop scheduling against your own biology.
+
+Start the five-day energy log today.
+
+#gogettr #buildthemachine

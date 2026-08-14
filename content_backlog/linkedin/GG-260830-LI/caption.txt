@@ -1,0 +1,27 @@
+POST ID   : GG-260830-LI
+PLATFORM  : LinkedIn
+PUBLISH   : 2026-08-30 08:00 ET  (Sun)
+FORMAT    : Document carousel · 7 slides (1080x1080) + link card
+PILLAR    : SOCIAL CAPITAL   (theme T14 · The 24-Hour Follow-Up)
+PRIMARY   : 01_cover.png
+ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png, link_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+The most capable people I know don't run on willpower. They design defaults.
+
+Good conversation. Now the part almost everyone skips.
+
+• Within 24 hours, send one specific line from the talk.
+• Add the promised link or intro.
+• Do not write a paragraph.
+• Set a reminder for the next natural touchpoint.
+• Follow-up turns a moment into a relationship.
+
+Systems beat motivation because they only ask you to decide once.
+
+Operating systems for ambitious people — new one every morning.
+
+#gogettr #buildthemachine #selfimprovement #discipline

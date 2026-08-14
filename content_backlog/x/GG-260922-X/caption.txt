@@ -1,0 +1,23 @@
+POST ID   : GG-260922-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-09-22 09:00 ET  (Tue)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : PURCHASE LAB   (theme T37 · The Would-I-Still-Want-This Rule)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+One question removes half your impulse buys.
+
+1. Remove the app that showed you.
+2. Remove your friends seeing it.
+3. Remove the logo.
+4. Remove launch-day hype.
+5. Still want it?
+
+Try it on your open cart right now.
+
+#gogettr #buildthemachine

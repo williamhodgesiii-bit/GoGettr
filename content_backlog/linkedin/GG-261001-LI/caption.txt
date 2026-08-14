@@ -1,0 +1,27 @@
+POST ID   : GG-261001-LI
+PLATFORM  : LinkedIn
+PUBLISH   : 2026-10-01 08:00 ET  (Thu)
+FORMAT    : Document carousel · 7 slides (1080x1080) + link card
+PILLAR    : SOCIAL CAPITAL   (theme T46 · The Introduction Bank)
+PRIMARY   : 01_cover.png
+ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png, link_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+The most capable people I know don't run on willpower. They design defaults.
+
+Who could you connect without asking for anything back?
+
+• List 10 people and what they do.
+• Draw lines where a match exists.
+• Make one warm intro this week.
+• Ask both sides first.
+• Be useful before you need usefulness.
+
+Systems beat motivation because they only ask you to decide once.
+
+Operating systems for ambitious people — new one every morning.
+
+#gogettr #buildthemachine #selfimprovement #discipline

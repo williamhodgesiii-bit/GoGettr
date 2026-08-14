@@ -1,0 +1,23 @@
+POST ID   : GG-260820-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-08-20 09:00 ET  (Thu)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : ESCAPE VELOCITY   (theme T04 · Money Milestone)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Your first $10K changes the game — and not the way you think.
+
+1. First real breathing room.
+2. First proof you can keep money.
+3. First time a problem does not become a crisis.
+4. First taste of optionality.
+5. The identity shift outlasts the balance.
+
+Set the target. Automate the first transfer.
+
+#gogettr #buildthemachine

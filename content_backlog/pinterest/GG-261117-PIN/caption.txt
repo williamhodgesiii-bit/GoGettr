@@ -1,0 +1,15 @@
+POST ID   : GG-261117-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-17 20:00 ET  (Tue)
+FORMAT    : Pin 1000x1500
+PILLAR    : ENVIRONMENT ENGINEERING   (theme T93 · Make It Obvious)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Home & Life Organization   <- pin to this Pinterest board
+TITLE     : Design Environment For Habits
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Design Environment For Habits. You do not lack discipline. Your setup fights your goals. The easy option usually wins, so rig the environment. Save this pin for later, and follow @gogettrdaily for more.

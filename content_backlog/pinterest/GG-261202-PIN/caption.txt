@@ -1,0 +1,15 @@
+POST ID   : GG-261202-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-12-02 20:00 ET  (Wed)
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
+PILLAR    : THE AUDIT   (theme T108 · The Energy Drains List)
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+BOARD     : Fitness & Healthy Habits   <- pin to this Pinterest board
+TITLE     : What Drains Your Energy
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+What Drains Your Energy — the quick breakdown. Some people cost you a whole day in one conversation. Audit what drains you like you audit what you spend. Save this pin for the next time you need it.

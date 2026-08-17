@@ -1,0 +1,25 @@
+POST ID   : GG-261020-IG
+PLATFORM  : Instagram (+Facebook link)
+PUBLISH   : 2026-10-20 08:00 ET  (Tue)
+FORMAT    : Carousel · 7 slides (1080x1350)
+PILLAR    : SYSTEM DESIGN   (theme T65 · Timeboxing)
+PRIMARY   : 01_cover.png
+ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+A task with no box expands to eat your whole day.
+
+Give every task a start, an end, and a slot on the calendar.
+
+→ Estimate the task honestly.
+→ Give it a fixed box on the calendar.
+→ Start and stop with the box.
+→ Unfinished rolls to the next box.
+→ The box protects the rest of the day.
+
+Swipe through, save it for later, and send it to someone who needs it. Follow @gogettrdaily for a new system every day.
+
+#productivity #timemanagement #focus #success #selfimprovement

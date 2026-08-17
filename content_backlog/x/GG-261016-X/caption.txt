@@ -1,0 +1,23 @@
+POST ID   : GG-261016-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-16 09:00 ET  (Fri)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : MONEY SYSTEMS   (theme T61 · Sinking Funds)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+The bill was not a surprise. You just did not name it.
+
+1. List the once-a-year costs.
+2. Divide each by twelve.
+3. Set aside that slice monthly.
+4. Let the fund fill before the bill.
+5. A named cost stops ambushing you.
+
+Name one yearly cost and divide by 12.
+
+#money #selfimprovement

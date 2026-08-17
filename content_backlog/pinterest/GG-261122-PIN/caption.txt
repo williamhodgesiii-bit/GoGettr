@@ -1,0 +1,15 @@
+POST ID   : GG-261122-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-22 20:00 ET  (Sun)
+FORMAT    : Carousel Pin · 3 cards (1000x1500)
+PILLAR    : ENVIRONMENT ENGINEERING   (theme T98 · The Launch Pad)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png, 02_pin.png, 03_pin.png
+BOARD     : Productivity & Time Management   <- pin to this Pinterest board
+TITLE     : Entryway Organization
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Entryway Organization: swipe through all 3 cards. You lose ten minutes each morning hunting for your stuff. One spot by the door ends the daily search. Save this pin and follow for systems that actually stick.

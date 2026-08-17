@@ -1,0 +1,15 @@
+POST ID   : GG-261203-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-12-03 20:00 ET  (Thu)
+FORMAT    : Pin 1000x1500
+PILLAR    : RECEIPTS   (theme T109 · The Comparison Tax)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Confidence & Social Skills   <- pin to this Pinterest board
+TITLE     : Stop Comparing Yourself
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Stop Comparing Yourself. Half your dissatisfaction is rented from someone's feed. You are comparing your behind to their highlight. Save this pin for later, and follow @gogettrdaily for more.

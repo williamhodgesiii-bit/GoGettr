@@ -1,0 +1,15 @@
+POST ID   : GG-261027-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-27 20:00 ET  (Tue)
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
+PILLAR    : CAREER SIGNALS   (theme T72 · The Weekly Win Email)
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+BOARD     : Career Growth & Success   <- pin to this Pinterest board
+TITLE     : How To Manage Up At Work
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+How To Manage Up At Work — the quick breakdown. Your manager cannot promote work they never saw. Managing up is visibility, not politics. Save this pin for the next time you need it.

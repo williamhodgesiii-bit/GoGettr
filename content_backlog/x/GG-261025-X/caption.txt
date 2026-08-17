@@ -1,0 +1,23 @@
+POST ID   : GG-261025-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-25 09:00 ET  (Sun)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : SYSTEM DESIGN   (theme T70 · The Not-To-Do List)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Your to-do list is full because your not-to-do list is empty.
+
+1. List what you always regret doing.
+2. No meetings without an agenda.
+3. No phone in the first hour.
+4. No yes on the day of the ask.
+5. What you refuse protects what you finish.
+
+Write three lines for your not-to-do list.
+
+#productivity #selfimprovement

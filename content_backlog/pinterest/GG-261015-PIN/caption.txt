@@ -1,0 +1,15 @@
+POST ID   : GG-261015-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-15 20:00 ET  (Thu)
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
+PILLAR    : MONEY SYSTEMS   (theme T60 · Two Accounts)
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+BOARD     : Money & Personal Finance   <- pin to this Pinterest board
+TITLE     : Two Account Budget System
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Two Account Budget System — the quick breakdown. One account for bills. One for spending. Never mix them. Separation makes overspending visibly impossible. Save this pin for the next time you need it.

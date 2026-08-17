@@ -1,0 +1,25 @@
+POST ID   : GG-261025-LI
+PLATFORM  : LinkedIn
+PUBLISH   : 2026-10-25 08:00 ET  (Sun)
+FORMAT    : Single image (1080x1080)
+PILLAR    : SYSTEM DESIGN   (theme T70 · The Not-To-Do List)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+The most capable people I know don't run on willpower. They design defaults.
+
+Your to-do list is full because your not-to-do list is empty.
+
+• List what you always regret doing.
+• No meetings without an agenda.
+• No phone in the first hour.
+• No yes on the day of the ask.
+• What you refuse protects what you finish.
+
+Systems beat motivation because they only ask you to decide once.
+
+#productivity #timemanagement #selfimprovement

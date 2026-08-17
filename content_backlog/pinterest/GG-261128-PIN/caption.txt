@@ -1,0 +1,15 @@
+POST ID   : GG-261128-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-28 20:00 ET  (Sat)
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
+PILLAR    : MINI CHALLENGES   (theme T104 · The 30-Day One-Habit)
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+BOARD     : Self Improvement & Discipline   <- pin to this Pinterest board
+TITLE     : 30 Day Habit Challenge
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+30 Day Habit Challenge — the quick breakdown. Pick one habit. Do it 30 days. Ignore everything else. One habit installed beats five attempted. Save this pin for the next time you need it.

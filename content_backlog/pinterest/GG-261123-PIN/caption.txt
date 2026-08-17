@@ -1,0 +1,15 @@
+POST ID   : GG-261123-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-23 20:00 ET  (Mon)
+FORMAT    : Pin 1000x1500
+PILLAR    : FRICTION FILE   (theme T99 · Inbox Zero)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Productivity & Time Management   <- pin to this Pinterest board
+TITLE     : How To Reach Inbox Zero
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+How To Reach Inbox Zero. Your inbox is a to-do list other people keep writing. Every email gets one decision, exactly once. Save this pin for later, and follow @gogettrdaily for more.

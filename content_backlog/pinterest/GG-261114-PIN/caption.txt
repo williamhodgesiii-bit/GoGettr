@@ -1,0 +1,15 @@
+POST ID   : GG-261114-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-14 20:00 ET  (Sat)
+FORMAT    : Carousel Pin · 3 cards (1000x1500)
+PILLAR    : HABIT ARCHITECTURE   (theme T90 · Identity Habits)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png, 02_pin.png, 03_pin.png
+BOARD     : Self Improvement & Discipline   <- pin to this Pinterest board
+TITLE     : Identity Based Habits
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Identity Based Habits: swipe through all 3 cards. You do not have bad habits. You have an unclaimed identity. Decide who you are and the habit stops needing willpower. Save this pin and follow for systems that actually stick.

@@ -1,0 +1,15 @@
+POST ID   : GG-261126-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-26 20:00 ET  (Thu)
+FORMAT    : Carousel Pin · 3 cards (1000x1500)
+PILLAR    : SYSTEM DESIGN   (theme T102 · The Commitment Device)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png, 02_pin.png, 03_pin.png
+BOARD     : Self Improvement & Discipline   <- pin to this Pinterest board
+TITLE     : Commitment Device Examples
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Commitment Device Examples: swipe through all 3 cards. Do not trust future-you. Remove the option to quit. Lock the decision in while motivation is high. Save this pin and follow for systems that actually stick.

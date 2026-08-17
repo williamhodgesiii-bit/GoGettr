@@ -1,0 +1,23 @@
+POST ID   : GG-261127-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-11-27 09:00 ET  (Fri)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : DEEP WORK   (theme T103 · One Tab, One Task)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Multitasking is just switching costs you cannot see.
+
+1. One tab, one task, one timer.
+2. Close what you are not using.
+3. Park stray thoughts on a pad.
+4. Finish before you start the next.
+5. Focus is a subtraction game.
+
+Close every tab but the one that matters.
+
+#productivity #selfimprovement

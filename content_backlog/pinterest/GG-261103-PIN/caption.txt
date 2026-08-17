@@ -1,0 +1,15 @@
+POST ID   : GG-261103-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-03 20:00 ET  (Tue)
+FORMAT    : Pin 1000x1500
+PILLAR    : RECOVERY PROTOCOL   (theme T79 · The 10K Step Floor)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Fitness & Healthy Habits   <- pin to this Pinterest board
+TITLE     : 10000 Steps A Day
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+10000 Steps A Day. The most underrated fitness tool is a pair of shoes. Walking is the base every other workout sits on. Save this pin for later, and follow @gogettrdaily for more.

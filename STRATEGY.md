@@ -1,7 +1,7 @@
 # GoGettr — Social Content Strategy & Backlog
 
 **Brand:** GoGettr · `@gogettrdaily` · *Build the machine. Skip the mood.*
-**Backlog:** 56 daily themes × 7 outlets = **392 finished posts**, starting **Mon Aug 17, 2026**.
+**Backlog:** 112 daily themes × 7 outlets = **784 finished posts**, **Mon Aug 17 – Sun Dec 6, 2026** (Vol. 01 weeks 1–8, Vol. 02 weeks 9–16 on all-new topics).
 **Voice:** short declaratives, second person, a number where a number will do. No hype, no emoji, no exclamation marks — the colour is already shouting.
 
 This backlog was built to a design system (the *Volt Brand Kit*) and to platform
@@ -131,7 +131,7 @@ stack is too tall, type steps down and optional lines drop out until it fits —
 so a volt bar, a hairline or a footer can never land on a descender, and text
 can never run off the artboard.
 
-`python -m engine.audit` proves it. It re-renders all **1,090 slides** and fails on:
+`python -m engine.audit` proves it. It re-renders all **2,175 slides** and fails on:
 
 - a slide out of format, crossing a margin, or entering the video UI-safe band;
 - any two foreground elements overlapping;

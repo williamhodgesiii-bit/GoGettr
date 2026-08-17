@@ -1,0 +1,23 @@
+POST ID   : GG-261019-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-19 09:00 ET  (Mon)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : DEEP WORK   (theme T64 · The 90-Minute Block)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Your best work needs 90 quiet minutes, not more willpower.
+
+1. Pick the one task that matters.
+2. Phone in another room, door shut.
+3. Ninety minutes, one thing, no tabs.
+4. Then a real break, no guilt.
+5. One deep block beats a scattered day.
+
+Schedule one 90-minute block tomorrow.
+
+#productivity #selfimprovement

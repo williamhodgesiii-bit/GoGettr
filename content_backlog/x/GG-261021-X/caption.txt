@@ -1,0 +1,23 @@
+POST ID   : GG-261021-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-21 09:00 ET  (Wed)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : DEEP WORK   (theme T66 · The Shutdown Ritual)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Work follows you home because you never told it to stop.
+
+1. Write tomorrow's first task.
+2. Close every open loop on paper.
+3. Say one line: work is done.
+4. Shut the laptop, leave the desk.
+5. A clear end starts a real evening.
+
+Run a two-minute shutdown tonight.
+
+#productivity #selfimprovement

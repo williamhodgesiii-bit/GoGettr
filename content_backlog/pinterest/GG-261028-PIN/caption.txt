@@ -1,0 +1,15 @@
+POST ID   : GG-261028-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-28 20:00 ET  (Wed)
+FORMAT    : Pin 1000x1500
+PILLAR    : WORK CAPACITY   (theme T73 · Ask For The Feedback)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Career Growth & Success   <- pin to this Pinterest board
+TITLE     : How To Ask For Feedback
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+How To Ask For Feedback. Stop asking how am I doing. Ask what they can answer. Vague questions get vague, useless answers. Save this pin for later, and follow @gogettrdaily for more.

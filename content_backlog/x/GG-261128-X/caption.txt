@@ -1,0 +1,23 @@
+POST ID   : GG-261128-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-11-28 09:00 ET  (Sat)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : MINI CHALLENGES   (theme T104 · The 30-Day One-Habit)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Pick one habit. Do it 30 days. Ignore everything else.
+
+1. Choose the single keystone habit.
+2. Same time, same trigger, daily.
+3. Mark the calendar every night.
+4. Miss a day, never miss two.
+5. One habit, thirty days, no extras.
+
+Name your one habit and start today.
+
+#discipline #selfimprovement

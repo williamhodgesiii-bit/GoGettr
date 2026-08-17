@@ -1,0 +1,23 @@
+POST ID   : GG-261120-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-11-20 09:00 ET  (Fri)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : SYSTEM DESIGN   (theme T96 · Lead Vs Lag)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+You cannot control the scale. You can control the reps.
+
+1. Weight is a lag measure.
+2. Workouts are a lead measure.
+3. Track what you control today.
+4. Let outcomes trail the inputs.
+5. Own the input, earn the result.
+
+Pick one input to track this week.
+
+#productivity #selfimprovement

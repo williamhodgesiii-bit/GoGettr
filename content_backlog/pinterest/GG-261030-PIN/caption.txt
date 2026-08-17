@@ -1,0 +1,15 @@
+POST ID   : GG-261030-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-30 20:00 ET  (Fri)
+FORMAT    : Pin 1000x1500
+PILLAR    : CAREER SIGNALS   (theme T75 · Operate One Level Up)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Career Growth & Success   <- pin to this Pinterest board
+TITLE     : How To Get Promoted
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+How To Get Promoted. Act at the level you want before anyone hands it over. The promotion follows the behavior, not the reverse. Save this pin for later, and follow @gogettrdaily for more.

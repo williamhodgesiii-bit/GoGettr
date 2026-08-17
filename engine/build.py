@@ -151,7 +151,7 @@ _PLANS = {}
 
 
 def rotation_plan(name, rotation, resolve=None):
-    """Walk a rotation across the 56 themes, skipping any slot that would serve
+    """Walk a rotation across every theme, skipping any slot that would serve
     the same layout two days running.
 
     Without this, a fallback silently collapses the rotation: a stat template

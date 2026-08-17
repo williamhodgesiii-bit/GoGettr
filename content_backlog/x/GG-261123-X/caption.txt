@@ -1,0 +1,23 @@
+POST ID   : GG-261123-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-11-23 09:00 ET  (Mon)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : FRICTION FILE   (theme T99 · Inbox Zero)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Your inbox is a to-do list other people keep writing.
+
+1. Do, delegate, defer, or delete.
+2. Touch each message one time.
+3. Unsubscribe instead of deleting again.
+4. Archive the moment it is handled.
+5. Decide once, not ten times.
+
+Clear ten emails, one decision each.
+
+#minimalism #selfimprovement

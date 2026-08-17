@@ -1,0 +1,15 @@
+POST ID   : GG-261120-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-20 20:00 ET  (Fri)
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
+PILLAR    : SYSTEM DESIGN   (theme T96 · Lead Vs Lag)
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+BOARD     : Self Improvement & Discipline   <- pin to this Pinterest board
+TITLE     : Lead Versus Lag Measures
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Lead Versus Lag Measures — the quick breakdown. You cannot control the scale. You can control the reps. Chase the input you own, not the outcome you do not. Save this pin for the next time you need it.

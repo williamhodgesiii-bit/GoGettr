@@ -1,0 +1,23 @@
+POST ID   : GG-261114-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-11-14 09:00 ET  (Sat)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : HABIT ARCHITECTURE   (theme T90 · Identity Habits)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+You do not have bad habits. You have an unclaimed identity.
+
+1. Name the person you want to be.
+2. Ask what they do by default.
+3. Do that one thing today.
+4. Cast a vote with each rep.
+5. Habits are identity, out loud.
+
+Finish: I am the kind of person who.
+
+#mindset #selfimprovement

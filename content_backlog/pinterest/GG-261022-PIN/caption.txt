@@ -1,0 +1,15 @@
+POST ID   : GG-261022-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-22 20:00 ET  (Thu)
+FORMAT    : Pin 1000x1500
+PILLAR    : SYSTEM DESIGN   (theme T67 · The 2-Minute Rule)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Productivity & Time Management   <- pin to this Pinterest board
+TITLE     : Two Minute Rule Habit
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Two Minute Rule Habit. If it takes under two minutes, it never goes on a list. Small tasks cost more in the queue than in the doing. Save this pin for later, and follow @gogettrdaily for more.

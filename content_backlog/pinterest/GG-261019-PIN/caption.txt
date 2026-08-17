@@ -1,0 +1,15 @@
+POST ID   : GG-261019-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-19 20:00 ET  (Mon)
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
+PILLAR    : DEEP WORK   (theme T64 · The 90-Minute Block)
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+BOARD     : Productivity & Time Management   <- pin to this Pinterest board
+TITLE     : Deep Work Time Block
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Deep Work Time Block — the quick breakdown. Your best work needs 90 quiet minutes, not more willpower. Depth beats hours. Protect one block like a meeting. Save this pin for the next time you need it.

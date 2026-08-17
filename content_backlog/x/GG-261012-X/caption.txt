@@ -1,0 +1,23 @@
+POST ID   : GG-261012-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-12 09:00 ET  (Mon)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : MONEY SYSTEMS   (theme T57 · Pay Yourself First)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+You save what is left after spending. Flip the order.
+
+1. Automate the transfer for payday.
+2. Move it before you can see it.
+3. Live on the balance that remains.
+4. Raise it one percent a quarter.
+5. Pay yourself first, every time.
+
+Automate one payday transfer today.
+
+#money #selfimprovement

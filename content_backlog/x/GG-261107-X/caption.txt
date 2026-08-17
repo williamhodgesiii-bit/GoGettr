@@ -1,0 +1,23 @@
+POST ID   : GG-261107-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-11-07 09:00 ET  (Sat)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : RECOVERY PROTOCOL   (theme T83 · Movement Snacks)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Sitting still for eight hours undoes one good workout.
+
+1. Stand and move every hour.
+2. Ten squats between meetings.
+3. Walk while the kettle boils.
+4. Take the stairs by default.
+5. Small movement, all day long.
+
+Set an hourly stand-up reminder.
+
+#fitness #selfimprovement

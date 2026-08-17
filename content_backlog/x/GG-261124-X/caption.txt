@@ -1,0 +1,23 @@
+POST ID   : GG-261124-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-11-24 09:00 ET  (Tue)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : PURCHASE LAB   (theme T100 · The Capsule Wardrobe)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Decision fatigue starts at your closet every morning.
+
+1. Keep what you actually wear.
+2. One palette, everything matches.
+3. Fewer choices, sharper look.
+4. Quality over a crowded rail.
+5. Decide the wardrobe once.
+
+Pull the ten pieces you always reach for.
+
+#minimalism #selfimprovement

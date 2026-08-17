@@ -1,0 +1,23 @@
+POST ID   : GG-261103-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-11-03 09:00 ET  (Tue)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : RECOVERY PROTOCOL   (theme T79 · The 10K Step Floor)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+The most underrated fitness tool is a pair of shoes.
+
+1. Aim for ten thousand most days.
+2. Walk the calls you can.
+3. Park far, take the stairs.
+4. One walk after the biggest meal.
+5. Movement is the cheapest medicine.
+
+Set a step floor and hit it today.
+
+#fitness #selfimprovement

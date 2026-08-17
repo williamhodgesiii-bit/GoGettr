@@ -1,0 +1,15 @@
+POST ID   : GG-261112-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-12 20:00 ET  (Thu)
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
+PILLAR    : SOCIAL CAPITAL   (theme T88 · The Listening Ratio)
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+BOARD     : Confidence & Social Skills   <- pin to this Pinterest board
+TITLE     : How To Be A Better Listener
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+How To Be A Better Listener — the quick breakdown. The most magnetic person in the room talks the least. You learn nothing while your own mouth is moving. Save this pin for the next time you need it.

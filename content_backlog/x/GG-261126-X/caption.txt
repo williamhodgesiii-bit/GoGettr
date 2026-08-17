@@ -1,0 +1,23 @@
+POST ID   : GG-261126-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-11-26 09:00 ET  (Thu)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : SYSTEM DESIGN   (theme T102 · The Commitment Device)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Do not trust future-you. Remove the option to quit.
+
+1. Pay in advance, non-refundable.
+2. Tell someone who will check.
+3. Put a stake on the outcome.
+4. Make quitting cost something.
+5. Bind future-you to today's plan.
+
+Add one stake to a goal you keep dropping.
+
+#mindset #selfimprovement

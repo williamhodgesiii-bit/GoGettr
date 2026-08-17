@@ -1,0 +1,15 @@
+POST ID   : GG-261105-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-05 20:00 ET  (Thu)
+FORMAT    : Pin 1000x1500
+PILLAR    : RECOVERY PROTOCOL   (theme T81 · The Caffeine Cutoff)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Fitness & Healthy Habits   <- pin to this Pinterest board
+TITLE     : Caffeine Cutoff For Sleep
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Caffeine Cutoff For Sleep. Your bad night started at 3pm, with a coffee you forgot. Sleep is built during the day, not just at night. Save this pin for later, and follow @gogettrdaily for more.

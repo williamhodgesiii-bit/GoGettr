@@ -1,0 +1,15 @@
+POST ID   : GG-261206-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-12-06 20:00 ET  (Sun)
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
+PILLAR    : SYSTEM DESIGN   (theme T112 · Volume Two — Recap)
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+BOARD     : Self Improvement & Discipline   <- pin to this Pinterest board
+TITLE     : Life Systems That Last
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Life Systems That Last — the quick breakdown. Motivation is a mood. A system is a machine you can trust. Eight more weeks in one line: automate the right defaults. Save this pin for the next time you need it.

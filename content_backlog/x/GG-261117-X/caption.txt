@@ -1,0 +1,23 @@
+POST ID   : GG-261117-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-11-17 09:00 ET  (Tue)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : ENVIRONMENT ENGINEERING   (theme T93 · Make It Obvious)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+You do not lack discipline. Your setup fights your goals.
+
+1. Put the good habit in your path.
+2. Hide the friction that stops you.
+3. Add steps to the thing you quit.
+4. Let the room decide for you.
+5. Willpower loses to layout.
+
+Move one good habit into plain sight.
+
+#minimalism #selfimprovement

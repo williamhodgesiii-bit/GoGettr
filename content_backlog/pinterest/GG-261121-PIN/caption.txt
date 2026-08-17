@@ -1,0 +1,15 @@
+POST ID   : GG-261121-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-21 20:00 ET  (Sat)
+FORMAT    : Pin 1000x1500
+PILLAR    : ENVIRONMENT ENGINEERING   (theme T97 · One In, One Out)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Home & Life Organization   <- pin to this Pinterest board
+TITLE     : One In One Out Rule
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+One In One Out Rule. Nothing new comes home until something old leaves. A closed loop is how clutter stops growing. Save this pin for later, and follow @gogettrdaily for more.

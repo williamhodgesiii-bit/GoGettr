@@ -1,0 +1,15 @@
+POST ID   : GG-261205-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-12-05 20:00 ET  (Sat)
+FORMAT    : Pin 1000x1500
+PILLAR    : DECISION FILTER   (theme T111 · Two-Way Doors)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Self Improvement & Discipline   <- pin to this Pinterest board
+TITLE     : Reversible Vs Permanent Choices
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Reversible Vs Permanent Choices. Reversible choices deserve speed. Permanent ones deserve care. Stop agonizing over doors you can walk back through. Save this pin for later, and follow @gogettrdaily for more.

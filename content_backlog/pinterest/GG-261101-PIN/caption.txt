@@ -1,0 +1,15 @@
+POST ID   : GG-261101-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-01 20:00 ET  (Sun)
+FORMAT    : Pin 1000x1500
+PILLAR    : SOCIAL CAPITAL   (theme T77 · Mentors Vs Sponsors)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Career Growth & Success   <- pin to this Pinterest board
+TITLE     : Mentor Versus Sponsor
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Mentor Versus Sponsor. A mentor talks to you. A sponsor talks about you. Advice is nice. Advocacy is what moves you. Save this pin for later, and follow @gogettrdaily for more.

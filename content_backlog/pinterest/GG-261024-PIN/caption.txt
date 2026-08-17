@@ -1,0 +1,15 @@
+POST ID   : GG-261024-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-24 20:00 ET  (Sat)
+FORMAT    : Pin 1000x1500
+PILLAR    : FRICTION FILE   (theme T69 · Notification Bankruptcy)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Productivity & Time Management   <- pin to this Pinterest board
+TITLE     : Turn Off Notifications
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Turn Off Notifications. Every buzz is someone else setting your next ten seconds. An alert that creates no action is just a leash. Save this pin for later, and follow @gogettrdaily for more.

@@ -1,0 +1,15 @@
+POST ID   : GG-261104-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-04 20:00 ET  (Wed)
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
+PILLAR    : RECOVERY PROTOCOL   (theme T80 · The Protein Floor)
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+BOARD     : Fitness & Healthy Habits   <- pin to this Pinterest board
+TITLE     : How Much Protein To Eat
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+How Much Protein To Eat — the quick breakdown. You are not under-training. You are under-eating protein. Hit the number and recovery stops being a mystery. Save this pin for the next time you need it.

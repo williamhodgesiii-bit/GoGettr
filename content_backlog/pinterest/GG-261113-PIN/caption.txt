@@ -1,0 +1,15 @@
+POST ID   : GG-261113-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-13 20:00 ET  (Fri)
+FORMAT    : Pin 1000x1500
+PILLAR    : SOCIAL CAPITAL   (theme T89 · Remember The Name)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Confidence & Social Skills   <- pin to this Pinterest board
+TITLE     : How To Remember Names
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+How To Remember Names. You did not forget the name. You never really heard it. Attention at hello is the whole trick. Save this pin for later, and follow @gogettrdaily for more.

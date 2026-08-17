@@ -1,0 +1,15 @@
+POST ID   : GG-261115-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-15 20:00 ET  (Sun)
+FORMAT    : Pin 1000x1500
+PILLAR    : HABIT ARCHITECTURE   (theme T91 · The Two-Day Rule)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Self Improvement & Discipline   <- pin to this Pinterest board
+TITLE     : Never Miss Twice Rule
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Never Miss Twice Rule. One missed day is a slip. Two is the start of a quit. The streak is not the point. The comeback is. Save this pin for later, and follow @gogettrdaily for more.

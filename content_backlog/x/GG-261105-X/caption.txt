@@ -1,0 +1,23 @@
+POST ID   : GG-261105-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-11-05 09:00 ET  (Thu)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : RECOVERY PROTOCOL   (theme T81 · The Caffeine Cutoff)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Your bad night started at 3pm, with a coffee you forgot.
+
+1. No caffeine after early afternoon.
+2. Sunlight in the first hour up.
+3. Same wind-down every night.
+4. Screens down before the pillow.
+5. Protect the night from the day.
+
+Set your caffeine cutoff time today.
+
+#health #selfimprovement

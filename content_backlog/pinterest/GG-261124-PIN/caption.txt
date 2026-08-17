@@ -1,0 +1,15 @@
+POST ID   : GG-261124-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-24 20:00 ET  (Tue)
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
+PILLAR    : PURCHASE LAB   (theme T100 · The Capsule Wardrobe)
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+BOARD     : Home & Life Organization   <- pin to this Pinterest board
+TITLE     : Capsule Wardrobe Basics
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Capsule Wardrobe Basics — the quick breakdown. Decision fatigue starts at your closet every morning. Fewer, better pieces that all work together. Save this pin for the next time you need it.

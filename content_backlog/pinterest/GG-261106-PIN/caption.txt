@@ -1,0 +1,15 @@
+POST ID   : GG-261106-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-06 20:00 ET  (Fri)
+FORMAT    : Carousel Pin · 3 cards (1000x1500)
+PILLAR    : RECOVERY PROTOCOL   (theme T82 · The Deload Week)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png, 02_pin.png, 03_pin.png
+BOARD     : Fitness & Healthy Habits   <- pin to this Pinterest board
+TITLE     : What Is A Deload Week
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+What Is A Deload Week: swipe through all 3 cards. Rest is not the reward for the work. It is part of it. Planned easy weeks are why hard weeks keep working. Save this pin and follow for systems that actually stick.

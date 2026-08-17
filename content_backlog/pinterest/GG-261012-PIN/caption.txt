@@ -1,0 +1,15 @@
+POST ID   : GG-261012-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-12 20:00 ET  (Mon)
+FORMAT    : Pin 1000x1500
+PILLAR    : MONEY SYSTEMS   (theme T57 · Pay Yourself First)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Money & Personal Finance   <- pin to this Pinterest board
+TITLE     : Pay Yourself First Method
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Pay Yourself First Method. You save what is left after spending. Flip the order. Pay yourself first, then live on what actually lands. Save this pin for later, and follow @gogettrdaily for more.

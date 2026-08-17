@@ -1,0 +1,23 @@
+POST ID   : GG-261022-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-22 09:00 ET  (Thu)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : SYSTEM DESIGN   (theme T67 · The 2-Minute Rule)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+If it takes under two minutes, it never goes on a list.
+
+1. Under two minutes, do it now.
+2. Answer, file, or throw it out.
+3. Stop stacking a backlog of tiny things.
+4. Save the list for the real work.
+5. Do it now, or decide it never happens.
+
+Clear three two-minute tasks right now.
+
+#productivity #selfimprovement

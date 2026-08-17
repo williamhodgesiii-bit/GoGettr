@@ -1,0 +1,23 @@
+POST ID   : GG-261020-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-20 09:00 ET  (Tue)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : SYSTEM DESIGN   (theme T65 · Timeboxing)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+A task with no box expands to eat your whole day.
+
+1. Estimate the task honestly.
+2. Give it a fixed box on the calendar.
+3. Start and stop with the box.
+4. Unfinished rolls to the next box.
+5. The box protects the rest of the day.
+
+Box tomorrow's three biggest tasks.
+
+#productivity #selfimprovement

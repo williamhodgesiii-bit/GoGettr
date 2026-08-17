@@ -1,0 +1,15 @@
+POST ID   : GG-261023-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-23 20:00 ET  (Fri)
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
+PILLAR    : SYSTEM DESIGN   (theme T68 · Eat The Frog)
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+BOARD     : Productivity & Time Management   <- pin to this Pinterest board
+TITLE     : Eat The Frog Method
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Eat The Frog Method — the quick breakdown. Do the thing you dread first, before the day negotiates. The task you avoid is usually the one that matters. Save this pin for the next time you need it.

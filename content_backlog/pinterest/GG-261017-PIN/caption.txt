@@ -1,0 +1,15 @@
+POST ID   : GG-261017-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-17 20:00 ET  (Sat)
+FORMAT    : Carousel Pin · 3 cards (1000x1500)
+PILLAR    : CAREER SIGNALS   (theme T62 · Bank The Raise)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png, 02_pin.png, 03_pin.png
+BOARD     : Money & Personal Finance   <- pin to this Pinterest board
+TITLE     : Avoid Lifestyle Creep
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Avoid Lifestyle Creep: swipe through all 3 cards. You got a raise. Your lifestyle took the whole thing. Lifestyle creep eats every increase you never assign. Save this pin and follow for systems that actually stick.

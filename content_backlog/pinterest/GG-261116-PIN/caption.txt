@@ -1,0 +1,15 @@
+POST ID   : GG-261116-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-16 20:00 ET  (Mon)
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
+PILLAR    : HABIT ARCHITECTURE   (theme T92 · Habit Stacking)
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+BOARD     : Self Improvement & Discipline   <- pin to this Pinterest board
+TITLE     : Habit Stacking Examples
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Habit Stacking Examples — the quick breakdown. New habits fail alone. Bolt them to one you already keep. An old routine is the perfect trigger for a new one. Save this pin for the next time you need it.

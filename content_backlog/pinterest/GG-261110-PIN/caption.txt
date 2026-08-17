@@ -1,0 +1,15 @@
+POST ID   : GG-261110-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-10 20:00 ET  (Tue)
+FORMAT    : Carousel Pin · 3 cards (1000x1500)
+PILLAR    : SOCIAL CAPITAL   (theme T86 · Specific Praise)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png, 02_pin.png, 03_pin.png
+BOARD     : Career Growth & Success   <- pin to this Pinterest board
+TITLE     : How To Give Genuine Praise
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+How To Give Genuine Praise: swipe through all 3 cards. Great job means nothing. Name the exact thing they did. Specific praise is remembered. Generic praise is noise. Save this pin and follow for systems that actually stick.

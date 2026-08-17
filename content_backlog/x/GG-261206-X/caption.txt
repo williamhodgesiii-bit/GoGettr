@@ -1,0 +1,23 @@
+POST ID   : GG-261206-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-12-06 09:00 ET  (Sun)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : SYSTEM DESIGN   (theme T112 · Volume Two — Recap)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Motivation is a mood. A system is a machine you can trust.
+
+1. Pay yourself first.
+2. Guard one deep block.
+3. Two sessions, ten thousand steps.
+4. Never miss twice.
+5. Build the machine, skip the mood.
+
+Save Volume Two. Run the machine.
+
+#productivity #selfimprovement

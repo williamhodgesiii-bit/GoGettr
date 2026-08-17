@@ -1,0 +1,15 @@
+POST ID   : GG-261129-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-29 20:00 ET  (Sun)
+FORMAT    : Pin 1000x1500
+PILLAR    : MINI CHALLENGES   (theme T105 · Phone Out Of The Room)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Fitness & Healthy Habits   <- pin to this Pinterest board
+TITLE     : Phone Out Of Bedroom At Night
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Phone Out Of Bedroom At Night. For seven nights, the phone sleeps in another room. It is your alarm and your worst bedtime habit. Save this pin for later, and follow @gogettrdaily for more.

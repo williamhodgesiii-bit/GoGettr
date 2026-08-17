@@ -1,0 +1,25 @@
+POST ID   : GG-261020-LI
+PLATFORM  : LinkedIn
+PUBLISH   : 2026-10-20 08:00 ET  (Tue)
+FORMAT    : Single image (1080x1080)
+PILLAR    : SYSTEM DESIGN   (theme T65 · Timeboxing)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+The most capable people I know don't run on willpower. They design defaults.
+
+A task with no box expands to eat your whole day.
+
+• Estimate the task honestly.
+• Give it a fixed box on the calendar.
+• Start and stop with the box.
+• Unfinished rolls to the next box.
+• The box protects the rest of the day.
+
+Systems beat motivation because they only ask you to decide once.
+
+#productivity #timemanagement #selfimprovement

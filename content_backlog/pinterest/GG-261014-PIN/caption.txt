@@ -1,0 +1,15 @@
+POST ID   : GG-261014-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-14 20:00 ET  (Wed)
+FORMAT    : Pin 1000x1500
+PILLAR    : COMPOUNDING   (theme T59 · The $5 A Day Math)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Money & Personal Finance   <- pin to this Pinterest board
+TITLE     : Small Savings Add Up
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Small Savings Add Up. Five dollars a day feels like nothing. It is $1,825 a year. Small money moving one direction becomes a real decision. Save this pin for later, and follow @gogettrdaily for more.

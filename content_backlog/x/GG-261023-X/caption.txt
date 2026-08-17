@@ -1,0 +1,23 @@
+POST ID   : GG-261023-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-23 09:00 ET  (Fri)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : SYSTEM DESIGN   (theme T68 · Eat The Frog)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Do the thing you dread first, before the day negotiates.
+
+1. Name the frog the night before.
+2. Do it before email, before noise.
+3. No warm-up busywork first.
+4. Win the morning, coast the drift.
+5. The dread shrinks once it is done.
+
+Name tomorrow's frog tonight.
+
+#productivity #selfimprovement

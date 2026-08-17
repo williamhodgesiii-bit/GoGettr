@@ -1,0 +1,15 @@
+POST ID   : GG-261026-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-26 20:00 ET  (Mon)
+FORMAT    : Pin 1000x1500
+PILLAR    : WORK CAPACITY   (theme T71 · The Brag Document)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Career Growth & Success   <- pin to this Pinterest board
+TITLE     : Brag Document For Work
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Brag Document For Work. You will forget your own wins by review season. Log them. Memory is a bad advocate. Keep the receipts. Save this pin for later, and follow @gogettrdaily for more.

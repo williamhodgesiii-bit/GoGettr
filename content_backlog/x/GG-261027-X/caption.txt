@@ -1,0 +1,23 @@
+POST ID   : GG-261027-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-27 09:00 ET  (Tue)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : CAREER SIGNALS   (theme T72 · The Weekly Win Email)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Your manager cannot promote work they never saw.
+
+1. Three bullets every Friday.
+2. Done, in progress, blocked.
+3. Name the impact, not the effort.
+4. Ask for one decision or unblock.
+5. Make your work impossible to miss.
+
+Send your first Friday update this week.
+
+#career #selfimprovement

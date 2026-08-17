@@ -1,0 +1,15 @@
+POST ID   : GG-261130-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-30 20:00 ET  (Mon)
+FORMAT    : Carousel Pin · 3 cards (1000x1500)
+PILLAR    : MINI CHALLENGES   (theme T106 · The No-Scroll First Hour)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png, 02_pin.png, 03_pin.png
+BOARD     : Productivity & Time Management   <- pin to this Pinterest board
+TITLE     : No Phone First Hour
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+No Phone First Hour: swipe through all 3 cards. For five mornings, no feed until the first hour is yours. Whoever owns your first hour tends to own your day. Save this pin and follow for systems that actually stick.

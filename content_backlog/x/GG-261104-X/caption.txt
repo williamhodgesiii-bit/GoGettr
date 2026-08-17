@@ -1,0 +1,23 @@
+POST ID   : GG-261104-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-11-04 09:00 ET  (Wed)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : RECOVERY PROTOCOL   (theme T80 · The Protein Floor)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+You are not under-training. You are under-eating protein.
+
+1. Anchor protein to every meal.
+2. A palm-sized portion, minimum.
+3. Front-load it at breakfast.
+4. Keep a default high-protein snack.
+5. Hit the floor before the extras.
+
+Add protein to your next meal.
+
+#fitness #selfimprovement

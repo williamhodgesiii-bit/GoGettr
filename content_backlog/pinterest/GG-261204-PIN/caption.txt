@@ -1,0 +1,15 @@
+POST ID   : GG-261204-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-12-04 20:00 ET  (Fri)
+FORMAT    : Carousel Pin · 3 cards (1000x1500)
+PILLAR    : BORING EDGE   (theme T110 · The Unglamorous Hour)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png, 02_pin.png, 03_pin.png
+BOARD     : Self Improvement & Discipline   <- pin to this Pinterest board
+TITLE     : Boring Work Builds Success
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Boring Work Builds Success: swipe through all 3 cards. The work that changes your life is boring to watch. No one films the reps that actually compound. Save this pin and follow for systems that actually stick.

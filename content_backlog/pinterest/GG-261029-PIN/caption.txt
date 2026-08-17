@@ -1,0 +1,15 @@
+POST ID   : GG-261029-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-29 20:00 ET  (Thu)
+FORMAT    : Carousel Pin · 3 cards (1000x1500)
+PILLAR    : WORK CAPACITY   (theme T74 · Be The Documentation)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png, 02_pin.png, 03_pin.png
+BOARD     : Career Growth & Success   <- pin to this Pinterest board
+TITLE     : Be Indispensable At Work
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Be Indispensable At Work: swipe through all 3 cards. Be the person who wrote down how it actually works. Whoever documents the system quietly runs it. Save this pin and follow for systems that actually stick.

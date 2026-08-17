@@ -1,0 +1,15 @@
+POST ID   : GG-261102-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-02 20:00 ET  (Mon)
+FORMAT    : Carousel Pin · 3 cards (1000x1500)
+PILLAR    : RECOVERY PROTOCOL   (theme T78 · Minimum Effective Dose)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png, 02_pin.png, 03_pin.png
+BOARD     : Fitness & Healthy Habits   <- pin to this Pinterest board
+TITLE     : Minimum Effective Workout
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Minimum Effective Workout: swipe through all 3 cards. You do not need the perfect program. You need to show up. The workout you repeat beats the one you skip. Save this pin and follow for systems that actually stick.

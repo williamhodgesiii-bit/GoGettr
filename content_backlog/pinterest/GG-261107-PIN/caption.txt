@@ -1,0 +1,15 @@
+POST ID   : GG-261107-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-07 20:00 ET  (Sat)
+FORMAT    : Pin 1000x1500
+PILLAR    : RECOVERY PROTOCOL   (theme T83 · Movement Snacks)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Fitness & Healthy Habits   <- pin to this Pinterest board
+TITLE     : Movement Breaks At Work
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Movement Breaks At Work. Sitting still for eight hours undoes one good workout. Scatter tiny movement through the day, not just the gym. Save this pin for later, and follow @gogettrdaily for more.

@@ -1,0 +1,25 @@
+POST ID   : GG-261022-LI
+PLATFORM  : LinkedIn
+PUBLISH   : 2026-10-22 08:00 ET  (Thu)
+FORMAT    : Single image (1080x1080)
+PILLAR    : SYSTEM DESIGN   (theme T67 · The 2-Minute Rule)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+The most capable people I know don't run on willpower. They design defaults.
+
+If it takes under two minutes, it never goes on a list.
+
+• Under two minutes, do it now.
+• Answer, file, or throw it out.
+• Stop stacking a backlog of tiny things.
+• Save the list for the real work.
+• Do it now, or decide it never happens.
+
+Systems beat motivation because they only ask you to decide once.
+
+#productivity #timemanagement #selfimprovement

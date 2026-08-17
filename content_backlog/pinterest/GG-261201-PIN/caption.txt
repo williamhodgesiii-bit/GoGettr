@@ -1,0 +1,15 @@
+POST ID   : GG-261201-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-12-01 20:00 ET  (Tue)
+FORMAT    : Pin 1000x1500
+PILLAR    : MINI CHALLENGES   (theme T107 · Walk After Meals)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Fitness & Healthy Habits   <- pin to this Pinterest board
+TITLE     : Walk After Eating
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Walk After Eating. For five days, walk ten minutes after every meal. A short walk does more than the number suggests. Save this pin for later, and follow @gogettrdaily for more.

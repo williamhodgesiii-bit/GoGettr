@@ -1,0 +1,15 @@
+POST ID   : GG-261111-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-11 20:00 ET  (Wed)
+FORMAT    : Pin 1000x1500
+PILLAR    : SOCIAL CAPITAL   (theme T87 · Ask For Advice)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Career Growth & Success   <- pin to this Pinterest board
+TITLE     : How To Ask For Help
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+How To Ask For Help. Want a yes on a favor? Ask for advice instead. People guard favors and give guidance freely. Save this pin for later, and follow @gogettrdaily for more.

@@ -1,0 +1,23 @@
+POST ID   : GG-261015-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-15 09:00 ET  (Thu)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : MONEY SYSTEMS   (theme T60 · Two Accounts)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+One account for bills. One for spending. Never mix them.
+
+1. Bills and savings live in account one.
+2. Spending money lives in account two.
+3. Only account two has a card on you.
+4. When it is empty, you are done.
+5. Let the structure hold the discipline.
+
+Open the second account this week.
+
+#money #selfimprovement

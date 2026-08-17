@@ -1,0 +1,25 @@
+POST ID   : GG-261206-IG
+PLATFORM  : Instagram (+Facebook link)
+PUBLISH   : 2026-12-06 08:00 ET  (Sun)
+FORMAT    : Carousel · 8 slides (1080x1350)
+PILLAR    : SYSTEM DESIGN   (theme T112 · Volume Two — Recap)
+PRIMARY   : 01_cover.png
+ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_recap.png, 08_close.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Motivation is a mood. A system is a machine you can trust.
+
+Eight more weeks in one line: automate the right defaults.
+
+→ Pay yourself first.
+→ Guard one deep block.
+→ Two sessions, ten thousand steps.
+→ Never miss twice.
+→ Build the machine, skip the mood.
+
+Swipe through, save it for later, and send it to someone who needs it. Follow @gogettrdaily for a new system every day.
+
+#productivity #habits #discipline #selfimprovement #motivation

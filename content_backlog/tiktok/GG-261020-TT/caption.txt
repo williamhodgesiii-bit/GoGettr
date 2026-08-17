@@ -1,0 +1,18 @@
+POST ID   : GG-261020-TT
+PLATFORM  : TikTok
+PUBLISH   : 2026-10-20 19:00 ET  (Tue)
+FORMAT    : Photo carousel · 4 stills (1080x1920)
+PILLAR    : SYSTEM DESIGN   (theme T65 · Timeboxing)
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+A task with no box expands to eat your whole day.
+
+Swipe through. Box tomorrow's three biggest tasks.
+Which one are you starting with? Comment it, and save this for later.
+
+#productivity #timemanagement #focus #selfimprovement #fyp

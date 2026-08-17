@@ -1,0 +1,15 @@
+POST ID   : GG-261031-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-31 20:00 ET  (Sat)
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
+PILLAR    : ESCAPE VELOCITY   (theme T76 · The Exit-Ready Resume)
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+BOARD     : Money & Personal Finance   <- pin to this Pinterest board
+TITLE     : Keep Your Resume Updated
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Keep Your Resume Updated — the quick breakdown. Update your resume while you are happy, not desperate. Leverage comes from options you built in advance. Save this pin for the next time you need it.

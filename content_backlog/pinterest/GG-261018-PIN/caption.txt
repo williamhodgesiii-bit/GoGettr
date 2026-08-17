@@ -1,0 +1,15 @@
+POST ID   : GG-261018-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-18 20:00 ET  (Sun)
+FORMAT    : Pin 1000x1500
+PILLAR    : MONEY SYSTEMS   (theme T63 · The Money Date)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Money & Personal Finance   <- pin to this Pinterest board
+TITLE     : Weekly Money Review Routine
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Weekly Money Review Routine. Twenty minutes a week with your money changes the year. What you avoid looking at is what quietly runs you. Save this pin for later, and follow @gogettrdaily for more.

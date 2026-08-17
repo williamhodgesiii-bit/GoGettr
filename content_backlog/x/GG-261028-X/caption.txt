@@ -1,0 +1,23 @@
+POST ID   : GG-261028-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-28 09:00 ET  (Wed)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : WORK CAPACITY   (theme T73 · Ask For The Feedback)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Stop asking how am I doing. Ask what they can answer.
+
+1. Ask what one thing to change.
+2. Ask where you slowed the team.
+3. Ask what a raise would require.
+4. Say thanks, then actually do it.
+5. Specific questions unlock real answers.
+
+Ask one specific question this week.
+
+#career #selfimprovement

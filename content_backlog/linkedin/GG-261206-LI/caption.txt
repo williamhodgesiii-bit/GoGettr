@@ -1,0 +1,25 @@
+POST ID   : GG-261206-LI
+PLATFORM  : LinkedIn
+PUBLISH   : 2026-12-06 08:00 ET  (Sun)
+FORMAT    : Single image (1080x1080)
+PILLAR    : SYSTEM DESIGN   (theme T112 · Volume Two — Recap)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+The most capable people I know don't run on willpower. They design defaults.
+
+Motivation is a mood. A system is a machine you can trust.
+
+• Pay yourself first.
+• Guard one deep block.
+• Two sessions, ten thousand steps.
+• Never miss twice.
+• Build the machine, skip the mood.
+
+Systems beat motivation because they only ask you to decide once.
+
+#productivity #habits #selfimprovement

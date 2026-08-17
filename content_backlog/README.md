@@ -1,6 +1,7 @@
 # GoGettr Content Backlog — Upload Guide
 
-**392 finished posts** · 56 daily themes × 7 outlets · starts **Mon Aug 17, 2026**.
+**784 finished posts** · 112 daily themes × 7 outlets · **Mon Aug 17 – Sun Dec 6, 2026**
+(Volume 01: weeks 1–8 · Volume 02: weeks 9–16, all-new topics).
 Everything here is final art + caption. No editing required.
 
 > Read `../STRATEGY.md` for the why (formats, timing, hooks, research).
@@ -87,7 +88,7 @@ The whole backlog regenerates from `engine/` (`python -m engine.render`):
 
 | file | what lives there |
 |---|---|
-| `engine/content.py` | the words — 56 themes, hooks, beats, quotes, keywords |
+| `engine/content.py` | the words — 112 themes (two volumes), hooks, beats, quotes, keywords |
 | `engine/build.py` | which template each post gets, times, captions, hashtags |
 | `engine/styles.py` | the template library — every named layout on the board |
 | `engine/layout.py` | the measure-then-place engine (fit, spacing, no overlap) |

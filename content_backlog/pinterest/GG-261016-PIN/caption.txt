@@ -1,0 +1,15 @@
+POST ID   : GG-261016-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-10-16 20:00 ET  (Fri)
+FORMAT    : Pin 1000x1500
+PILLAR    : MONEY SYSTEMS   (theme T61 · Sinking Funds)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png
+BOARD     : Money & Personal Finance   <- pin to this Pinterest board
+TITLE     : Sinking Funds Explained
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Sinking Funds Explained. The bill was not a surprise. You just did not name it. Irregular costs are predictable if you give them a month. Save this pin for later, and follow @gogettrdaily for more.

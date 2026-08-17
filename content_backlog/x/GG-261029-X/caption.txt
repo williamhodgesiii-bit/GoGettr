@@ -1,0 +1,23 @@
+POST ID   : GG-261029-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-10-29 09:00 ET  (Thu)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : WORK CAPACITY   (theme T74 · Be The Documentation)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Be the person who wrote down how it actually works.
+
+1. Write the doc nobody wrote.
+2. Turn tribal knowledge into a page.
+3. Make onboarding point to you.
+4. Kill the same question twice.
+5. The author of the doc owns the room.
+
+Write one doc your team keeps re-asking.
+
+#career #selfimprovement

@@ -1,0 +1,23 @@
+POST ID   : GG-261122-X
+PLATFORM  : X / Twitter
+PUBLISH   : 2026-11-22 09:00 ET  (Sun)
+FORMAT    : Text + image card (1600x900)
+PILLAR    : ENVIRONMENT ENGINEERING   (theme T98 · The Launch Pad)
+PRIMARY   : 01_card.png
+ASSETS    : 01_card.png
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+You lose ten minutes each morning hunting for your stuff.
+
+1. Keys, wallet, badge in one tray.
+2. Bag packed and parked at night.
+3. Charger lives at the launch pad.
+4. Everything leaves from one place.
+5. Set the exit up the night before.
+
+Build a launch pad by your door today.
+
+#minimalism #selfimprovement

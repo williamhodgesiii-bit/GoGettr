@@ -1,0 +1,15 @@
+POST ID   : GG-261118-PIN
+PLATFORM  : Pinterest
+PUBLISH   : 2026-11-18 20:00 ET  (Wed)
+FORMAT    : Carousel Pin · 3 cards (1000x1500)
+PILLAR    : HABIT ARCHITECTURE   (theme T94 · Temptation Bundling)
+PRIMARY   : 01_pin.png
+ASSETS    : 01_pin.png, 02_pin.png, 03_pin.png
+BOARD     : Self Improvement & Discipline   <- pin to this Pinterest board
+TITLE     : Temptation Bundling
+
+------------------------------------------------------------
+CAPTION (copy below):
+------------------------------------------------------------
+
+Temptation Bundling: swipe through all 3 cards. Pair the thing you should do with the thing you want to. Borrow the pull of a treat for the task you avoid. Save this pin and follow for systems that actually stick.

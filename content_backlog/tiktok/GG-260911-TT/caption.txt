@@ -1,10 +1,10 @@
 POST ID   : GG-260911-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-09-11 19:00 ET  (Fri)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Single image (1080x1920)
 PILLAR    : MONEY SYSTEMS   (theme T26 · Parallel Story)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,5 +12,6 @@ CAPTION (copy below):
 
 Two people get the same $1,000. Same money, different year. Which sequence are you running?
 
-(add a trending sound) — save it for later.
+Save it for the next time you need it.
+
 #money #personalfinance #finance #selfimprovement #fyp

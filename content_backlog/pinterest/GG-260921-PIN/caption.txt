@@ -1,10 +1,10 @@
 POST ID   : GG-260921-PIN
 PLATFORM  : Pinterest
 PUBLISH   : 2026-09-21 20:00 ET  (Mon)
-FORMAT    : Pin 1000x1500
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
 PILLAR    : CAREER SIGNALS   (theme T36 · Career Signals)
-PRIMARY   : 01_pin.png
-ASSETS    : 01_pin.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
 BOARD     : Career Growth & Success   <- pin to this Pinterest board
 TITLE     : What Employers Actually Want
 
@@ -12,4 +12,4 @@ TITLE     : What Employers Actually Want
 CAPTION (copy below):
 ------------------------------------------------------------
 
-What Employers Actually Want. What your future employer cares about more than your GPA. Build evidence, not just credentials. Save this pin for the next time you need it. Follow @gogettrdaily for more.
+What Employers Actually Want — the quick breakdown. What your future employer cares about more than your GPA. Build evidence, not just credentials. Save this pin for the next time you need it.

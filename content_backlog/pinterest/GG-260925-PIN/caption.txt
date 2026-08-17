@@ -1,10 +1,10 @@
 POST ID   : GG-260925-PIN
 PLATFORM  : Pinterest
 PUBLISH   : 2026-09-25 20:00 ET  (Fri)
-FORMAT    : Pin 1000x1500
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
 PILLAR    : ENVIRONMENT ENGINEERING   (theme T40 · The Default Grocery 12)
-PRIMARY   : 01_pin.png
-ASSETS    : 01_pin.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
 BOARD     : Home & Life Organization   <- pin to this Pinterest board
 TITLE     : Staple Grocery List For Adults
 
@@ -12,4 +12,4 @@ TITLE     : Staple Grocery List For Adults
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Staple Grocery List For Adults. Keep 12 groceries that can always make something. Build your 12 once. Never stare at an empty fridge again. Save this pin for the next time you need it. Follow @gogettrdaily for more.
+Staple Grocery List For Adults — the quick breakdown. Keep 12 groceries that can always make something. Build your 12 once. Never stare at an empty fridge again. Save this pin for the next time you need it.

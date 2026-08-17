@@ -1,10 +1,10 @@
 POST ID   : GG-261005-PIN
 PLATFORM  : Pinterest
 PUBLISH   : 2026-10-05 20:00 ET  (Mon)
-FORMAT    : Pin 1000x1500
+FORMAT    : Carousel Pin · 3 cards (1000x1500)
 PILLAR    : ENVIRONMENT ENGINEERING   (theme T50 · The Paperwork Drop Zone)
 PRIMARY   : 01_pin.png
-ASSETS    : 01_pin.png
+ASSETS    : 01_pin.png, 02_pin.png, 03_pin.png
 BOARD     : Home & Life Organization   <- pin to this Pinterest board
 TITLE     : How To Organize Paperwork At Home
 
@@ -12,4 +12,4 @@ TITLE     : How To Organize Paperwork At Home
 CAPTION (copy below):
 ------------------------------------------------------------
 
-How To Organize Paperwork At Home. Mail has two jobs: act or archive. Give both a place. Stop moving paper around the house. Save this pin for the next time you need it. Follow @gogettrdaily for more.
+How To Organize Paperwork At Home: swipe through all 3 cards. Mail has two jobs: act or archive. Give both a place. Stop moving paper around the house. Save this pin and follow for systems that actually stick.

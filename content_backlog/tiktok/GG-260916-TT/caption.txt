@@ -1,10 +1,10 @@
 POST ID   : GG-260916-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-09-16 19:00 ET  (Wed)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Single image (1080x1920)
 PILLAR    : RECOVERY PROTOCOL   (theme T31 · The Energy Audit)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,5 +12,6 @@ CAPTION (copy below):
 
 Track your energy for 5 days. The pattern is louder than motivation. Start the five-day energy log today.
 
-(add a trending sound) — save it for later.
+Save it for the next time you need it.
+
 #health #wellness #selfcare #selfimprovement #fyp

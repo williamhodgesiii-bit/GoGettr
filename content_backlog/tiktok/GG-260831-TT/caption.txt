@@ -1,16 +1,18 @@
 POST ID   : GG-260831-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-08-31 19:00 ET  (Mon)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : THE REBUILD   (theme T15 · Rebuild Roadmap)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-You wake up at 22 with no network and no savings. First move? Which move would you make first?
+You wake up at 22 with no network and no savings. First move?
 
-(add a trending sound) — save it for later.
+Swipe through. Which move would you make first?
+Which one are you starting with? Comment it, and save this for later.
+
 #career #success #entrepreneur #selfimprovement #fyp

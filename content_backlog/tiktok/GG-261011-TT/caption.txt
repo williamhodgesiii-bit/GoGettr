@@ -1,16 +1,18 @@
 POST ID   : GG-261011-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-10-11 19:00 ET  (Sun)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Photo carousel · 5 stills (1080x1920)
 PILLAR    : SYSTEM DESIGN   (theme T56 · Build The Machine — Recap)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_frame.png, 05_end.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-You do not rise to your goals. You fall to your systems. Save the whole series. Start the machine.
+You do not rise to your goals. You fall to your systems.
 
-(add a trending sound) — save it for later.
+Swipe through. Save the whole series. Start the machine.
+Which one are you starting with? Comment it, and save this for later.
+
 #productivity #habits #discipline #selfimprovement #fyp

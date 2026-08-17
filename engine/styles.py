@@ -79,7 +79,8 @@ def _foot(c, spec, left=HANDLE, right=None, badge=False):
 
 # ================================================================ INSTAGRAM
 def ig_spectrum(fmt, spec):
-    """01 SPECTRUM HOOK — violet/volt/chrome ticks over a bottom-set hook."""
+    """01 SPECTRUM HOOK — violet/volt/chrome ticks lead into the hook, set as
+    one optically-centred block so the eyebrow is never orphaned at the top."""
     c = Canvas(fmt, ground=spec.get("ground", "graphite"),
                plate_treatment=spec.get("plate"), plate_mood=spec.get("mood", "ink"),
                accent=_acc(spec))
@@ -87,7 +88,7 @@ def ig_spectrum(fmt, spec):
     Stack(Spectrum(),
           _hook(c, spec, size=118, max_lines=4, gap=44),
           _sub(c, spec, gap=34),
-          align="bottom").render(c, region)
+          align="center").render(c, region)
     _foot(c, spec, right="SAVE THIS →")
     return c.img
 
@@ -99,7 +100,7 @@ def ig_list(fmt, spec):
     region = c.region(top=top)
     Stack(_hook(c, spec, size=100, max_lines=3, mode="highlight"),
           Rows(spec.get("items", [])[:4], mode="numbered", family="mono",
-               size=34, gap=54, row_gap=30, index_color=b.VIOLET,
+               size=36, gap=64, row_gap=52, index_color=b.VIOLET,
                text_color=b.INK_SOFT, max_lines=1),
           align="top").render(c, region)
     _foot(c, spec, left=spec.get("footer_left", "1 / 7"), right="SWIPE →")
@@ -154,7 +155,7 @@ def ig_rule(fmt, spec):
           _hook(c, spec, size=104, max_lines=4, gap=46, mode="highlight",
                 color=b.INK),
           _sub(c, spec, gap=34, color=b.INK_SOFT),
-          align="bottom").render(c, region)
+          align="center").render(c, region)
     _foot(c, spec, right="SAVE THIS →")
     return c.img
 

@@ -1,16 +1,18 @@
 POST ID   : GG-260912-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-09-12 19:00 ET  (Sat)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : SOCIAL CAPITAL   (theme T27 · Presence Audit)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-People notice these before they notice your clothes. Which one will you fix this week?
+People notice these before they notice your clothes.
 
-(add a trending sound) — save it for later.
+Swipe through. Which one will you fix this week?
+Which one are you starting with? Comment it, and save this for later.
+
 #confidence #communication #success #selfimprovement #fyp

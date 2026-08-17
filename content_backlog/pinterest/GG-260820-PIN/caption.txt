@@ -1,10 +1,10 @@
 POST ID   : GG-260820-PIN
 PLATFORM  : Pinterest
 PUBLISH   : 2026-08-20 20:00 ET  (Thu)
-FORMAT    : Pin 1000x1500
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
 PILLAR    : ESCAPE VELOCITY   (theme T04 · Money Milestone)
-PRIMARY   : 01_pin.png
-ASSETS    : 01_pin.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
 BOARD     : Money & Personal Finance   <- pin to this Pinterest board
 TITLE     : How To Save Your First 10K
 
@@ -12,4 +12,4 @@ TITLE     : How To Save Your First 10K
 CAPTION (copy below):
 ------------------------------------------------------------
 
-How To Save Your First 10K. Your first $10K changes the game — and not the way you think. The number matters. The identity shift matters more. Save this pin for the next time you need it. Follow @gogettrdaily for more.
+How To Save Your First 10K — the quick breakdown. Your first $10K changes the game — and not the way you think. The number matters. The identity shift matters more. Save this pin for the next time you need it.

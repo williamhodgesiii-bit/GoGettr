@@ -1,16 +1,18 @@
 POST ID   : GG-260909-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-09-09 19:00 ET  (Wed)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Photo carousel · 5 stills (1080x1920)
 PILLAR    : PURCHASE LAB   (theme T24 · Buy Once)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_frame.png, 05_end.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Cheap gets expensive when you use it every day. Which one are you overdue to upgrade?
+Cheap gets expensive when you use it every day.
 
-(add a trending sound) — save it for later.
+Swipe through. Which one are you overdue to upgrade?
+Which one are you starting with? Comment it, and save this for later.
+
 #money #personalfinance #finance #selfimprovement #fyp

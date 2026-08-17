@@ -1,10 +1,10 @@
 POST ID   : GG-260909-PIN
 PLATFORM  : Pinterest
 PUBLISH   : 2026-09-09 20:00 ET  (Wed)
-FORMAT    : Pin 1000x1500
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
 PILLAR    : PURCHASE LAB   (theme T24 · Buy Once)
-PRIMARY   : 01_pin.png
-ASSETS    : 01_pin.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
 BOARD     : Money & Personal Finance   <- pin to this Pinterest board
 TITLE     : Buy It For Life Essentials
 
@@ -12,4 +12,4 @@ TITLE     : Buy It For Life Essentials
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Buy It For Life Essentials. Cheap gets expensive when you use it every day. Buy once where it touches your body and your work. Save this pin for the next time you need it. Follow @gogettrdaily for more.
+Buy It For Life Essentials — the quick breakdown. Cheap gets expensive when you use it every day. Buy once where it touches your body and your work. Save this pin for the next time you need it.

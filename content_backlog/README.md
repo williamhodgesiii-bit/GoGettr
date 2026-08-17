@@ -20,7 +20,9 @@ content_backlog/
 │   └── pinterest/by_board/    ← pins split by board + _BOARDS.txt (create these boards)
 │   └── <POST_ID>/
 │        ├── 01_cover.png, 02_beat.png … 08_close.png   (Instagram carousels)
-│        ├── video.mp4                                    (TikTok / Shorts / IG Reels)
+│        ├── 01_frame.png … 04_end.png                   (TikTok Photo Mode carousel / single still)
+│        ├── 01_pin.png, 02_pin.png, 03_pin.png          (Pinterest carousel pin)
+│        ├── video.mp4                                    (any video: Shorts / Reels / TikTok / Pinterest)
 │        ├── 01_card.png / 01_pin.png                     (X / Pinterest / FB / LinkedIn single image)
 │        └── caption.txt   ← ID, publish time, format, and the caption to paste
 ```
@@ -48,18 +50,24 @@ folder for the media.
   upload `video.mp4`, add a trending audio in-app. IG is the main page; mirror to
   Facebook or use the FB-specific card in `facebook/`.
 - **Facebook** — one image + a comment-friendly caption. Lighter look on purpose.
-- **TikTok** — upload `video.mp4`, then **add a trending sound in-app** (native
-  audio > embedded music for reach). Text is already burned in.
+- **TikTok** — media type rotates (never the same two days running). If the
+  folder has `video.mp4`, upload it and **add a trending sound in-app** (native
+  audio > embedded music for reach). If it has numbered `.png` frames, it's a
+  **Photo Mode carousel** (or a single still) — upload the images in order. Text
+  is already burned in; the caption is already cut to the format.
 - **X / Twitter** — attach `01_card.png`; the caption is written as a short thread
   (post line 1, then the numbered steps as replies).
 - **LinkedIn** — one square image + the caption. The steps live in the caption
   (bulleted), which is where LinkedIn readers engage. Simple on purpose.
-- **Pinterest** — **organised by board.** Create the 7 boards listed in
-  `pinterest/by_board/_BOARDS.txt`, then upload each pin to the board named in its
-  `caption.txt` (`BOARD:` line) — or work board-by-board from the
-  `pinterest/by_board/*.csv` files. Paste the title (first caption line) +
-  description. Pinterest ranks on keywords, so the titles/descriptions are
-  keyword-led and carry **no hashtags** (Pinterest no longer recommends them).
+- **Pinterest** — **organised by board**, and the media type rotates (never the
+  same two days running): a single `01_pin.png`, a **Carousel Pin** (multiple
+  numbered `.png` cards — upload in order), or a **Video Pin** (`video.mp4`).
+  Create the 7 boards listed in `pinterest/by_board/_BOARDS.txt`, then upload
+  each pin to the board named in its `caption.txt` (`BOARD:` line) — or work
+  board-by-board from the `pinterest/by_board/*.csv` files. Paste the title
+  (first caption line) + description. Pinterest ranks on keywords, so the
+  titles/descriptions are keyword-led and carry **no hashtags** (Pinterest no
+  longer recommends them).
 - **YouTube Shorts** — upload `video.mp4`, paste the title line + description.
 
 ## Hashtags (already capped to each platform's 2025/26 limit)

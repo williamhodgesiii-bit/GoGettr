@@ -1,10 +1,10 @@
 POST ID   : GG-260905-PIN
 PLATFORM  : Pinterest
 PUBLISH   : 2026-09-05 20:00 ET  (Sat)
-FORMAT    : Pin 1000x1500
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
 PILLAR    : SYSTEM DESIGN   (theme T20 · Cut List)
-PRIMARY   : 01_pin.png
-ASSETS    : 01_pin.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
 BOARD     : Home & Life Organization   <- pin to this Pinterest board
 TITLE     : Things To Stop Doing To Be Happier
 
@@ -12,4 +12,4 @@ TITLE     : Things To Stop Doing To Be Happier
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Things To Stop Doing To Be Happier. Your life gets easier when you stop doing these 5 things. What if the next upgrade is subtraction? Save this pin for the next time you need it. Follow @gogettrdaily for more.
+Things To Stop Doing To Be Happier — the quick breakdown. Your life gets easier when you stop doing these 5 things. What if the next upgrade is subtraction? Save this pin for the next time you need it.

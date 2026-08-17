@@ -1,16 +1,18 @@
 POST ID   : GG-260921-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-09-21 19:00 ET  (Mon)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : CAREER SIGNALS   (theme T36 · Career Signals)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-What your future employer cares about more than your GPA. Which proof are you missing?
+What your future employer cares about more than your GPA.
 
-(add a trending sound) — save it for later.
+Swipe through. Which proof are you missing?
+Which one are you starting with? Comment it, and save this for later.
+
 #career #success #entrepreneur #selfimprovement #fyp

@@ -1,10 +1,10 @@
 POST ID   : GG-260913-PIN
 PLATFORM  : Pinterest
 PUBLISH   : 2026-09-13 20:00 ET  (Sun)
-FORMAT    : Pin 1000x1500
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
 PILLAR    : FRICTION FILE   (theme T28 · The 20-Minute Life Upgrade)
-PRIMARY   : 01_pin.png
-ASSETS    : 01_pin.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
 BOARD     : Productivity & Time Management   <- pin to this Pinterest board
 TITLE     : Quick Productivity Wins
 
@@ -12,4 +12,4 @@ TITLE     : Quick Productivity Wins
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Quick Productivity Wins. You have 20 minutes. Use them where the return lasts. Small friction removed today pays every day after. Save this pin for the next time you need it. Follow @gogettrdaily for more.
+Quick Productivity Wins — the quick breakdown. You have 20 minutes. Use them where the return lasts. Small friction removed today pays every day after. Save this pin for the next time you need it.

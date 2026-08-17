@@ -1,16 +1,18 @@
 POST ID   : GG-260914-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-09-14 19:00 ET  (Mon)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Photo carousel · 5 stills (1080x1920)
 PILLAR    : BORING EDGE   (theme T29 · Boring Edge)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_frame.png, 05_end.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-What successful people make boring. Which habit needs to get boring for you?
+What successful people make boring.
 
-(add a trending sound) — save it for later.
+Swipe through. Which habit needs to get boring for you?
+Which one are you starting with? Comment it, and save this for later.
+
 #mindset #motivation #discipline #selfimprovement #fyp

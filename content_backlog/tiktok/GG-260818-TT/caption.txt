@@ -1,16 +1,18 @@
 POST ID   : GG-260818-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-08-18 19:00 ET  (Tue)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : 168 HOURS   (theme T02 · The 6Pm Rule)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Your 9 to 5 pays today. What does 6 to 10 build? Block one 6-10 window tonight.
+Your 9 to 5 pays today. What does 6 to 10 build?
 
-(add a trending sound) — save it for later.
+Swipe through. Block one 6-10 window tonight.
+Which one are you starting with? Comment it, and save this for later.
+
 #productivity #timemanagement #focus #selfimprovement #fyp

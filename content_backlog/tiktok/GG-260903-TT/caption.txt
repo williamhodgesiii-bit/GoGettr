@@ -1,16 +1,18 @@
 POST ID   : GG-260903-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-09-03 19:00 ET  (Thu)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : RECEIPTS   (theme T18 · False Signals)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Things that look like success but usually are not. Which signal have you been chasing?
+Things that look like success but usually are not.
 
-(add a trending sound) — save it for later.
+Swipe through. Which signal have you been chasing?
+Which one are you starting with? Comment it, and save this for later.
+
 #money #personalfinance #finance #selfimprovement #fyp

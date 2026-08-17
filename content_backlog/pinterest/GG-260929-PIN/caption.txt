@@ -1,10 +1,10 @@
 POST ID   : GG-260929-PIN
 PLATFORM  : Pinterest
 PUBLISH   : 2026-09-29 20:00 ET  (Tue)
-FORMAT    : Pin 1000x1500
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
 PILLAR    : MONEY SYSTEMS   (theme T44 · Budget Ladder)
-PRIMARY   : 01_pin.png
-ASSETS    : 01_pin.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
 BOARD     : Money & Personal Finance   <- pin to this Pinterest board
 TITLE     : How To Prioritize Spending
 
@@ -12,4 +12,4 @@ TITLE     : How To Prioritize Spending
 CAPTION (copy below):
 ------------------------------------------------------------
 
-How To Prioritize Spending. Same goal. Three budgets. Very different moves. Do not spread it across ten weak upgrades. Save this pin for the next time you need it. Follow @gogettrdaily for more.
+How To Prioritize Spending — the quick breakdown. Same goal. Three budgets. Very different moves. Do not spread it across ten weak upgrades. Save this pin for the next time you need it.

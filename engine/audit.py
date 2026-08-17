@@ -137,18 +137,29 @@ def volt_share(img):
 
 
 def check_shape(post, styles, cues):
-    """Is this post built to be swiped? Opener promises, close asks, and on a
-    video the mark lands at the END (the retention rule)."""
+    """Is this post built for its format? A video (or a TikTok Photo Mode
+    carousel — the same vertical frame set, shown as swipeable stills) opens on
+    a hook and closes on the mark at the END (the retention rule). An Instagram
+    carousel opens on a cover, closes on a CTA card and carries a forward cue.
+    A Pinterest carousel opens on a keyword cover and stays within five cards."""
     out = []
     pid = post["post_id"]
-    if post["is_video"]:
+    media = post.get("media")
+    plat = post["platform"]
+    vertical_frames = post["is_video"] or (media == "carousel" and post["fmt"] == "vert")
+    if vertical_frames:
         if styles[-1] != "v_end":
-            out.append(f"{pid}: video does not close on the end card ({styles[-1]})")
+            out.append(f"{pid}: {media} does not close on the end card ({styles[-1]})")
         if styles[0] == "v_end":
-            out.append(f"{pid}: video opens on the end card")
+            out.append(f"{pid}: {media} opens on the end card")
         if len(styles) < 4:
-            out.append(f"{pid}: video is only {len(styles)} frames")
-    elif len(styles) > 1:                       # a carousel
+            out.append(f"{pid}: {media} is only {len(styles)} frames")
+    elif media == "carousel" and plat == "pinterest":
+        if not styles[0].startswith("pin_"):
+            out.append(f"{pid}: pin carousel opens on {styles[0]}, not a cover")
+        if not 2 <= len(styles) <= 5:           # Pinterest caps a carousel at 5 cards
+            out.append(f"{pid}: pin carousel is {len(styles)} cards (max 5)")
+    elif media == "carousel":                   # Instagram carousel
         if not styles[0].startswith("ig_"):
             out.append(f"{pid}: carousel opens on {styles[0]}, not a cover")
         if styles[-1] not in CLOSE_STYLES:
@@ -169,6 +180,8 @@ def check_cadence(posts):
     for plat, plist in sorted(by_plat.items()):
         plist.sort(key=lambda p: p["date"])
         for n in range(len(plist) - 1):
+            if plist[n].get("media") != plist[n + 1].get("media"):
+                continue                        # a different media type is already variety
             a = [s for s, _ in plist[n]["slides"]]
             c = [s for s, _ in plist[n + 1]["slides"]]
             if a == c:

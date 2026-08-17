@@ -17,15 +17,19 @@ Vault + originals). That theme is then re-cut per platform so the drop reads as
 *one campaign* while each outlet gets a native-feeling post — different framing,
 different asset, different caption, same spine.
 
-| Outlet | Primary format used | Why (2025–26 research) |
+| Outlet | Format(s) used | Why (2025–26 research) |
 |---|---|---|
 | **Instagram** (main) | Carousel 1080×1350 (most days) + Reel every 3rd day | Carousels win engagement & saves (~0.55% vs 0.45% static); Reels win reach (~2.25×). We use carousels for depth, Reels for discovery. |
 | **Facebook** (linked) | Single light "chrome" card 1080×1350 + conversational caption | Distinct lighter look for FB's audience; question-led captions drive comments. |
-| **TikTok** | Vertical MP4 slideshow 1080×1920 (4–5 frames, ~11–13s) | Cold-open hook in <1.5s, one idea per frame, text-on-screen (68% watch muted), built for *add trending sound*. Frame recipes rotate, and each outlet gets a different cut of the same theme. |
+| **TikTok** | **Rotates** — vertical MP4 slideshow · Photo Mode carousel · single still (all 1080×1920) | No outlet ships one format every day. Video leads (native reach), but Photo Mode carousels over-index on saves/shares and a single still cuts through a video feed. Cold-open hook in <1.5s, text-on-screen (68% watch muted); the caption is cut to the format (video → *add sound*, carousel → *swipe*). |
 | **X / Twitter** | Text thread + 1600×900 card | Text leads engagement on X (~3.56%); the card carries the hook, the thread carries the system. |
 | **LinkedIn** | Single image 1080×1080 + a value-packed caption | Kept deliberately simple — the steps live in the caption (where LinkedIn readers actually engage). Calmer register, no slang. |
-| **Pinterest** | 2:3 Pin 1000×1500, keyword eyebrow, sorted into 7 keyword-named boards | 2:3 pins get ~31% more saves; Pinterest is keyword search (not hashtags) — titles/descriptions are keyword-led and each pin is filed to a themed board. |
+| **Pinterest** | **Rotates** — 2:3 Pin 1000×1500 · multi-card Carousel Pin · vertical Video Pin, sorted into 7 keyword-named boards | Still pins lead (Pinterest is still-first search), with carousels (2–5 full pins per theme) and video pins for step-by-step topics that out-save a plain pin. Keyword search, not hashtags — titles/descriptions are keyword-led and each pin is filed to a themed board. |
 | **YouTube Shorts** | Vertical MP4 1080×1920 | Hook first, **logo/CTA at the END** (moving branding off the first 3s lifts retention 15–30%). |
+
+Neither **TikTok** nor **Pinterest** serves the same media two days running — the outlet
+rotates video / carousel / still (TikTok) and pin / carousel / video (Pinterest), so the
+feed reads as varied on format, not just on theme.
 
 ## Posting times (ET) — the daily "drip"
 
@@ -69,10 +73,26 @@ in the schedule CSV and can be shifted in one place (`engine/build.py`).
   two light grounds side by side, and violet held to about one tile per row of
   three.
 
+## Captions — cut to the platform *and* the format
+Every caption front-loads the hook (it is all that shows above the fold — ~125
+chars on IG, the first two lines on TikTok, ~40 on a Pinterest title) and then
+the ask is cut to the **media type**, on 2025–26 research:
+
+- **Instagram** — a carousel is a depth play (hook, sub, the full step list, a
+  *swipe + save + send*); a Reel is a reach play, kept lean (*sound on, watch to
+  the end*).
+- **TikTok** — a video asks for a *trending sound*; a Photo Mode carousel asks
+  for a *swipe* and a reply; a single still just asks for the *save*.
+- **Pinterest** — no hashtags (keyword search); a keyword title + a keyword-rich
+  description under the 500-char cap, and the lead line names the format so a
+  carousel ("swipe through all N cards") or a video ("the quick breakdown")
+  reads as one.
+
 ## Hashtags — broad reach, within each platform's limit
 Tags are chosen for **broad, high-traffic reach** (e.g. `#selfimprovement`,
 `#money`, `#productivity`, `#discipline`) and led by the post's own topic, and
-they never exceed what a platform rewards in 2025–26:
+they never exceed what a platform rewards in 2025–26 (the cap is per platform,
+not per media type — a carousel and a Reel share Instagram's limit of five):
 
 - **Instagram — 5** (a hard cap since Dec 2025; more get demoted from Explore/Reels)
 - **TikTok — 5** (incl. `#fyp`) · **YouTube Shorts — 5** (incl. `#shorts`)
@@ -111,7 +131,7 @@ stack is too tall, type steps down and optional lines drop out until it fits —
 so a volt bar, a hairline or a footer can never land on a descender, and text
 can never run off the artboard.
 
-`python -m engine.audit` proves it. It re-renders all **1,060 slides** and fails on:
+`python -m engine.audit` proves it. It re-renders all **1,090 slides** and fails on:
 
 - a slide out of format, crossing a margin, or entering the video UI-safe band;
 - any two foreground elements overlapping;
@@ -120,10 +140,11 @@ can never run off the artboard.
   mismatch, not a layout that "just fits";
 - volt reading as a wash rather than one accent element (measured off the
   rendered pixels), unless the template fields volt by design;
-- a post that isn't built to be swiped — no forward cue on the cover, no CTA
-  card at the close, or a video that doesn't end on the mark;
-- a layout repeated inside one post, **an outlet serving the same layout two
-  days running**, or a break in the grid rotation.
+- a post that isn't built for its format — no forward cue on an IG cover, no CTA
+  card at a carousel's close, a video (or a TikTok Photo Mode carousel) that
+  doesn't end on the mark, or a Pinterest carousel that doesn't open on a cover;
+- a layout repeated inside one post, **an outlet serving the same layout — or the
+  same media type — two days running**, or a break in the grid rotation.
 
 The backlog ships at zero issues on every one of those.
 

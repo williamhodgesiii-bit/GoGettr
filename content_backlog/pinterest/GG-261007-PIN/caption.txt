@@ -1,10 +1,10 @@
 POST ID   : GG-261007-PIN
 PLATFORM  : Pinterest
 PUBLISH   : 2026-10-07 20:00 ET  (Wed)
-FORMAT    : Pin 1000x1500
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
 PILLAR    : BORING EDGE   (theme T52 · The Unsurprising Move)
-PRIMARY   : 01_pin.png
-ASSETS    : 01_pin.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
 BOARD     : Self Improvement & Discipline   <- pin to this Pinterest board
 TITLE     : How To Stay Consistent
 
@@ -12,4 +12,4 @@ TITLE     : How To Stay Consistent
 CAPTION (copy below):
 ------------------------------------------------------------
 
-How To Stay Consistent. Consistency is not intensity. It is making the right move unsurprising. Boring on the outside, compounding underneath. Save this pin for the next time you need it. Follow @gogettrdaily for more.
+How To Stay Consistent — the quick breakdown. Consistency is not intensity. It is making the right move unsurprising. Boring on the outside, compounding underneath. Save this pin for the next time you need it.

@@ -1,10 +1,10 @@
 POST ID   : GG-260927-PIN
 PLATFORM  : Pinterest
 PUBLISH   : 2026-09-27 20:00 ET  (Sun)
-FORMAT    : Pin 1000x1500
+FORMAT    : Carousel Pin · 3 cards (1000x1500)
 PILLAR    : MINI CHALLENGES   (theme T42 · The 3-Day No-Delivery Test)
 PRIMARY   : 01_pin.png
-ASSETS    : 01_pin.png
+ASSETS    : 01_pin.png, 02_pin.png, 03_pin.png
 BOARD     : Money & Personal Finance   <- pin to this Pinterest board
 TITLE     : No Spend Challenge Ideas
 
@@ -12,4 +12,4 @@ TITLE     : No Spend Challenge Ideas
 CAPTION (copy below):
 ------------------------------------------------------------
 
-No Spend Challenge Ideas. Three days, no delivery apps. Notice what the convenience was solving. Test the friction, not your morality. Save this pin for the next time you need it. Follow @gogettrdaily for more.
+No Spend Challenge Ideas: swipe through all 3 cards. Three days, no delivery apps. Notice what the convenience was solving. Test the friction, not your morality. Save this pin and follow for systems that actually stick.

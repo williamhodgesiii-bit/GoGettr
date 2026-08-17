@@ -1,16 +1,18 @@
 POST ID   : GG-260927-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-09-27 19:00 ET  (Sun)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : MINI CHALLENGES   (theme T42 · The 3-Day No-Delivery Test)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Three days, no delivery apps. Notice what the convenience was solving. Start the 3-day test today.
+Three days, no delivery apps. Notice what the convenience was solving.
 
-(add a trending sound) — save it for later.
+Swipe through. Start the 3-day test today.
+Which one are you starting with? Comment it, and save this for later.
+
 #discipline #motivation #selfimprovement #success #fyp

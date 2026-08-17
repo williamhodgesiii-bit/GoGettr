@@ -1,10 +1,10 @@
 POST ID   : GG-261003-PIN
 PLATFORM  : Pinterest
 PUBLISH   : 2026-10-03 20:00 ET  (Sat)
-FORMAT    : Pin 1000x1500
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
 PILLAR    : MINI CHALLENGES   (theme T48 · The 5-Day Early-Arrival Test)
-PRIMARY   : 01_pin.png
-ASSETS    : 01_pin.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
 BOARD     : Productivity & Time Management   <- pin to this Pinterest board
 TITLE     : Small Habits That Change Your Day
 
@@ -12,4 +12,4 @@ TITLE     : Small Habits That Change Your Day
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Small Habits That Change Your Day. Arrive five minutes early for five days. Track how different the day feels. Run the experiment. Let the result argue. Save this pin for the next time you need it. Follow @gogettrdaily for more.
+Small Habits That Change Your Day — the quick breakdown. Arrive five minutes early for five days. Track how different the day feels. Run the experiment. Let the result argue. Save this pin for the next time you need it.

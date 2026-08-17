@@ -1,16 +1,18 @@
 POST ID   : GG-260827-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-08-27 19:00 ET  (Thu)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : MONEY SYSTEMS   (theme T11 · The $100 Test)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-You get $100. It must improve next month. Where does it go? Drop your allocation in the comments.
+You get $100. It must improve next month. Where does it go?
 
-(add a trending sound) — save it for later.
+Swipe through. Drop your allocation in the comments.
+Which one are you starting with? Comment it, and save this for later.
+
 #money #personalfinance #finance #selfimprovement #fyp

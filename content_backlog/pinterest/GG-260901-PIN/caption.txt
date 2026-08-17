@@ -1,10 +1,10 @@
 POST ID   : GG-260901-PIN
 PLATFORM  : Pinterest
 PUBLISH   : 2026-09-01 20:00 ET  (Tue)
-FORMAT    : Pin 1000x1500
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
 PILLAR    : DECISION FILTER   (theme T16 · The Future Me Test)
-PRIMARY   : 01_pin.png
-ASSETS    : 01_pin.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
 BOARD     : Self Improvement & Discipline   <- pin to this Pinterest board
 TITLE     : How To Make Better Decisions
 
@@ -12,4 +12,4 @@ TITLE     : How To Make Better Decisions
 CAPTION (copy below):
 ------------------------------------------------------------
 
-How To Make Better Decisions. Before the next yes, buy, quit or delay — run this test. Make decisions for the person who inherits them. Save this pin for the next time you need it. Follow @gogettrdaily for more.
+How To Make Better Decisions — the quick breakdown. Before the next yes, buy, quit or delay — run this test. Make decisions for the person who inherits them. Save this pin for the next time you need it.

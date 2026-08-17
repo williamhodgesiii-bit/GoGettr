@@ -1,10 +1,10 @@
 POST ID   : GG-261009-PIN
 PLATFORM  : Pinterest
 PUBLISH   : 2026-10-09 20:00 ET  (Fri)
-FORMAT    : Pin 1000x1500
+FORMAT    : Carousel Pin · 3 cards (1000x1500)
 PILLAR    : MINI CHALLENGES   (theme T54 · The 5-Night Tomorrow-Note)
 PRIMARY   : 01_pin.png
-ASSETS    : 01_pin.png
+ASSETS    : 01_pin.png, 02_pin.png, 03_pin.png
 BOARD     : Productivity & Time Management   <- pin to this Pinterest board
 TITLE     : Night Routine For A Productive Morning
 
@@ -12,4 +12,4 @@ TITLE     : Night Routine For A Productive Morning
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Night Routine For A Productive Morning. For five nights, leave one sentence telling tomorrow where to start. Make morning inherit clarity. Save this pin for the next time you need it. Follow @gogettrdaily for more.
+Night Routine For A Productive Morning: swipe through all 3 cards. For five nights, leave one sentence telling tomorrow where to start. Make morning inherit clarity. Save this pin and follow for systems that actually stick.

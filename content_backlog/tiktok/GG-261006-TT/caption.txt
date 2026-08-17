@@ -1,16 +1,18 @@
 POST ID   : GG-261006-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-10-06 19:00 ET  (Tue)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : MINI CHALLENGES   (theme T51 · The One-Week No-Multitask Meal)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-For seven meals, eat without a screen. Notice the pace. Start at your next meal.
+For seven meals, eat without a screen. Notice the pace.
 
-(add a trending sound) — save it for later.
+Swipe through. Start at your next meal.
+Which one are you starting with? Comment it, and save this for later.
+
 #discipline #motivation #selfimprovement #success #fyp

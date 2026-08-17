@@ -52,9 +52,11 @@ def _mood(i, k=0):
 
 
 # ---------------------------------------------------------------- ROTATIONS
-# board 08 — the nine-post grid rotation
-IG_ROTATION = ["ig_spectrum", "ig_list", "ig_photo", "ig_stat", "ig_spectrum",
-               "ig_quote", "ig_photo", "ig_list", "ig_spectrum"]
+# board 08 — the nine-post grid rotation. Spread across all six covers (no one
+# template dominates the grid) and grounded so the rotation reads as texture:
+# the audit's allowed() still skips any slot that would break the grid rules.
+IG_ROTATION = ["ig_spectrum", "ig_list", "ig_photo", "ig_stat", "ig_quote",
+               "ig_photo", "ig_rule", "ig_spectrum", "ig_list"]
 
 INTERIOR_RECIPES = [
     ["beat_number", "beat_split", "beat_highlight", "beat_rail", "beat_quote"],
@@ -79,7 +81,34 @@ VIDEO_RECIPES = [
     ["v_broll", "v_listtease", "v_step", "v_quote", "v_end"],
     ["v_coldopen", "v_step", "v_quote", "v_end"],
 ]
-VIDEO_OFFSET = {"tiktok": 0, "youtube": 3, "instagram": 0}
+VIDEO_OFFSET = {"tiktok": 0, "youtube": 3, "instagram": 0, "pinterest": 6}
+
+# ---------------------------------------------------------------- MEDIA MIX
+# The board's own rule — "you do not have to post everything the same way" —
+# applied to format. TikTok and Pinterest no longer ship one media type every
+# day: the outlet rotates video / carousel / single, and (like every other
+# rotation here) never serves the same media two days running.
+#
+#   TikTok  — video leads (native reach), but photo carousels (Photo Mode) and
+#             single stills mix in. 2025/26: Photo Mode carousels over-index on
+#             saves and shares, and a strong single still cuts through a video feed.
+#   Pinterest — static pins lead (Pinterest is a still-first, search surface),
+#             with multi-card carousels for step-by-step depth and the odd 2:3
+#             video pin. Carousels and video both out-save a plain pin when the
+#             topic is a process.
+TT_MEDIA = ["video", "carousel", "video", "image", "video",
+            "carousel", "video", "image", "carousel"]
+PIN_MEDIA = ["image", "carousel", "image", "video", "image",
+             "carousel", "image", "video"]
+
+MEDIA_LABEL = {
+    ("tiktok", "video"):    "Vertical MP4 slideshow (1080x1920)",
+    ("tiktok", "carousel"): "Photo carousel · {n} stills (1080x1920)",
+    ("tiktok", "image"):    "Single image (1080x1920)",
+    ("pinterest", "image"):    "Pin 1000x1500",
+    ("pinterest", "carousel"): "Carousel Pin · {n} cards (1000x1500)",
+    ("pinterest", "video"):    "Video Pin · vertical MP4 (1080x1920)",
+}
 
 # A Reel also takes a tile in the profile grid, so Instagram gets its own pool:
 # openers vary across dark and violet, and never the full-volt frame (which
@@ -227,6 +256,10 @@ def ig_cover(t, i):
     spec = _base(t, treatment=_tex(i), mood=_mood(i))
     if name == "ig_photo":
         spec["plate_h"] = 520 + (i % 3) * 40
+    if name == "ig_spectrum":
+        # the flat-dark cover alternates graphite/ink so a run of dark tiles in
+        # the grid never reads as the same tone twice
+        spec["ground"] = "ink" if i % 2 else "graphite"
     return name, spec
 
 
@@ -309,6 +342,51 @@ def video_durations(n):
     return [2.5, 2.7, 2.7, 2.7, 2.3][:n]
 
 
+# ---------------------------------------------------------------- SINGLE STILL
+# The frames that can carry a post on their own — a hook, a plate, a line, a
+# number — used on a TikTok single-image day. They rotate so image days do not
+# all look alike.
+SINGLE_VERT = ["v_coldopen", "v_broll", "v_quote", "v_stat"]
+
+
+def single_vert(t, i):
+    """A TikTok single-image day: one self-contained vertical still."""
+    pool = [s for s in SINGLE_VERT if s != "v_stat" or t.get("numeral")]
+    style = pool[(i - 1) % len(pool)]
+    spec = _base(t, treatment=_tex(i), mood=_mood(i), kicker=t["series"])
+    if style == "v_quote":
+        spec["quote"] = t["quote"]
+    if style == "v_stat":
+        spec["numeral_label"] = t.get("numeral_label", t["hook"])
+    return [(style, spec)]
+
+
+# --------------------------------------------------------------- PIN CAROUSEL
+# A Pinterest carousel is a short sequence of full 2:3 pins on one theme —
+# a photo-top hook, the checklist, the one-line rule — every card a different
+# layout and every card standalone-strong (Pinterest caps a carousel at five
+# cards). The pin templates are built for 2:3, so no card floats in empty space
+# the way a 4:5 interior would when stretched to a taller frame.
+PIN_CAROUSEL_RECIPES = [
+    ["pin_photo", "pin_printable", "pin_rule"],
+    ["pin_rule", "pin_list", "pin_photo"],
+    ["pin_printable", "pin_photo", "pin_rule"],
+    ["pin_photo", "pin_rule", "pin_list"],
+]
+
+
+def pin_carousel(t, i):
+    """A themed sequence of full pins — hook, checklist, rule — each a different
+    layout, each strong enough to stand on its own."""
+    recipe = PIN_CAROUSEL_RECIPES[(i - 1) % len(PIN_CAROUSEL_RECIPES)]
+    slides = []
+    for k, style in enumerate(recipe):
+        spec = _base(t, treatment=_tex(i, k), mood=_mood(i, k),
+                     kicker="CHECKLIST", plate_ratio=0.40 + (k % 3) * 0.03)
+        slides.append((style, spec))
+    return slides
+
+
 # ------------------------------------------------------------------ CAPTIONS
 def tags_for(t, n, extra=None):
     """Broad, high-traffic tags: lead with the theme's own topic, guarantee at
@@ -353,10 +431,20 @@ def _arrow_list(beats):
     return "\n".join(f"→ {b}" for b in beats)
 
 
-def cap_instagram(t):
-    body = (f"{t['hook']}\n\n{t['sub']}\n\n"
-            f"Save this one and send it to someone who needs it. "
-            f"Follow {HANDLE} for more.")
+def cap_instagram(t, media="carousel"):
+    """The hook leads (it is all that shows above the 125-char fold), then the
+    CTA is cut to the format: a carousel is a depth play that asks for a swipe
+    and a save; a Reel is a reach play, kept lean, that asks for the watch."""
+    hook, sub = t["hook"], t["sub"]
+    if media == "video":                 # Reel — lean (research: 75-150 words)
+        body = (f"{hook}\n\n{sub}\n\n"
+                f"Sound on, and watch to the end. Save it, then follow {HANDLE} "
+                f"for a new system every day.")
+    else:                                 # Carousel — depth (150-300 words)
+        body = (f"{hook}\n\n{sub}\n\n"
+                f"{_arrow_list(t['beats'])}\n\n"
+                f"Swipe through, save it for later, and send it to someone who "
+                f"needs it. Follow {HANDLE} for a new system every day.")
     return body + "\n\n" + " ".join(tags_for(t, 5))   # IG hard-caps at 5 (Dec 2025)
 
 
@@ -383,12 +471,22 @@ def cap_linkedin(t):
             + " ".join(tags_for(t, 3)))   # LinkedIn: 1-3 is the sweet spot
 
 
-def cap_pinterest(t):
-    # Pinterest is keyword search, not hashtags — keyword-rich title + description.
+def cap_pinterest(t, media="image", cards=0):
+    """Pinterest ranks on keywords, not hashtags: a keyword title (the first
+    ~40 chars carry it) and a keyword-rich description kept under the 500-char
+    cap. The lead line names the format so a carousel or video reads as one."""
     title = t["keyword"].title()
-    desc = (f"{title}. {t['hook']} {t['sub']} "
-            f"Save this pin for the next time you need it. Follow {HANDLE} for more.")
-    return title, desc
+    body = f"{t['hook']} {t['sub']}"
+    if media == "carousel":
+        lead = f"{title}: swipe through all {cards} cards."
+        tail = "Save this pin and follow for systems that actually stick."
+    elif media == "video":
+        lead = f"{title} — the quick breakdown."
+        tail = "Save this pin for the next time you need it."
+    else:
+        lead = f"{title}."
+        tail = f"Save this pin for later, and follow {HANDLE} for more."
+    return title, f"{lead} {body} {tail}"[:498].rstrip()
 
 
 def cap_youtube(t):
@@ -402,10 +500,22 @@ def cap_youtube(t):
     return title, desc
 
 
-def cap_tiktok(t):
-    return (f"{t['hook']} {t['cta']}\n\n"
-            f"(add a trending sound) — save it for later.\n"
-            + " ".join(tags_for(t, 4) + ["#fyp"]))   # TikTok: 3-5 relevant
+def cap_tiktok(t, media="video"):
+    """The hook leads (first two lines are the caption's whole job). The CTA is
+    cut to the format: a video wants a trending sound, a Photo Mode carousel
+    wants a swipe and a reply, a single still just wants the save."""
+    hook, cta = t["hook"], t["cta"]
+    if media == "carousel":               # Photo Mode — swipe-led, ask for the reply
+        body = (f"{hook}\n\n"
+                f"Swipe through. {cta}\n"
+                f"Which one are you starting with? Comment it, and save this for later.")
+    elif media == "image":                # single still
+        body = (f"{hook} {cta}\n\n"
+                f"Save it for the next time you need it.")
+    else:                                  # video slideshow — native audio wins reach
+        body = (f"{hook} {cta}\n\n"
+                f"Add a trending sound, then save it for later.")
+    return body + "\n\n" + " ".join(tags_for(t, 4) + ["#fyp"])   # TikTok: 3-5 relevant
 
 
 # ------------------------------------------------------------------ BUILD
@@ -430,19 +540,20 @@ def build_all():
                 # mostly carousels; every 3rd day a Reel (reach)
                 if i % 3 == 0:
                     slides = video_frames(t, i, "instagram")
-                    common.update(fmt="vert", is_video=True,
+                    common.update(fmt="vert", is_video=True, media="video",
                                   format="Reel · vertical MP4 (1080x1920)",
                                   slides=slides, durations=video_durations(len(slides)),
-                                  caption=cap_instagram(t))
+                                  caption=cap_instagram(t, "video"))
                 else:
                     slides = carousel(t, i)
-                    common.update(fmt="ig", is_video=False,
+                    common.update(fmt="ig", is_video=False, media="carousel",
                                   format=f"Carousel · {len(slides)} slides (1080x1350)",
-                                  slides=slides, caption=cap_instagram(t))
+                                  slides=slides, caption=cap_instagram(t, "carousel"))
             elif pkey == "facebook":
                 style = rotation_plan("fb", FB_ROTATION)[i]
                 spec = _base(t, treatment=_tex(i, 2), mood=_mood(i, 2))
-                common.update(fmt="ig", is_video=False, format="Single image (1080x1350)",
+                common.update(fmt="ig", is_video=False, media="image",
+                              format="Single image (1080x1350)",
                               slides=[(style, spec)], caption=cap_facebook(t))
             elif pkey == "x":
                 style = rotation_plan(
@@ -452,7 +563,7 @@ def build_all():
                 spec = _base(t, treatment=_tex(i, 4), mood=_mood(i, 4),
                              panel="violet" if i % 2 else "volt",
                              panel_line=t["quote"])
-                common.update(fmt="wide", is_video=False,
+                common.update(fmt="wide", is_video=False, media="image",
                               format="Text + image card (1600x900)",
                               slides=[(style, spec)], caption=cap_x(t))
             elif pkey == "linkedin":
@@ -462,31 +573,59 @@ def build_all():
                     and not th.get("numeral") else c)[i]
                 spec = _base(t, eyebrow=f"GOGETTR · {t['pillar'].title()}",
                              footer_right="READ →" if style == "li_carousel" else None)
-                common.update(fmt="square", is_video=False,
+                common.update(fmt="square", is_video=False, media="image",
                               format="Single image (1080x1080)",
                               slides=[(style, spec)], caption=cap_linkedin(t))
             elif pkey == "youtube":
                 slides = video_frames(t, i, "youtube")
                 title, desc = cap_youtube(t)
-                common.update(fmt="vert", is_video=True,
+                common.update(fmt="vert", is_video=True, media="video",
                               format="Shorts · vertical MP4 (1080x1920)",
                               slides=slides, durations=video_durations(len(slides)),
                               title=title, caption=desc)
             elif pkey == "tiktok":
-                slides = video_frames(t, i, "tiktok")
-                common.update(fmt="vert", is_video=True,
-                              format="Vertical MP4 slideshow (1080x1920)",
-                              slides=slides, durations=video_durations(len(slides)),
-                              caption=cap_tiktok(t))
+                media = rotation_plan("tt_media", TT_MEDIA)[i]
+                if media == "image":
+                    slides = single_vert(t, i)
+                    common.update(fmt="vert", is_video=False, media="image",
+                                  format=MEDIA_LABEL[("tiktok", "image")],
+                                  slides=slides, caption=cap_tiktok(t, "image"))
+                elif media == "carousel":
+                    slides = video_frames(t, i, "tiktok")     # Photo Mode stills
+                    common.update(fmt="vert", is_video=False, media="carousel",
+                                  format=MEDIA_LABEL[("tiktok", "carousel")].format(n=len(slides)),
+                                  slides=slides, caption=cap_tiktok(t, "carousel"))
+                else:
+                    slides = video_frames(t, i, "tiktok")
+                    common.update(fmt="vert", is_video=True, media="video",
+                                  format=MEDIA_LABEL[("tiktok", "video")],
+                                  slides=slides, durations=video_durations(len(slides)),
+                                  caption=cap_tiktok(t, "video"))
             elif pkey == "pinterest":
-                style = rotation_plan("pin", PIN_ROTATION)[i]
+                media = rotation_plan("pin_media", PIN_MEDIA)[i]
                 board = board_for(t)
-                spec = _base(t, board=board, treatment=_tex(i, 5), mood=_mood(i, 5),
-                             kicker="CHECKLIST", plate_ratio=0.40 + (i % 3) * 0.03)
-                title, desc = cap_pinterest(t)
-                common.update(fmt="pin", is_video=False, format="Pin 1000x1500",
-                              board=board, slides=[(style, spec)], title=title,
-                              caption=desc)
+                if media == "carousel":
+                    slides = pin_carousel(t, i)
+                    title, desc = cap_pinterest(t, "carousel", cards=len(slides))
+                    common.update(fmt="pin", is_video=False, media="carousel",
+                                  format=MEDIA_LABEL[("pinterest", "carousel")].format(n=len(slides)),
+                                  board=board, slides=slides, title=title, caption=desc)
+                elif media == "video":
+                    slides = video_frames(t, i, "pinterest")
+                    title, desc = cap_pinterest(t, "video")
+                    common.update(fmt="vert", is_video=True, media="video",
+                                  format=MEDIA_LABEL[("pinterest", "video")],
+                                  slides=slides, durations=video_durations(len(slides)),
+                                  board=board, title=title, caption=desc)
+                else:
+                    style = rotation_plan("pin", PIN_ROTATION)[i]
+                    spec = _base(t, board=board, treatment=_tex(i, 5), mood=_mood(i, 5),
+                                 kicker="CHECKLIST", plate_ratio=0.40 + (i % 3) * 0.03)
+                    title, desc = cap_pinterest(t, "image")
+                    common.update(fmt="pin", is_video=False, media="image",
+                                  format=MEDIA_LABEL[("pinterest", "image")],
+                                  board=board, slides=[(style, spec)], title=title,
+                                  caption=desc)
             posts.append(common)
     return posts
 

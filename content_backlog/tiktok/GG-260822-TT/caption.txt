@@ -1,16 +1,18 @@
 POST ID   : GG-260822-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-08-22 19:00 ET  (Sat)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : ENVIRONMENT ENGINEERING   (theme T06 · The Sunday Setup)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Want Monday to feel less expensive? Pay for it on Sunday. Run this before you sleep tonight.
+Want Monday to feel less expensive? Pay for it on Sunday.
 
-(add a trending sound) — save it for later.
+Swipe through. Run this before you sleep tonight.
+Which one are you starting with? Comment it, and save this for later.
+
 #productivity #habits #discipline #selfimprovement #fyp

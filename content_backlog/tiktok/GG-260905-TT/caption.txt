@@ -1,16 +1,18 @@
 POST ID   : GG-260905-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-09-05 19:00 ET  (Sat)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : SYSTEM DESIGN   (theme T20 · Cut List)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Your life gets easier when you stop doing these 5 things. Pick one to cut for seven days.
+Your life gets easier when you stop doing these 5 things.
 
-(add a trending sound) — save it for later.
+Swipe through. Pick one to cut for seven days.
+Which one are you starting with? Comment it, and save this for later.
+
 #mindset #motivation #discipline #selfimprovement #fyp

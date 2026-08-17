@@ -1,10 +1,10 @@
 POST ID   : GG-260917-PIN
 PLATFORM  : Pinterest
 PUBLISH   : 2026-09-17 20:00 ET  (Thu)
-FORMAT    : Pin 1000x1500
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
 PILLAR    : ESCAPE VELOCITY   (theme T32 · Career Map)
-PRIMARY   : 01_pin.png
-ASSETS    : 01_pin.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
 BOARD     : Money & Personal Finance   <- pin to this Pinterest board
 TITLE     : High Income Skills To Learn
 
@@ -12,4 +12,4 @@ TITLE     : High Income Skills To Learn
 CAPTION (copy below):
 ------------------------------------------------------------
 
-High Income Skills To Learn. Which skill could move your income without changing your whole life? Map skill to income before you burn a year. Save this pin for the next time you need it. Follow @gogettrdaily for more.
+High Income Skills To Learn — the quick breakdown. Which skill could move your income without changing your whole life? Map skill to income before you burn a year. Save this pin for the next time you need it.

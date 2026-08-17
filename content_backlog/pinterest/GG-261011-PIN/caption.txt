@@ -1,10 +1,10 @@
 POST ID   : GG-261011-PIN
 PLATFORM  : Pinterest
 PUBLISH   : 2026-10-11 20:00 ET  (Sun)
-FORMAT    : Pin 1000x1500
+FORMAT    : Video Pin · vertical MP4 (1080x1920)
 PILLAR    : SYSTEM DESIGN   (theme T56 · Build The Machine — Recap)
-PRIMARY   : 01_pin.png
-ASSETS    : 01_pin.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
 BOARD     : Self Improvement & Discipline   <- pin to this Pinterest board
 TITLE     : How To Build Life Systems That Last
 
@@ -12,4 +12,4 @@ TITLE     : How To Build Life Systems That Last
 CAPTION (copy below):
 ------------------------------------------------------------
 
-How To Build Life Systems That Last. You do not rise to your goals. You fall to your systems. Eight weeks in one line: build the machine, skip the mood. Save this pin for the next time you need it. Follow @gogettrdaily for more.
+How To Build Life Systems That Last — the quick breakdown. You do not rise to your goals. You fall to your systems. Eight weeks in one line: build the machine, skip the mood. Save this pin for the next time you need it.

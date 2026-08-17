@@ -1,10 +1,10 @@
 POST ID   : GG-260902-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-09-02 19:00 ET  (Wed)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Single image (1080x1920)
 PILLAR    : ESCAPE VELOCITY   (theme T17 · Freedom Math)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,5 +12,6 @@ CAPTION (copy below):
 
 How many months could you breathe if income stopped tomorrow? Do the math today. Write the number down.
 
-(add a trending sound) — save it for later.
+Save it for the next time you need it.
+
 #money #personalfinance #finance #selfimprovement #fyp

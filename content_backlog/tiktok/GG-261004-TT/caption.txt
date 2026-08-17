@@ -1,10 +1,10 @@
 POST ID   : GG-261004-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-10-04 19:00 ET  (Sun)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Single image (1080x1920)
 PILLAR    : SOCIAL CAPITAL   (theme T49 · Social Signals)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,5 +12,6 @@ CAPTION (copy below):
 
 Things that quietly make you look competent. Which one will you do today?
 
-(add a trending sound) — save it for later.
+Save it for the next time you need it.
+
 #confidence #communication #success #selfimprovement #fyp

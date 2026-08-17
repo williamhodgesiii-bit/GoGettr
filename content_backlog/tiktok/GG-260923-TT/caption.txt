@@ -1,16 +1,18 @@
 POST ID   : GG-260923-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-09-23 19:00 ET  (Wed)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : RECOVERY PROTOCOL   (theme T38 · Save Card)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Save this for the next overwhelmed day. Do it in this order. Save this before you need it.
+Save this for the next overwhelmed day. Do it in this order.
 
-(add a trending sound) — save it for later.
+Swipe through. Save this before you need it.
+Which one are you starting with? Comment it, and save this for later.
+
 #health #wellness #selfcare #selfimprovement #fyp

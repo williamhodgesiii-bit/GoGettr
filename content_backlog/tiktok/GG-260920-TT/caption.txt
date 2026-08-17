@@ -1,10 +1,10 @@
 POST ID   : GG-260920-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-09-20 19:00 ET  (Sun)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Single image (1080x1920)
 PILLAR    : ENVIRONMENT ENGINEERING   (theme T35 · The 10% Better Room)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_frame.png
+ASSETS    : 01_frame.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,5 +12,6 @@ CAPTION (copy below):
 
 Do not redo the room. Fix the most annoying 10%. Which corner is your 10%?
 
-(add a trending sound) — save it for later.
+Save it for the next time you need it.
+
 #minimalism #organization #productivity #selfimprovement #fyp

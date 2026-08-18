@@ -1,17 +1,18 @@
 POST ID   : GG-261128-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-11-28 19:00 ET  (Sat)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : MINI CHALLENGES   (theme T104 · The 30-Day One-Habit)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a high-energy beat (gym / phonk / hype), ~120-140 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Pick one habit. Do it 30 days. Ignore everything else. Name your one habit and start today.
+Pick one habit. Do it 30 days. Ignore everything else.
 
-Add a trending sound, then save it for later.
+Bookmark this. Name your one habit and start today.
 
-#discipline #motivation #selfimprovement #success #fyp
+#30daychallenge #disciplinechallenge #habitchallenge #habitbuilding #productivitysystem

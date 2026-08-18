@@ -5,6 +5,7 @@ FORMAT    : Single image (1080x1920)
 PILLAR    : THE AUDIT   (theme T08 · The 7-Day Time Leak Audit)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,6 +13,6 @@ CAPTION (copy below):
 
 Your week is leaking. Find the hole before you add another goal. Start the seven-day count today.
 
-Save it for the next time you need it.
+Save this where you'll see it tonight.
 
-#productivity #timemanagement #focus #selfimprovement #fyp
+#timeblocking #productivitytok #timemanagementtips #habitbuilding #productivitysystem

@@ -1,17 +1,18 @@
 POST ID   : GG-261030-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-10-30 19:00 ET  (Fri)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : CAREER SIGNALS   (theme T75 · Operate One Level Up)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Act at the level you want before anyone hands it over. Pick one habit of the next level up.
+Act at the level you want before anyone hands it over.
 
-Add a trending sound, then save it for later.
+Pick one habit of the next level up. Which one is you? Drop the number.
 
-#career #success #entrepreneur #selfimprovement #fyp
+#careergrowth #careertok #careeradvice #mindsetshift #mentalstrength

@@ -5,6 +5,7 @@ FORMAT    : Single image (1080x1920)
 PILLAR    : ESCAPE VELOCITY   (theme T04 · Money Milestone)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,6 +13,6 @@ CAPTION (copy below):
 
 Your first $10K changes the game — and not the way you think. Set the target. Automate the first transfer.
 
-Save it for the next time you need it.
+Keep this on hand.
 
-#money #personalfinance #finance #selfimprovement #fyp
+#moneytok #personalfinancetips #budgetingtips #mentalstrength #growthmindset

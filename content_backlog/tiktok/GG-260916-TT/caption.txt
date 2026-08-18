@@ -5,6 +5,7 @@ FORMAT    : Single image (1080x1920)
 PILLAR    : RECOVERY PROTOCOL   (theme T31 · The Energy Audit)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png
+SOUND     : Add a calm cinematic or soft-piano track, ~70-90 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -14,4 +15,4 @@ Track your energy for 5 days. The pattern is louder than motivation. Start the f
 
 Save it for the next time you need it.
 
-#health #wellness #selfcare #selfimprovement #fyp
+#restday #wellnesstok #selfcareroutine #timeblocking #productivitytok

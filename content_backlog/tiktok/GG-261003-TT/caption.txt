@@ -1,17 +1,18 @@
 POST ID   : GG-261003-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-10-03 19:00 ET  (Sat)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : MINI CHALLENGES   (theme T48 · The 5-Day Early-Arrival Test)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a high-energy beat (gym / phonk / hype), ~120-140 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Arrive five minutes early for five days. Track how different the day feels. Start the 5-day test tomorrow.
+Arrive five minutes early for five days. Track how different the day feels.
 
-Add a trending sound, then save it for later.
+Bookmark this. Start the 5-day test tomorrow.
 
-#discipline #motivation #selfimprovement #success #fyp
+#30daychallenge #disciplinechallenge #habitchallenge #productivitytok #timemanagementtips

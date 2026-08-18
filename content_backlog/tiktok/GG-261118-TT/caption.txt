@@ -5,6 +5,7 @@ FORMAT    : Single image (1080x1920)
 PILLAR    : HABIT ARCHITECTURE   (theme T94 · Temptation Bundling)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png
+SOUND     : Add a calm cinematic or soft-piano track, ~70-90 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,6 +13,6 @@ CAPTION (copy below):
 
 Pair the thing you should do with the thing you want to. Bundle one treat to one hard task.
 
-Save it for the next time you need it.
+Keep this on hand.
 
-#mindset #motivation #discipline #selfimprovement #fyp
+#growthmindset #stoicmindset #mindsetshift #systemsthinking #atomichabits

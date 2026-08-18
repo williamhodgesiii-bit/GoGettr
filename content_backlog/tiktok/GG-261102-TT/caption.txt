@@ -5,6 +5,7 @@ FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : RECOVERY PROTOCOL   (theme T78 · Minimum Effective Dose)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
+SOUND     : Add a high-energy beat (gym / phonk / hype), ~120-140 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,7 +13,6 @@ CAPTION (copy below):
 
 You do not need the perfect program. You need to show up.
 
-Swipe through. Book two sessions on the calendar now.
-Which one are you starting with? Comment it, and save this for later.
+Swipe through. Book two sessions on the calendar now. Drop your number below.
 
-#fitness #health #motivation #selfimprovement #fyp
+#workoutmotivation #trainingsplit #gymtok #systemsthinking #atomichabits

@@ -5,6 +5,7 @@ FORMAT    : Single image (1080x1920)
 PILLAR    : SOCIAL CAPITAL   (theme T85 · The Keep-In-Touch List)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png
+SOUND     : Add a warm, feel-good pop track in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,6 +13,6 @@ CAPTION (copy below):
 
 Relationships do not end in conflict. They fade in silence. Text one person you keep meaning to.
 
-Save it for the next time you need it.
+Save it, and follow for the next one.
 
-#confidence #communication #success #selfimprovement #fyp
+#socialskills #communicationskills #charismatips #growthmindset #stoicmindset

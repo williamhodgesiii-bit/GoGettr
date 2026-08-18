@@ -5,6 +5,7 @@ FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : MINI CHALLENGES   (theme T51 · The One-Week No-Multitask Meal)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
+SOUND     : Add a high-energy beat (gym / phonk / hype), ~120-140 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,7 +13,6 @@ CAPTION (copy below):
 
 For seven meals, eat without a screen. Notice the pace.
 
-Swipe through. Start at your next meal.
-Which one are you starting with? Comment it, and save this for later.
+Swipe. Start at your next meal. Comment the step you'll run first.
 
-#discipline #motivation #selfimprovement #success #fyp
+#dailyhabits #30daychallenge #disciplinechallenge #wellnesstok #selfcareroutine

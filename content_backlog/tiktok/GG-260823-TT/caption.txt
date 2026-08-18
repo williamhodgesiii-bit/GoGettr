@@ -1,17 +1,18 @@
 POST ID   : GG-260823-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-08-23 19:00 ET  (Sun)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : PURCHASE LAB   (theme T07 · Status Filter)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Would you still want it if nobody could ever see it? Run this before your next checkout.
+Would you still want it if nobody could ever see it?
 
-Add a trending sound, then save it for later.
+Run this before your next checkout. Tell me the one you'll skip.
 
-#money #personalfinance #finance #selfimprovement #fyp
+#financialliteracy #moneytok #personalfinancetips #mindsetshift #mentalstrength

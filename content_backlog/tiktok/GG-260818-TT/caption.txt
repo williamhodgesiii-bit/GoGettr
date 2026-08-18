@@ -5,6 +5,7 @@ FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : 168 HOURS   (theme T02 · The 6Pm Rule)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,7 +13,6 @@ CAPTION (copy below):
 
 Your 9 to 5 pays today. What does 6 to 10 build?
 
-Swipe through. Block one 6-10 window tonight.
-Which one are you starting with? Comment it, and save this for later.
+Swipe to the end, then save the one you need.
 
-#productivity #timemanagement #focus #selfimprovement #fyp
+#timemanagementtips #deepwork #timeblocking #systemsthinking #atomichabits

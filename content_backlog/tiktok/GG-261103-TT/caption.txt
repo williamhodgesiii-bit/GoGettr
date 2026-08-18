@@ -1,17 +1,18 @@
 POST ID   : GG-261103-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-11-03 19:00 ET  (Tue)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : RECOVERY PROTOCOL   (theme T79 · The 10K Step Floor)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a high-energy beat (gym / phonk / hype), ~120-140 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-The most underrated fitness tool is a pair of shoes. Set a step floor and hit it today.
+The most underrated fitness tool is a pair of shoes.
 
-Add a trending sound, then save it for later.
+Set a step floor and hit it today. Tell me the one you'll skip.
 
-#fitness #health #motivation #selfimprovement #fyp
+#trainingsplit #gymtok #fitnessroutine #wellnesstok #selfcareroutine

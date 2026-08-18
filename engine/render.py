@@ -36,30 +36,101 @@ def render_slides(post, folder):
         names.append(nm)
     return names
 
-def make_video(post, folder):
-    frames_dir = os.path.join(folder, "frames")
-    os.makedirs(frames_dir, exist_ok=True)
+# ---------------------------------------------------------------- VIDEO
+# TikTok gets *motion* — the platform distributes on watch-time and sound, and a
+# feed of held stills reads as a slideshow the algorithm barely pushes. So every
+# TikTok frame is a slow Ken-Burns move (a centred zoom on a 2x-upscaled still,
+# so the design's centred type never drifts out of frame) and the cuts between
+# them are short cross-dissolves — the file plays as a video, not a deck of
+# screenshots. The other outlets (Reels, Shorts, video pins) keep the held-frame
+# build, which is already native to how they are usually posted.
+FPS = 30
+XFADE = 0.35                                   # seconds per cut
+# Push / wipe transitions, not dissolves: a crossfade ghosts two sets of type
+# over each other on text cards, but a slide or wipe reads as an intentional cut.
+TRANSITIONS = ["slideleft", "smoothup", "wiperight", "slideup", "slideright", "smoothdown"]
+
+
+def _render_frames(post, frames_dir):
     fnames = []
     for k, (style, spec) in enumerate(post["slides"], 1):
         img = S.STYLES[style]("vert", spec)
         fn = f"f{k:02d}.png"
         img.save(os.path.join(frames_dir, fn))
         fnames.append(fn)
-    # concat list: hold each frame; duplicate last so its duration applies
     durs = post.get("durations") or [3.0] * len(fnames)
+    durs = [durs[k] if k < len(durs) else 3.0 for k in range(len(fnames))]
+    return fnames, durs
+
+
+def _encode_static(post, frames_dir, fnames, durs, out):
+    """Held frames (Reels / Shorts / video pins) — hold each still for its beat."""
     lines = []
-    for k, fn in enumerate(fnames, 1):
-        lines.append(f"file '{fn}'\nduration {durs[k - 1] if k <= len(durs) else 3.0}")
-    lines.append(f"file '{fnames[-1]}'")
+    for k, fn in enumerate(fnames):
+        lines.append(f"file '{fn}'\nduration {durs[k]}")
+    lines.append(f"file '{fnames[-1]}'")        # duplicate last so its duration applies
     with open(os.path.join(frames_dir, "list.txt"), "w") as f:
         f.write("\n".join(lines) + "\n")
-    out = os.path.join(folder, "video.mp4")
     cmd = [FF, "-y", "-f", "concat", "-safe", "0", "-i", "list.txt",
-           "-vf", "fps=30,format=yuv420p", "-c:v", "libx264", "-preset", "veryfast",
+           "-vf", f"fps={FPS},format=yuv420p", "-c:v", "libx264", "-preset", "veryfast",
            "-pix_fmt", "yuv420p", "-movflags", "+faststart", os.path.abspath(out)]
+    return cmd
+
+
+def _encode_motion(post, frames_dir, fnames, durs, out):
+    """TikTok — Ken-Burns each still and cross-dissolve the cuts, so the file
+    plays as a video, not a deck of screenshots. The move is a slow *centred*
+    zoom (a time-driven scale + centre-crop on a constant-rate looped still), so
+    the design's centred type never drifts out of frame; the direction alternates
+    in/out and the transition rotates, so no two cuts look the same."""
+    n = len(fnames)
+    secs = [max(0.6, float(d)) for d in durs]
+    inputs = []
+    for k, fn in enumerate(fnames):
+        # a constant-rate looped still — xfade needs CFR, and this keeps it simple
+        inputs += ["-loop", "1", "-framerate", str(FPS), "-t", f"{secs[k]:.4f}", "-i", fn]
+    parts = []
+    for k in range(n):
+        d = secs[k]
+        if k % 2 == 0:                          # ease in:  1.015x -> 1.10x
+            zexpr = f"1.015+0.085*t/{d:.4f}"
+        else:                                    # ease out: 1.10x -> 1.015x
+            zexpr = f"1.10-0.085*t/{d:.4f}"
+        # NB: no setpts here — it strips the frame-rate metadata that xfade
+        # requires (it then rejects the stream as "1/0, not constant").
+        parts.append(
+            f"[{k}:v]scale=w='ceil(1080*({zexpr})/2)*2':"
+            f"h='ceil(1920*({zexpr})/2)*2':eval=frame:flags=bicubic,"
+            f"crop=1080:1920,setsar=1,fps={FPS},format=yuv420p[v{k}]")
+    if n == 1:
+        chain = "v0"
+    else:
+        prev, run = "v0", secs[0]
+        for k in range(1, n):
+            label = "vout" if k == n - 1 else f"x{k}"
+            trans = TRANSITIONS[(k - 1) % len(TRANSITIONS)]
+            parts.append(f"[{prev}][v{k}]xfade=transition={trans}:"
+                         f"duration={XFADE}:offset={run - XFADE:.4f}[{label}]")
+            run += secs[k] - XFADE
+            prev = label
+        chain = "vout"
+    cmd = [FF, "-y"] + inputs + [
+        "-filter_complex", ";".join(parts), "-map", f"[{chain}]",
+        "-r", str(FPS), "-c:v", "libx264", "-preset", "veryfast",
+        "-pix_fmt", "yuv420p", "-movflags", "+faststart", os.path.abspath(out)]
+    return cmd
+
+
+def make_video(post, folder):
+    frames_dir = os.path.join(folder, "frames")
+    os.makedirs(frames_dir, exist_ok=True)
+    fnames, durs = _render_frames(post, frames_dir)
+    out = os.path.join(folder, "video.mp4")
+    build = _encode_motion if post.get("platform") == "tiktok" else _encode_static
+    cmd = build(post, frames_dir, fnames, durs, out)
     r = subprocess.run(cmd, cwd=frames_dir, capture_output=True, text=True)
     if r.returncode != 0:
-        raise RuntimeError("ffmpeg failed for %s: %s" % (post["post_id"], r.stderr[-400:]))
+        raise RuntimeError("ffmpeg failed for %s: %s" % (post["post_id"], r.stderr[-500:]))
     shutil.rmtree(frames_dir, ignore_errors=True)   # keep only the finished mp4
     return "video.mp4", []
 
@@ -77,6 +148,8 @@ def write_caption(post, folder, assets, primary):
         lines.append(f"BOARD     : {post['board']}   <- pin to this Pinterest board")
     if post.get("title"):
         lines.append(f"TITLE     : {post['title']}")
+    if post.get("sound"):
+        lines.append(f"SOUND     : {post['sound']}")
     lines += ["", "-" * 60, "CAPTION (copy below):", "-" * 60, "", post["caption"], ""]
     with open(os.path.join(folder, "caption.txt"), "w") as f:
         f.write("\n".join(lines))

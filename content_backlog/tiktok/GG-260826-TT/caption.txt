@@ -1,17 +1,18 @@
 POST ID   : GG-260826-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-08-26 19:00 ET  (Wed)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : WORK CAPACITY   (theme T10 · Capability Stack)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-How to become hard to replace — without a new title. Rate yourself 1-5 on each. Fix the lowest.
+How to become hard to replace — without a new title.
 
-Add a trending sound, then save it for later.
+Save this, then run it. Rate yourself 1-5 on each. Fix the lowest.
 
-#career #success #entrepreneur #selfimprovement #fyp
+#worktok #careergrowth #careertok #systemsthinking #atomichabits

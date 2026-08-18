@@ -1,17 +1,18 @@
 POST ID   : GG-260910-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-09-10 19:00 ET  (Thu)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : THE AUDIT   (theme T25 · Calendar Audit)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Your calendar is a better personality test than your bio. Open last week. What does it confess?
+Your calendar is a better personality test than your bio.
 
-Add a trending sound, then save it for later.
+Open last week. What does it confess? Comment where you're starting.
 
-#productivity #timemanagement #focus #selfimprovement #fyp
+#productivitytok #timemanagementtips #deepwork #growthmindset #stoicmindset

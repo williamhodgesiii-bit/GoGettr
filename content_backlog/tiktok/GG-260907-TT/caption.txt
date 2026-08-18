@@ -5,6 +5,7 @@ FORMAT    : Single image (1080x1920)
 PILLAR    : 168 HOURS   (theme T22 · 168 Hours)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,6 +13,6 @@ CAPTION (copy below):
 
 168 hours a week. Most of us can only account for 90. Reclaim one hour. Schedule it now.
 
-Save it for the next time you need it.
+Screenshot this one.
 
-#productivity #timemanagement #focus #selfimprovement #fyp
+#timemanagementtips #deepwork #timeblocking #systemsthinking #atomichabits

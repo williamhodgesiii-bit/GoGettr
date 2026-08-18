@@ -1,17 +1,18 @@
 POST ID   : GG-260917-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-09-17 19:00 ET  (Thu)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : ESCAPE VELOCITY   (theme T32 · Career Map)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Which skill could move your income without changing your whole life? Name your one adjacent skill.
+Which skill could move your income without changing your whole life?
 
-Add a trending sound, then save it for later.
+Bookmark this. Name your one adjacent skill.
 
-#career #success #entrepreneur #selfimprovement #fyp
+#careertok #careeradvice #worktok #personalfinancetips #budgetingtips

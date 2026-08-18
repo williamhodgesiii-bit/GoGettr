@@ -1,17 +1,18 @@
 POST ID   : GG-261021-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-10-21 19:00 ET  (Wed)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : DEEP WORK   (theme T66 · The Shutdown Ritual)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Work follows you home because you never told it to stop. Run a two-minute shutdown tonight.
+Work follows you home because you never told it to stop.
 
-Add a trending sound, then save it for later.
+Save this, then run it. Run a two-minute shutdown tonight.
 
-#productivity #timemanagement #focus #selfimprovement #fyp
+#timemanagementtips #deepwork #timeblocking #restday #wellnesstok

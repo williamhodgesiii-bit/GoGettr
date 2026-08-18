@@ -5,6 +5,7 @@ FORMAT    : Single image (1080x1920)
 PILLAR    : RECOVERY PROTOCOL   (theme T80 · The Protein Floor)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png
+SOUND     : Add a high-energy beat (gym / phonk / hype), ~120-140 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,6 +13,6 @@ CAPTION (copy below):
 
 You are not under-training. You are under-eating protein. Add protein to your next meal.
 
-Save it for the next time you need it.
+Save it, and follow for the next one.
 
-#fitness #health #motivation #selfimprovement #fyp
+#gymtok #fitnessroutine #workoutmotivation #selfcareroutine #burnoutrecovery

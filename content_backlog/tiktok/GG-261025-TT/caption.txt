@@ -1,17 +1,18 @@
 POST ID   : GG-261025-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-10-25 19:00 ET  (Sun)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : SYSTEM DESIGN   (theme T70 · The Not-To-Do List)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Your to-do list is full because your not-to-do list is empty. Write three lines for your not-to-do list.
+Your to-do list is full because your not-to-do list is empty.
 
-Add a trending sound, then save it for later.
+Save it now. Write three lines for your not-to-do list.
 
-#productivity #timemanagement #focus #selfimprovement #fyp
+#timemanagementtips #deepwork #timeblocking #systemsthinking #atomichabits

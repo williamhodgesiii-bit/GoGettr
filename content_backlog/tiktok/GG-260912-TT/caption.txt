@@ -5,6 +5,7 @@ FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : SOCIAL CAPITAL   (theme T27 · Presence Audit)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
+SOUND     : Add a warm, feel-good pop track in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,7 +13,6 @@ CAPTION (copy below):
 
 People notice these before they notice your clothes.
 
-Swipe through. Which one will you fix this week?
-Which one are you starting with? Comment it, and save this for later.
+Swipe. Which one will you fix this week? Comment the step you'll run first.
 
-#confidence #communication #success #selfimprovement #fyp
+#charismatips #confidencetips #socialskills #mindsetshift #mentalstrength

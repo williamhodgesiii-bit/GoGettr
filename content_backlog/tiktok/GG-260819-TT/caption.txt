@@ -1,17 +1,18 @@
 POST ID   : GG-260819-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-08-19 19:00 ET  (Wed)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : THE AUDIT   (theme T03 · Future Audit)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a calm cinematic or soft-piano track, ~70-90 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-If nothing changes for 365 days, are you okay with the result? Name your lowest answer in the comments.
+If nothing changes for 365 days, are you okay with the result?
 
-Add a trending sound, then save it for later.
+Name your lowest answer in the comments. Which one is you? Drop the number.
 
-#mindset #motivation #discipline #selfimprovement #fyp
+#stoicmindset #mindsetshift #mentalstrength #atomichabits #habitbuilding

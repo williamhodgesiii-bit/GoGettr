@@ -21,7 +21,7 @@ different asset, different caption, same spine.
 |---|---|---|
 | **Instagram** (main) | Carousel 1080×1350 (most days) + Reel every 3rd day | Carousels win engagement & saves (~0.55% vs 0.45% static); Reels win reach (~2.25×). We use carousels for depth, Reels for discovery. |
 | **Facebook** (linked) | Single light "chrome" card 1080×1350 + conversational caption | Distinct lighter look for FB's audience; question-led captions drive comments. |
-| **TikTok** | **Rotates** — vertical MP4 slideshow · Photo Mode carousel · single still (all 1080×1920) | No outlet ships one format every day. Video leads (native reach), but Photo Mode carousels over-index on saves/shares and a single still cuts through a video feed. Cold-open hook in <1.5s, text-on-screen (68% watch muted); the caption is cut to the format (video → *add sound*, carousel → *swipe*). |
+| **TikTok** | **Rotates** — vertical MP4 (motion) · Photo Mode carousel · single still (all 1080×1920) | No outlet ships one format every day. Video leads (native reach), but Photo Mode carousels over-index on saves/shares and a single still cuts through a video feed. The video is **real motion** — a slow Ken-Burns push on every frame and a slide/wipe cut between them, so it plays as a video, not a deck of held stills (which TikTok barely distributes). Cold-open hook in <1.5s, text-on-screen (68% watch muted). Sound is added **in-app** at upload (see below), so the file ships without audio on purpose. |
 | **X / Twitter** | Text thread + 1600×900 card | Text leads engagement on X (~3.56%); the card carries the hook, the thread carries the system. |
 | **LinkedIn** | Single image 1080×1080 + a value-packed caption | Kept deliberately simple — the steps live in the caption (where LinkedIn readers actually engage). Calmer register, no slang. |
 | **Pinterest** | **Rotates** — 2:3 Pin 1000×1500 · multi-card Carousel Pin · vertical Video Pin, sorted into 7 keyword-named boards | Still pins lead (Pinterest is still-first search), with carousels (2–5 full pins per theme) and video pins for step-by-step topics that out-save a plain pin. Keyword search, not hashtags — titles/descriptions are keyword-led and each pin is filed to a themed board. |
@@ -81,8 +81,15 @@ the ask is cut to the **media type**, on 2025–26 research:
 - **Instagram** — a carousel is a depth play (hook, sub, the full step list, a
   *swipe + save + send*); a Reel is a reach play, kept lean (*sound on, watch to
   the end*).
-- **TikTok** — a video asks for a *trending sound*; a Photo Mode carousel asks
-  for a *swipe* and a reply; a single still just asks for the *save*.
+- **TikTok** — the hook leads and the ask **rotates** post to post (no two read
+  from the same template) and is cut to the format: a video points at the *save
+  / comment*, a Photo Mode carousel at the *swipe*, a single still at the *save*.
+  The old "add a trending sound" line is gone from the caption — you don't ask a
+  *viewer* to add sound. Instead each TikTok caption file carries a **SOUND** note
+  (creator-facing): the kind of trending sound to add *in the TikTok editor*,
+  where the app links the post to that sound's reach. A silent slideshow is the
+  single biggest reason a TikTok gets 0 views; motion + an in-app trending sound
+  is the fix.
 - **Pinterest** — no hashtags (keyword search); a keyword title + a keyword-rich
   description under the 500-char cap, and the lead line names the format so a
   carousel ("swipe through all N cards") or a video ("the quick breakdown")
@@ -95,7 +102,12 @@ they never exceed what a platform rewards in 2025–26 (the cap is per platform,
 not per media type — a carousel and a Reel share Instagram's limit of five):
 
 - **Instagram — 5** (a hard cap since Dec 2025; more get demoted from Explore/Reels)
-- **TikTok — 5** (incl. `#fyp`) · **YouTube Shorts — 5** (incl. `#shorts`)
+- **TikTok — 4–5, niche not broad, and *no* `#fyp`.** `#fyp` does nothing for reach
+  in 2026 and reads as low-effort; the mega-broad tags (`#motivation`, `#success`)
+  only put a small account up against the biggest ones. So TikTok leads with
+  niche, native ("-tok") and long-tail tags (`#atomichabits`, `#timeblocking`,
+  `#moneytok`), rotated by day so a topic's posts don't all carry the same set —
+  the way to win is to rank in a *smaller* pool. · **YouTube Shorts — 5** (incl. `#shorts`)
 - **LinkedIn — 3** · **X — 2** (3+ hashtags measurably drops reach) · **Facebook — 2**
 - **Pinterest — 0.** Pinterest is keyword search, so pins rely on keyword titles,
   descriptions and board names instead of hashtags.

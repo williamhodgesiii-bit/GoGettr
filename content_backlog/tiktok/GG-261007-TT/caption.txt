@@ -1,17 +1,18 @@
 POST ID   : GG-261007-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-10-07 19:00 ET  (Wed)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : BORING EDGE   (theme T52 · The Unsurprising Move)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a calm cinematic or soft-piano track, ~70-90 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Consistency is not intensity. It is making the right move unsurprising. Which move will you make automatic?
+Consistency is not intensity. It is making the right move unsurprising.
 
-Add a trending sound, then save it for later.
+Which move will you make automatic? Follow for the next system.
 
-#mindset #motivation #discipline #selfimprovement #fyp
+#mindsetshift #mentalstrength #growthmindset #habitbuilding #productivitysystem

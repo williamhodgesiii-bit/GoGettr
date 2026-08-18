@@ -5,6 +5,7 @@ FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : MINI CHALLENGES   (theme T105 · Phone Out Of The Room)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
+SOUND     : Add a high-energy beat (gym / phonk / hype), ~120-140 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,7 +13,6 @@ CAPTION (copy below):
 
 For seven nights, the phone sleeps in another room.
 
-Swipe through. Move the charger out of the bedroom tonight.
-Which one are you starting with? Comment it, and save this for later.
+Swipe. Move the charger out of the bedroom tonight. Comment the step you'll run first.
 
-#discipline #motivation #selfimprovement #success #fyp
+#disciplinechallenge #habitchallenge #dailyhabits #burnoutrecovery #restday

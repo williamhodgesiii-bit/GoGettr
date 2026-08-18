@@ -5,6 +5,7 @@ FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : MONEY SYSTEMS   (theme T09 · Priority Ladder)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,7 +13,6 @@ CAPTION (copy below):
 
 Own these before you own the flex.
 
-Swipe through. Check which rung you actually own.
-Which one are you starting with? Comment it, and save this for later.
+Swipe. Check which rung you actually own. Comment the step you'll run first.
 
-#money #personalfinance #finance #selfimprovement #fyp
+#personalfinancetips #budgetingtips #financialliteracy #productivitysystem #systemsthinking

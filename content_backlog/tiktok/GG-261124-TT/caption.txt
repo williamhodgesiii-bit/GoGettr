@@ -1,17 +1,18 @@
 POST ID   : GG-261124-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-11-24 19:00 ET  (Tue)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : PURCHASE LAB   (theme T100 · The Capsule Wardrobe)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Decision fatigue starts at your closet every morning. Pull the ten pieces you always reach for.
+Decision fatigue starts at your closet every morning.
 
-Add a trending sound, then save it for later.
+Pull the ten pieces you always reach for. Follow for the next system.
 
-#minimalism #organization #productivity #selfimprovement #fyp
+#declutter #minimalisttok #organizationtips #habitbuilding #productivitysystem

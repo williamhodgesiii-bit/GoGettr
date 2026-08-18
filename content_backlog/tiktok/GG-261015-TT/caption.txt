@@ -5,6 +5,7 @@ FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : MONEY SYSTEMS   (theme T60 · Two Accounts)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,7 +13,6 @@ CAPTION (copy below):
 
 One account for bills. One for spending. Never mix them.
 
-Swipe through. Open the second account this week.
-Which one are you starting with? Comment it, and save this for later.
+Swipe through. Open the second account this week. Drop your number below.
 
-#money #personalfinance #finance #selfimprovement #fyp
+#moneytok #personalfinancetips #budgetingtips #habitbuilding #productivitysystem

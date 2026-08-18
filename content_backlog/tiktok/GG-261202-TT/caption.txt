@@ -5,6 +5,7 @@ FORMAT    : Photo carousel · 4 stills (1080x1920)
 PILLAR    : THE AUDIT   (theme T108 · The Energy Drains List)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_end.png
+SOUND     : Add a calm cinematic or soft-piano track, ~70-90 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,7 +13,6 @@ CAPTION (copy below):
 
 Some people cost you a whole day in one conversation.
 
-Swipe through. Name your biggest energy drain today.
-Which one are you starting with? Comment it, and save this for later.
+Swipe through. Name your biggest energy drain today. Drop your number below.
 
-#health #wellness #selfcare #selfimprovement #fyp
+#wellnesstok #selfcareroutine #burnoutrecovery #mentalstrength #growthmindset

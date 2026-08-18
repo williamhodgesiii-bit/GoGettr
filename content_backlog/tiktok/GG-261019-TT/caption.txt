@@ -1,17 +1,18 @@
 POST ID   : GG-261019-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-10-19 19:00 ET  (Mon)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : DEEP WORK   (theme T64 · The 90-Minute Block)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Your best work needs 90 quiet minutes, not more willpower. Schedule one 90-minute block tomorrow.
+Your best work needs 90 quiet minutes, not more willpower.
 
-Add a trending sound, then save it for later.
+Bookmark this. Schedule one 90-minute block tomorrow.
 
-#productivity #timemanagement #focus #selfimprovement #fyp
+#timeblocking #productivitytok #timemanagementtips #habitbuilding #productivitysystem

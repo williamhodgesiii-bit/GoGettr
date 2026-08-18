@@ -1,17 +1,18 @@
 POST ID   : GG-261121-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-11-21 19:00 ET  (Sat)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : ENVIRONMENT ENGINEERING   (theme T97 · One In, One Out)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Nothing new comes home until something old leaves. Remove one item for the next you buy.
+Nothing new comes home until something old leaves.
 
-Add a trending sound, then save it for later.
+Remove one item for the next you buy. Comment where you're starting.
 
-#minimalism #organization #productivity #selfimprovement #fyp
+#minimalisttok #organizationtips #slowliving #productivitysystem #systemsthinking

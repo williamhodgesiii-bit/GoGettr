@@ -1,17 +1,18 @@
 POST ID   : GG-260906-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-09-06 19:00 ET  (Sun)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : CAREER SIGNALS   (theme T21 · Skill Stack)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-You do not need to be elite at one thing if the stack is rare. Which one is your weakest? Start there.
+You do not need to be elite at one thing if the stack is rare.
 
-Add a trending sound, then save it for later.
+Which one is your weakest? Start there. Send it to someone who needs it.
 
-#career #success #entrepreneur #selfimprovement #fyp
+#careeradvice #worktok #careergrowth #productivitysystem #systemsthinking

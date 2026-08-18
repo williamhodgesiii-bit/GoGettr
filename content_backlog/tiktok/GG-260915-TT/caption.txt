@@ -1,17 +1,18 @@
 POST ID   : GG-260915-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-09-15 19:00 ET  (Tue)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : PURCHASE LAB   (theme T30 · The Do-Not-Buy-It-Yet Checklist)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Checkout can wait 60 seconds. Run the first check. Save this before your next cart.
+Checkout can wait 60 seconds. Run the first check.
 
-Add a trending sound, then save it for later.
+Save it now. Save this before your next cart.
 
-#money #personalfinance #finance #selfimprovement #fyp
+#budgetingtips #financialliteracy #moneytok #stoicmindset #mindsetshift

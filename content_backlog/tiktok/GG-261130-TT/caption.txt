@@ -1,17 +1,18 @@
 POST ID   : GG-261130-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-11-30 19:00 ET  (Mon)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : MINI CHALLENGES   (theme T106 · The No-Scroll First Hour)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a high-energy beat (gym / phonk / hype), ~120-140 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-For five mornings, no feed until the first hour is yours. Guard tomorrow's first hour offline.
+For five mornings, no feed until the first hour is yours.
 
-Add a trending sound, then save it for later.
+Save this, then run it. Guard tomorrow's first hour offline.
 
-#discipline #motivation #selfimprovement #success #fyp
+#habitchallenge #dailyhabits #30daychallenge #deepwork #timeblocking

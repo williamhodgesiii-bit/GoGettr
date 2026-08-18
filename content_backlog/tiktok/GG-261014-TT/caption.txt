@@ -1,17 +1,18 @@
 POST ID   : GG-261014-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-10-14 19:00 ET  (Wed)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : COMPOUNDING   (theme T59 · The $5 A Day Math)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Five dollars a day feels like nothing. It is $1,825 a year. Pick one five-dollar habit to redirect.
+Five dollars a day feels like nothing. It is $1,825 a year.
 
-Add a trending sound, then save it for later.
+Pick one five-dollar habit to redirect. Which one is you? Drop the number.
 
-#money #personalfinance #finance #selfimprovement #fyp
+#financialliteracy #moneytok #personalfinancetips #mindsetshift #mentalstrength

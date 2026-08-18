@@ -1,17 +1,18 @@
 POST ID   : GG-260904-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-09-04 19:00 ET  (Fri)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : MONEY SYSTEMS   (theme T19 · The Invisible Subscription Audit)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-You are paying for more than apps. Most of it is invisible. Cancel one autopilot today.
+You are paying for more than apps. Most of it is invisible.
 
-Add a trending sound, then save it for later.
+Cancel one autopilot today. Which one is you? Drop the number.
 
-#money #personalfinance #finance #selfimprovement #fyp
+#financialliteracy #moneytok #personalfinancetips #declutter #minimalisttok

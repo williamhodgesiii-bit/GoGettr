@@ -5,6 +5,7 @@ FORMAT    : Single image (1080x1920)
 PILLAR    : WORK CAPACITY   (theme T71 · The Brag Document)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -14,4 +15,4 @@ You will forget your own wins by review season. Log them. Start the file with th
 
 Save it for the next time you need it.
 
-#career #success #entrepreneur #selfimprovement #fyp
+#careergrowth #careertok #careeradvice #atomichabits #habitbuilding

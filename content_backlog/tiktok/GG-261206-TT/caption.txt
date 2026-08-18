@@ -5,6 +5,7 @@ FORMAT    : Single image (1080x1920)
 PILLAR    : SYSTEM DESIGN   (theme T112 · Volume Two — Recap)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,6 +13,6 @@ CAPTION (copy below):
 
 Motivation is a mood. A system is a machine you can trust. Save Volume Two. Run the machine.
 
-Save it for the next time you need it.
+Screenshot this one.
 
-#productivity #habits #discipline #selfimprovement #fyp
+#atomichabits #habitbuilding #productivitysystem #disciplineovermotivation #personalgrowthtips

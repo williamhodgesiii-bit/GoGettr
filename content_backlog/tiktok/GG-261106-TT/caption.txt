@@ -1,17 +1,18 @@
 POST ID   : GG-261106-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-11-06 19:00 ET  (Fri)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : RECOVERY PROTOCOL   (theme T82 · The Deload Week)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a calm cinematic or soft-piano track, ~70-90 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Rest is not the reward for the work. It is part of it. Put your next easy week on the calendar.
+Rest is not the reward for the work. It is part of it.
 
-Add a trending sound, then save it for later.
+Save this, then run it. Put your next easy week on the calendar.
 
-#health #wellness #selfcare #selfimprovement #fyp
+#burnoutrecovery #restday #wellnesstok #trainingsplit #gymtok

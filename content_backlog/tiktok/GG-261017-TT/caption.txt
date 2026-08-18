@@ -5,6 +5,7 @@ FORMAT    : Single image (1080x1920)
 PILLAR    : CAREER SIGNALS   (theme T62 · Bank The Raise)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,6 +13,6 @@ CAPTION (copy below):
 
 You got a raise. Your lifestyle took the whole thing. Pre-assign half of your next raise.
 
-Save it for the next time you need it.
+Screenshot this one.
 
-#money #personalfinance #finance #selfimprovement #fyp
+#budgetingtips #financialliteracy #moneytok #careergrowth #careertok

@@ -1,17 +1,18 @@
 POST ID   : GG-261010-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-10-10 19:00 ET  (Sat)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : SOCIAL CAPITAL   (theme T55 · The Better Second Question)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a warm, feel-good pop track in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Most conversations die on the second question. Here is the fix. Try it in your next conversation.
+Most conversations die on the second question. Here is the fix.
 
-Add a trending sound, then save it for later.
+Try it in your next conversation. Tell me the one you'll skip.
 
-#confidence #communication #success #selfimprovement #fyp
+#charismatips #confidencetips #socialskills #mindsetshift #mentalstrength

@@ -1,17 +1,18 @@
 POST ID   : GG-261117-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-11-17 19:00 ET  (Tue)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : ENVIRONMENT ENGINEERING   (theme T93 · Make It Obvious)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-You do not lack discipline. Your setup fights your goals. Move one good habit into plain sight.
+You do not lack discipline. Your setup fights your goals.
 
-Add a trending sound, then save it for later.
+Move one good habit into plain sight. Send it to someone who needs it.
 
-#minimalism #organization #productivity #selfimprovement #fyp
+#minimalisttok #organizationtips #slowliving #productivitysystem #systemsthinking

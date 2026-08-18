@@ -5,6 +5,7 @@ FORMAT    : Single image (1080x1920)
 PILLAR    : MINI CHALLENGES   (theme T107 · Walk After Meals)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png
+SOUND     : Add a high-energy beat (gym / phonk / hype), ~120-140 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,6 +13,6 @@ CAPTION (copy below):
 
 For five days, walk ten minutes after every meal. Walk ten minutes after your next meal.
 
-Save it for the next time you need it.
+Screenshot this one.
 
-#discipline #motivation #selfimprovement #success #fyp
+#dailyhabits #30daychallenge #disciplinechallenge #gymtok #fitnessroutine

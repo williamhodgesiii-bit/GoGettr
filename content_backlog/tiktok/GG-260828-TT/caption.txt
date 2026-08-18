@@ -1,17 +1,18 @@
 POST ID   : GG-260828-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-08-28 19:00 ET  (Fri)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : ENVIRONMENT ENGINEERING   (theme T12 · Phone Audit)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Your phone is either a tool or a slot machine. Which did you build? Rebuild your first screen tonight.
+Your phone is either a tool or a slot machine. Which did you build?
 
-Add a trending sound, then save it for later.
+Rebuild your first screen tonight. Follow for the next system.
 
-#minimalism #organization #productivity #selfimprovement #fyp
+#declutter #minimalisttok #organizationtips #productivitytok #timemanagementtips

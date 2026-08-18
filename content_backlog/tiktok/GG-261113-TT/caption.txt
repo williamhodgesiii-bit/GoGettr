@@ -5,6 +5,7 @@ FORMAT    : Single image (1080x1920)
 PILLAR    : SOCIAL CAPITAL   (theme T89 · Remember The Name)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png
+SOUND     : Add a warm, feel-good pop track in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,6 +13,6 @@ CAPTION (copy below):
 
 You did not forget the name. You never really heard it. Repeat the next name you hear out loud.
 
-Save it for the next time you need it.
+Keep this on hand.
 
-#confidence #communication #success #selfimprovement #fyp
+#socialskills #communicationskills #charismatips #growthmindset #stoicmindset

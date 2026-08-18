@@ -102,7 +102,7 @@ PIN_MEDIA = ["image", "carousel", "image", "video", "image",
              "carousel", "image", "video"]
 
 MEDIA_LABEL = {
-    ("tiktok", "video"):    "Vertical MP4 slideshow (1080x1920)",
+    ("tiktok", "video"):    "Vertical MP4 · motion (1080x1920)",
     ("tiktok", "carousel"): "Photo carousel · {n} stills (1080x1920)",
     ("tiktok", "image"):    "Single image (1080x1920)",
     ("pinterest", "image"):    "Pin 1000x1500",
@@ -500,22 +500,129 @@ def cap_youtube(t):
     return title, desc
 
 
+# TikTok hashtags — tighter than the broad cross-platform set, and NO #fyp.
+# A small account wins by ranking in a *smaller* pool, so we lead with niche,
+# native ("-tok") and long-tail tags over #motivation/#success, which only put
+# the post up against the biggest accounts on the platform. Kept to 4-5 (the
+# range TikTok rewards) and rotated by day so two posts on one topic don't carry
+# the identical set.
+TT_NICHE = {
+    "core":      ["#selfimprovementjourney", "#disciplineovermotivation",
+                  "#personalgrowthtips", "#betteryourself"],
+    "systems":   ["#atomichabits", "#habitbuilding", "#productivitysystem",
+                  "#systemsthinking"],
+    "money":     ["#moneytok", "#personalfinancetips", "#budgetingtips",
+                  "#financialliteracy"],
+    "career":    ["#careertok", "#careeradvice", "#worktok", "#careergrowth"],
+    "training":  ["#gymtok", "#fitnessroutine", "#workoutmotivation", "#trainingsplit"],
+    "recovery":  ["#wellnesstok", "#selfcareroutine", "#burnoutrecovery", "#restday"],
+    "mindset":   ["#mindsetshift", "#mentalstrength", "#growthmindset", "#stoicmindset"],
+    "time":      ["#timeblocking", "#productivitytok", "#timemanagementtips", "#deepwork"],
+    "social":    ["#confidencetips", "#socialskills", "#communicationskills", "#charismatips"],
+    "declutter": ["#declutter", "#minimalisttok", "#organizationtips", "#slowliving"],
+    "challenge": ["#30daychallenge", "#disciplinechallenge", "#habitchallenge", "#dailyhabits"],
+}
+
+
+def tt_tags(t):
+    """4-5 niche/native tags led by the theme's own topic — no #fyp, no wash of
+    mega-broad tags. Rotated by day so a topic's posts don't all match."""
+    i = idxof(t)
+
+    def rot(lst, k):
+        k %= len(lst)
+        return lst[k:] + lst[:k]
+
+    keys = t["tags"] or ["core"]
+    picked = []
+    for h in rot(TT_NICHE.get(keys[0], TT_NICHE["core"]), i)[:3]:
+        if h not in picked:
+            picked.append(h)
+    if len(keys) > 1:
+        for h in rot(TT_NICHE.get(keys[1], []), i + 1)[:2]:
+            if len(picked) < 5 and h not in picked:
+                picked.append(h)
+    for h in rot(TT_NICHE["core"], i)[:2]:       # one broad-ish reach tag to round out
+        if len(picked) >= 5:
+            break
+        if h not in picked:
+            picked.append(h)
+    return picked[:5]
+
+
+# Per-post sound direction (creator-facing, written to the caption header — NOT
+# the pasted caption). TikTok distributes on sound: the winning move is to attach
+# a *trending* sound in the app, which links the post to that sound's traffic.
+TT_SOUND_MOOD = {
+    "energetic": "a high-energy beat (gym / phonk / hype), ~120-140 BPM",
+    "clean":     "a clean lo-fi or corporate-motivational beat, ~90-110 BPM",
+    "calm":      "a calm cinematic or soft-piano track, ~70-90 BPM",
+    "warm":      "a warm, feel-good pop track",
+}
+TT_SOUND_TAG = {
+    "training": "energetic", "challenge": "energetic",
+    "money": "clean", "career": "clean", "time": "clean",
+    "systems": "clean", "declutter": "clean", "core": "clean",
+    "recovery": "calm", "mindset": "calm", "social": "warm",
+}
+
+
+def tt_sound(t, media):
+    key = next((k for k in t["tags"] if k in TT_SOUND_TAG), "systems")
+    mood = TT_SOUND_MOOD[TT_SOUND_TAG[key]]
+    return (f"Add {mood} in the TikTok editor (Add sound -> Trending) and duck it "
+            f"under your on-screen text. The file ships without audio on purpose — "
+            f"attaching a trending sound in-app is what earns its reach.")
+
+
+# Caption asks, rotated by day so no two posts read from the same template. The
+# hook always leads (it is the whole job of the first line); {cta} is the theme's
+# own call to action, so the ask stays specific to the post.
+TT_VIDEO_ASKS = [
+    "{cta} Comment where you're starting.",
+    "Save this, then run it. {cta}",
+    "{cta} Which one is you? Drop the number.",
+    "{cta} Follow for the next system.",
+    "{cta} Send it to someone who needs it.",
+    "Save it now. {cta}",
+    "{cta} Tell me the one you'll skip.",
+    "Bookmark this. {cta}",
+]
+TT_CAROUSEL_ASKS = [
+    "Swipe through. {cta}",
+    "Swipe to the end, then save the one you need.",
+    "Swipe. {cta} Comment the step you'll run first.",
+    "Swipe through and save it. {cta}",
+    "Swipe. Which one are you skipping? Be honest.",
+    "Swipe through. {cta} Drop your number below.",
+]
+TT_IMAGE_ASKS = [
+    "Save it for the next time you need it.",
+    "Screenshot this one.",
+    "Save this where you'll see it tonight.",
+    "Keep this on hand.",
+    "Save it, and follow for the next one.",
+]
+
+
+def _pick(pool, i):
+    return pool[(i - 1) % len(pool)]
+
+
 def cap_tiktok(t, media="video"):
-    """The hook leads (first two lines are the caption's whole job). The CTA is
-    cut to the format: a video wants a trending sound, a Photo Mode carousel
-    wants a swipe and a reply, a single still just wants the save."""
-    hook, cta = t["hook"], t["cta"]
-    if media == "carousel":               # Photo Mode — swipe-led, ask for the reply
-        body = (f"{hook}\n\n"
-                f"Swipe through. {cta}\n"
-                f"Which one are you starting with? Comment it, and save this for later.")
+    """The hook leads (it is the whole job of the first line, the only thing that
+    shows above the fold). The ask rotates so no two posts read the same, and is
+    cut to the format. Trending-sound direction lives in the caption header, not
+    here — you tell the algorithm about sound by adding it in-app, not by asking
+    a viewer to."""
+    hook, cta, i = t["hook"], t["cta"], idxof(t)
+    if media == "carousel":               # Photo Mode — swipe-led
+        body = f"{hook}\n\n{_pick(TT_CAROUSEL_ASKS, i).format(cta=cta)}"
     elif media == "image":                # single still
-        body = (f"{hook} {cta}\n\n"
-                f"Save it for the next time you need it.")
-    else:                                  # video slideshow — native audio wins reach
-        body = (f"{hook} {cta}\n\n"
-                f"Add a trending sound, then save it for later.")
-    return body + "\n\n" + " ".join(tags_for(t, 4) + ["#fyp"])   # TikTok: 3-5 relevant
+        body = f"{hook} {cta}\n\n{_pick(TT_IMAGE_ASKS, i).format(cta=cta)}"
+    else:                                  # video
+        body = f"{hook}\n\n{_pick(TT_VIDEO_ASKS, i).format(cta=cta)}"
+    return body + "\n\n" + " ".join(tt_tags(t))   # TikTok: 4-5 niche tags, no #fyp
 
 
 # ------------------------------------------------------------------ BUILD
@@ -601,6 +708,7 @@ def build_all():
                                   format=MEDIA_LABEL[("tiktok", "video")],
                                   slides=slides, durations=video_durations(len(slides)),
                                   caption=cap_tiktok(t, "video"))
+                common["sound"] = tt_sound(t, media)
             elif pkey == "pinterest":
                 media = rotation_plan("pin_media", PIN_MEDIA)[i]
                 board = board_for(t)

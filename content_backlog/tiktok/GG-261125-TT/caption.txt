@@ -5,6 +5,7 @@ FORMAT    : Photo carousel · 5 stills (1080x1920)
 PILLAR    : ENVIRONMENT ENGINEERING   (theme T101 · The Nightly Reset)
 PRIMARY   : 01_frame.png
 ASSETS    : 01_frame.png, 02_frame.png, 03_frame.png, 04_frame.png, 05_end.png
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
@@ -12,7 +13,6 @@ CAPTION (copy below):
 
 Wake to a made scene, not to last night's mess.
 
-Swipe through. Reset one surface before bed tonight.
-Which one are you starting with? Comment it, and save this for later.
+Swipe. Which one are you skipping? Be honest.
 
-#minimalism #organization #productivity #selfimprovement #fyp
+#minimalisttok #organizationtips #slowliving #burnoutrecovery #restday

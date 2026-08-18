@@ -1,17 +1,18 @@
 POST ID   : GG-261101-TT
 PLATFORM  : TikTok
 PUBLISH   : 2026-11-01 19:00 ET  (Sun)
-FORMAT    : Vertical MP4 slideshow (1080x1920)
+FORMAT    : Vertical MP4 · motion (1080x1920)
 PILLAR    : SOCIAL CAPITAL   (theme T77 · Mentors Vs Sponsors)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
+SOUND     : Add a clean lo-fi or corporate-motivational beat, ~90-110 BPM in the TikTok editor (Add sound -> Trending) and duck it under your on-screen text. The file ships without audio on purpose — attaching a trending sound in-app is what earns its reach.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-A mentor talks to you. A sponsor talks about you. Name one person who could sponsor you.
+A mentor talks to you. A sponsor talks about you.
 
-Add a trending sound, then save it for later.
+Name one person who could sponsor you. Send it to someone who needs it.
 
-#career #success #entrepreneur #selfimprovement #fyp
+#careeradvice #worktok #careergrowth #communicationskills #charismatips

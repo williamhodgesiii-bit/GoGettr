@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : SYSTEM DESIGN   (theme T65 · Timeboxing)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : A task with no box expands to eat your whole day. #shorts
+TITLE     : How To Timebox Your Day #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-A task with no box expands to eat your whole day.
+How To Timebox Your Day
 
-Give every task a start, an end, and a slot on the calendar.
+Work fills the time you give it.
 
-→ Estimate the task honestly.
-→ Give it a fixed box on the calendar.
-→ Start and stop with the box.
-→ Unfinished rolls to the next box.
-→ The box protects the rest of the day.
+1. Estimate the task honestly.
+2. Give it a fixed box on the calendar.
+3. Start and stop with the box.
+4. Unfinished rolls to the next box.
+5. The box protects the rest of the day.
 
 Follow @gogettrdaily for more.
 

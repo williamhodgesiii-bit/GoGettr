@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : MONEY SYSTEMS   (theme T09 · Priority Ladder)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Own these before you own the flex. #shorts
+TITLE     : Financial Priorities In Order #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Own these before you own the flex.
+Financial Priorities In Order
 
 Foundation before decoration.
 
-→ Emergency cash.
-→ Reliable tools for work.
-→ A sleep setup that works.
-→ Basic home and car readiness.
-→ Foundation before decoration.
+1. Emergency cash.
+2. Reliable tools for work.
+3. A sleep setup that works.
+4. Basic home and car readiness.
+5. Foundation before decoration.
 
 Follow @gogettrdaily for more.
 

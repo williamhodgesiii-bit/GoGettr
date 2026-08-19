@@ -1,25 +1,20 @@
 POST ID   : GG-260907-IG
 PLATFORM  : Instagram (+Facebook link)
 PUBLISH   : 2026-09-07 08:00 ET  (Mon)
-FORMAT    : Carousel · 8 slides (1080x1350)
+FORMAT    : Reel · vertical MP4 (1080x1920)
 PILLAR    : 168 HOURS   (theme T22 · 168 Hours)
-PRIMARY   : 01_cover.png
-ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_recap.png, 08_close.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+AUDIO     : The MP4 ships silent, and a silent Reel is barely pushed. In the Reels editor tap Add audio -> Trending (the tracks marked with the up-arrow) and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM; duck it under the on-screen text. On Reels, using a trending audio is itself a reach signal.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-168 hours a week. Most of us can only account for 90.
-
 The calendar keeps receipts. Read last week before you plan next.
 
-→ Sleep is a third of it.
-→ Work takes its slice.
-→ Then the 90 nobody tracks.
-→ Find the ten you would take back.
-→ Put one reclaimed hour on the calendar.
+Reclaim one hour. Schedule it now.
 
-Swipe through, save it for later, and send it to someone who needs it. Follow @gogettrdaily for a new system every day.
+Watch to the end, save it, then follow @gogettrdaily for a new system every day.
 
 #productivity #timemanagement #focus #success #selfimprovement

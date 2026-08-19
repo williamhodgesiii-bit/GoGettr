@@ -1,25 +1,20 @@
 POST ID   : GG-261121-IG
 PLATFORM  : Instagram (+Facebook link)
 PUBLISH   : 2026-11-21 08:00 ET  (Sat)
-FORMAT    : Carousel · 7 slides (1080x1350)
+FORMAT    : Reel · vertical MP4 (1080x1920)
 PILLAR    : ENVIRONMENT ENGINEERING   (theme T97 · One In, One Out)
-PRIMARY   : 01_cover.png
-ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+AUDIO     : The MP4 ships silent, and a silent Reel is barely pushed. In the Reels editor tap Add audio -> Trending (the tracks marked with the up-arrow) and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM; duck it under the on-screen text. On Reels, using a trending audio is itself a reach signal.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Nothing new comes home until something old leaves.
-
 A closed loop is how clutter stops growing.
 
-→ Buy one shirt, retire one shirt.
-→ New gadget, old gadget goes.
-→ Keep the count flat on purpose.
-→ Donate the leaver the same day.
-→ Balance in, balance out.
+Remove one item for the next you buy.
 
-Swipe through, save it for later, and send it to someone who needs it. Follow @gogettrdaily for a new system every day.
+Watch to the end, save it, then follow @gogettrdaily for a new system every day.
 
 #minimalism #organization #productivity #declutter #selfimprovement

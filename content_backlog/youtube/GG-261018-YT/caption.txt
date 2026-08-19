@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : MONEY SYSTEMS   (theme T63 · The Money Date)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Twenty minutes a week with your money changes the year. #shorts
+TITLE     : Weekly Money Review Routine #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Twenty minutes a week with your money changes the year.
+Weekly Money Review Routine
 
-What you avoid looking at is what quietly runs you.
+What you watch, you control.
 
-→ Same day, same twenty minutes.
-→ Read every account and card.
-→ Move one thing the right direction.
-→ Cancel or negotiate one line.
-→ What you watch, you control.
+1. Same day, same twenty minutes.
+2. Read every account and card.
+3. Move one thing the right direction.
+4. Cancel or negotiate one line.
+5. What you watch, you control.
 
 Follow @gogettrdaily for more.
 

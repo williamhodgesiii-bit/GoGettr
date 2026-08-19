@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : SOCIAL CAPITAL   (theme T46 · The Introduction Bank)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Who could you connect without asking for anything back? #shorts
+TITLE     : How To Network By Giving #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a warm, feel-good pop track (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Who could you connect without asking for anything back?
+How To Network By Giving
 
 Be useful before you need usefulness.
 
-→ List 10 people and what they do.
-→ Draw lines where a match exists.
-→ Make one warm intro this week.
-→ Ask both sides first.
-→ Be useful before you need usefulness.
+1. List 10 people and what they do.
+2. Draw lines where a match exists.
+3. Make one warm intro this week.
+4. Ask both sides first.
+5. Be useful before you need usefulness.
 
 Follow @gogettrdaily for more.
 

@@ -150,6 +150,8 @@ def write_caption(post, folder, assets, primary):
         lines.append(f"TITLE     : {post['title']}")
     if post.get("sound"):
         lines.append(f"SOUND     : {post['sound']}")
+    if post.get("audio"):
+        lines.append(f"AUDIO     : {post['audio']}")
     lines += ["", "-" * 60, "CAPTION (copy below):", "-" * 60, "", post["caption"], ""]
     with open(os.path.join(folder, "caption.txt"), "w") as f:
         f.write("\n".join(lines))

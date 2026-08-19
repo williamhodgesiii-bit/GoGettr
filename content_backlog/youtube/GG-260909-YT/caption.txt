@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : PURCHASE LAB   (theme T24 · Buy Once)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Cheap gets expensive when you use it every day. #shorts
+TITLE     : Buy It For Life Essentials #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
+Buy It For Life Essentials
+
 Cheap gets expensive when you use it every day.
 
-Buy once where it touches your body and your work.
-
-→ Sleep surface.
-→ Shoes.
-→ Office chair.
-→ Luggage.
-→ Daily-use tech.
+1. Sleep surface.
+2. Shoes.
+3. Office chair.
+4. Luggage.
+5. Daily-use tech.
 
 Follow @gogettrdaily for more.
 

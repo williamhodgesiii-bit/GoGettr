@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : MINI CHALLENGES   (theme T104 · The 30-Day One-Habit)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Pick one habit. Do it 30 days. Ignore everything else. #shorts
+TITLE     : 30 Day Habit Challenge #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a high-energy beat (gym / phonk / hype), ~120-140 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Pick one habit. Do it 30 days. Ignore everything else.
+30 Day Habit Challenge
 
 One habit installed beats five attempted.
 
-→ Choose the single keystone habit.
-→ Same time, same trigger, daily.
-→ Mark the calendar every night.
-→ Miss a day, never miss two.
-→ One habit, thirty days, no extras.
+1. Choose the single keystone habit.
+2. Same time, same trigger, daily.
+3. Mark the calendar every night.
+4. Miss a day, never miss two.
+5. One habit, thirty days, no extras.
 
 Follow @gogettrdaily for more.
 

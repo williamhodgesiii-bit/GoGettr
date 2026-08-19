@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : ESCAPE VELOCITY   (theme T76 · The Exit-Ready Resume)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Update your resume while you are happy, not desperate. #shorts
+TITLE     : Keep Your Resume Updated #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Update your resume while you are happy, not desperate.
+Keep Your Resume Updated
 
-Leverage comes from options you built in advance.
+Build the options before you need them.
 
-→ Refresh it every quarter.
-→ Log wins while they are fresh.
-→ Keep one warm contact per company.
-→ Never negotiate from zero options.
-→ Options are the whole leverage.
+1. Refresh it every quarter.
+2. Log wins while they are fresh.
+3. Keep one warm contact per company.
+4. Never negotiate from zero options.
+5. Options are the whole leverage.
 
 Follow @gogettrdaily for more.
 

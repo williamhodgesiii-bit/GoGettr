@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : DEEP WORK   (theme T103 · One Tab, One Task)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Multitasking is just switching costs you cannot see. #shorts
+TITLE     : How To Stop Multitasking #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Multitasking is just switching costs you cannot see.
+How To Stop Multitasking
 
-Every switch taxes attention and leaves a residue.
+Focus is a subtraction game.
 
-→ One tab, one task, one timer.
-→ Close what you are not using.
-→ Park stray thoughts on a pad.
-→ Finish before you start the next.
-→ Focus is a subtraction game.
+1. One tab, one task, one timer.
+2. Close what you are not using.
+3. Park stray thoughts on a pad.
+4. Finish before you start the next.
+5. Focus is a subtraction game.
 
 Follow @gogettrdaily for more.
 

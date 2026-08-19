@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : FRICTION FILE   (theme T69 · Notification Bankruptcy)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Every buzz is someone else setting your next ten seconds. #shorts
+TITLE     : Turn Off Notifications #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Every buzz is someone else setting your next ten seconds.
+Turn Off Notifications
 
-An alert that creates no action is just a leash.
+An alert with no action is a leash.
 
-→ Turn off everything by default.
-→ Allow people, not apps.
-→ Batch the rest to set times.
-→ Check on your schedule, not theirs.
-→ Silence is a feature you switch on.
+1. Turn off everything by default.
+2. Allow people, not apps.
+3. Batch the rest to set times.
+4. Check on your schedule, not theirs.
+5. Silence is a feature you switch on.
 
 Follow @gogettrdaily for more.
 

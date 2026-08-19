@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : THE REBUILD   (theme T15 · Rebuild Roadmap)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : You wake up at 22 with no network and no savings. First move? #shorts
+TITLE     : How To Start Over At 22 #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-You wake up at 22 with no network and no savings. First move?
+How To Start Over At 22
 
-Spend the year becoming easy to recommend.
+Become easy to recommend.
 
-→ Build one month of breathing room.
-→ Choose one skill people already pay for.
-→ Get stronger and harder to exhaust.
-→ Publish proof of work.
-→ Become easy to recommend.
+1. Build one month of breathing room.
+2. Choose one skill people already pay for.
+3. Get stronger and harder to exhaust.
+4. Publish proof of work.
+5. Become easy to recommend.
 
 Follow @gogettrdaily for more.
 

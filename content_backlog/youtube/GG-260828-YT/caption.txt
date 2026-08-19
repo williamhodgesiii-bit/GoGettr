@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : ENVIRONMENT ENGINEERING   (theme T12 · Phone Audit)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Your phone is either a tool or a slot machine. Which did you build? #shorts
+TITLE     : Phone Home Screen Setup For Focus #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Your phone is either a tool or a slot machine. Which did you build?
+Phone Home Screen Setup For Focus
 
 Your home screen is an environment.
 
-→ Move feeds off the first screen.
-→ Put calendar and tasks where your thumb lands.
-→ Turn off alerts that create no action.
-→ Keep banking, notes and maps one tap away.
-→ Your home screen is an environment.
+1. Move feeds off the first screen.
+2. Put calendar and tasks where your thumb lands.
+3. Turn off alerts that create no action.
+4. Keep banking, notes and maps one tap away.
+5. Your home screen is an environment.
 
 Follow @gogettrdaily for more.
 

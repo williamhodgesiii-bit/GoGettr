@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : WORK CAPACITY   (theme T74 · Be The Documentation)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Be the person who wrote down how it actually works. #shorts
+TITLE     : Be Indispensable At Work #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Be the person who wrote down how it actually works.
+Be Indispensable At Work
 
-Whoever documents the system quietly runs it.
+Whoever writes the doc owns the room.
 
-→ Write the doc nobody wrote.
-→ Turn tribal knowledge into a page.
-→ Make onboarding point to you.
-→ Kill the same question twice.
-→ The author of the doc owns the room.
+1. Write the doc nobody wrote.
+2. Turn tribal knowledge into a page.
+3. Make onboarding point to you.
+4. Kill the same question twice.
+5. The author of the doc owns the room.
 
 Follow @gogettrdaily for more.
 

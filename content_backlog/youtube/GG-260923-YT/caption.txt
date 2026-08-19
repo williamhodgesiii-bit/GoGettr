@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : RECOVERY PROTOCOL   (theme T38 · Save Card)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Save this for the next overwhelmed day. Do it in this order. #shorts
+TITLE     : What To Do When Overwhelmed #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a calm cinematic or soft-piano track, ~70-90 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Save this for the next overwhelmed day. Do it in this order.
+What To Do When Overwhelmed
 
 Do not rebuild the system while you are inside the fire.
 
-→ Write every open loop.
-→ Circle what matters today.
-→ Delete what has no consequence.
-→ Start the task you avoid most.
-→ Do not rebuild the system inside the fire.
+1. Write every open loop.
+2. Circle what matters today.
+3. Delete what has no consequence.
+4. Start the task you avoid most.
+5. Do not rebuild the system inside the fire.
 
 Follow @gogettrdaily for more.
 

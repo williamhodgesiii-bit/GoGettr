@@ -1,19 +1,23 @@
 POST ID   : GG-260906-IG
 PLATFORM  : Instagram (+Facebook link)
 PUBLISH   : 2026-09-06 08:00 ET  (Sun)
-FORMAT    : Reel · vertical MP4 (1080x1920)
+FORMAT    : Carousel · 7 slides (1080x1350)
 PILLAR    : CAREER SIGNALS   (theme T21 · Skill Stack)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_cover.png
+ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-You do not need to be elite at one thing if the stack is rare.
-
 Build a combination that is hard to ignore.
 
-Sound on, and watch to the end. Save it, then follow @gogettrdaily for a new system every day.
+→ Write.
+→ Sell.
+→ Use new tools quickly.
+→ Speak clearly.
+→ Understand money.
+
+Swipe through, save it for later, and send it to someone who needs it. Follow @gogettrdaily for a new system every day.
 
 #career #success #entrepreneur #motivation #selfimprovement

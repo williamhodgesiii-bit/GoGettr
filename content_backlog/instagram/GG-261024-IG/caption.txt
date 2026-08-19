@@ -1,19 +1,23 @@
 POST ID   : GG-261024-IG
 PLATFORM  : Instagram (+Facebook link)
 PUBLISH   : 2026-10-24 08:00 ET  (Sat)
-FORMAT    : Reel · vertical MP4 (1080x1920)
+FORMAT    : Carousel · 7 slides (1080x1350)
 PILLAR    : FRICTION FILE   (theme T69 · Notification Bankruptcy)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_cover.png
+ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Every buzz is someone else setting your next ten seconds.
-
 An alert that creates no action is just a leash.
 
-Sound on, and watch to the end. Save it, then follow @gogettrdaily for a new system every day.
+→ Turn off everything by default.
+→ Allow people, not apps.
+→ Batch the rest to set times.
+→ Check on your schedule, not theirs.
+→ Silence is a feature you switch on.
+
+Swipe through, save it for later, and send it to someone who needs it. Follow @gogettrdaily for a new system every day.
 
 #minimalism #organization #productivity #declutter #selfimprovement

@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : RECOVERY PROTOCOL   (theme T81 · The Caffeine Cutoff)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Your bad night started at 3pm, with a coffee you forgot. #shorts
+TITLE     : Caffeine Cutoff For Sleep #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a calm cinematic or soft-piano track, ~70-90 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Your bad night started at 3pm, with a coffee you forgot.
+Caffeine Cutoff For Sleep
 
-Sleep is built during the day, not just at night.
+Good sleep is a daytime decision.
 
-→ No caffeine after early afternoon.
-→ Sunlight in the first hour up.
-→ Same wind-down every night.
-→ Screens down before the pillow.
-→ Protect the night from the day.
+1. No caffeine after early afternoon.
+2. Sunlight in the first hour up.
+3. Same wind-down every night.
+4. Screens down before the pillow.
+5. Protect the night from the day.
 
 Follow @gogettrdaily for more.
 

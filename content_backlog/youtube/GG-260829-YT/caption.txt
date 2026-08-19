@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : RECOVERY PROTOCOL   (theme T13 · Recovery Is A Metric)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Recovery is a performance metric, not a reward. #shorts
+TITLE     : Recovery Routine For Performance #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a calm cinematic or soft-piano track, ~70-90 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Recovery is a performance metric, not a reward.
+Recovery Routine For Performance
 
-You do not rise to your goals. You fall to your recovery.
+Track it or it did not happen.
 
-→ Same sleep and wake window.
-→ A hard stop on the screen.
-→ One real rest day, scheduled.
-→ Food and water on a timer.
-→ Track it or it did not happen.
+1. Same sleep and wake window.
+2. A hard stop on the screen.
+3. One real rest day, scheduled.
+4. Food and water on a timer.
+5. Track it or it did not happen.
 
 Follow @gogettrdaily for more.
 

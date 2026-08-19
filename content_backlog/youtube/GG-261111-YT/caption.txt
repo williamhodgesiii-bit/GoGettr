@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : SOCIAL CAPITAL   (theme T87 · Ask For Advice)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Want a yes on a favor? Ask for advice instead. #shorts
+TITLE     : How To Ask For Help #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a warm, feel-good pop track (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Want a yes on a favor? Ask for advice instead.
+How To Ask For Help
 
-People guard favors and give guidance freely.
+Ask for advice, not a favor.
 
-→ Trade the big ask for a small one.
-→ Ask how they would approach it.
-→ Let them invest a little first.
-→ Report back what you tried.
-→ Advice opens a door a favor closes.
+1. Trade the big ask for a small one.
+2. Ask how they would approach it.
+3. Let them invest a little first.
+4. Report back what you tried.
+5. Advice opens a door a favor closes.
 
 Follow @gogettrdaily for more.
 

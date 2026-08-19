@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : ENVIRONMENT ENGINEERING   (theme T06 · The Sunday Setup)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Want Monday to feel less expensive? Pay for it on Sunday. #shorts
+TITLE     : Sunday Reset Routine #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Want Monday to feel less expensive? Pay for it on Sunday.
+Sunday Reset Routine
 
 Make Monday start before Monday.
 
-→ Read the week's calendar.
-→ Choose three outcomes.
-→ Reset your room.
-→ Stage food, clothes and chargers.
-→ Make Monday start before Monday.
+1. Read the week's calendar.
+2. Choose three outcomes.
+3. Reset your room.
+4. Stage food, clothes and chargers.
+5. Make Monday start before Monday.
 
 Follow @gogettrdaily for more.
 

@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : FRICTION FILE   (theme T99 · Inbox Zero)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Your inbox is a to-do list other people keep writing. #shorts
+TITLE     : How To Reach Inbox Zero #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Your inbox is a to-do list other people keep writing.
+How To Reach Inbox Zero
 
-Every email gets one decision, exactly once.
+Decide each email once, not ten times.
 
-→ Do, delegate, defer, or delete.
-→ Touch each message one time.
-→ Unsubscribe instead of deleting again.
-→ Archive the moment it is handled.
-→ Decide once, not ten times.
+1. Do, delegate, defer, or delete.
+2. Touch each message one time.
+3. Unsubscribe instead of deleting again.
+4. Archive the moment it is handled.
+5. Decide once, not ten times.
 
 Follow @gogettrdaily for more.
 

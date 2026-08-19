@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : FRICTION FILE   (theme T28 · The 20-Minute Life Upgrade)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : You have 20 minutes. Use them where the return lasts. #shorts
+TITLE     : Quick Productivity Wins #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-You have 20 minutes. Use them where the return lasts.
+Quick Productivity Wins
 
-Small friction removed today pays every day after.
+Twenty minutes on the right friction pays for months.
 
-→ Cancel one dead subscription.
-→ Book the appointment.
-→ Clear the desk.
-→ Move money automatically.
-→ Send the message you keep postponing.
+1. Cancel one dead subscription.
+2. Book the appointment.
+3. Clear the desk.
+4. Move money automatically.
+5. Send the message you keep postponing.
 
 Follow @gogettrdaily for more.
 

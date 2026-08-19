@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : THE AUDIT   (theme T33 · The Gogettr Scorecard)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : How together is your life, actually? Score it. #shorts
+TITLE     : Life Scorecard Self Assessment #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-How together is your life, actually? Score it.
+Life Scorecard Self Assessment
 
 Lowest score gets the next 30 days.
 
-→ Money / 10.
-→ Work / 10.
-→ Training / 10.
-→ Recovery / 10.
-→ Lowest score gets the next 30 days.
+1. Money / 10.
+2. Work / 10.
+3. Training / 10.
+4. Recovery / 10.
+5. Lowest score gets the next 30 days.
 
 Follow @gogettrdaily for more.
 

@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : DEEP WORK   (theme T66 · The Shutdown Ritual)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Work follows you home because you never told it to stop. #shorts
+TITLE     : End Of Workday Routine #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Work follows you home because you never told it to stop.
+End Of Workday Routine
 
-A clean end is what lets the evening actually begin.
+A clear end starts a real evening.
 
-→ Write tomorrow's first task.
-→ Close every open loop on paper.
-→ Say one line: work is done.
-→ Shut the laptop, leave the desk.
-→ A clear end starts a real evening.
+1. Write tomorrow's first task.
+2. Close every open loop on paper.
+3. Say one line: work is done.
+4. Shut the laptop, leave the desk.
+5. A clear end starts a real evening.
 
 Follow @gogettrdaily for more.
 

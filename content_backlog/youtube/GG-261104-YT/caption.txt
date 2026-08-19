@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : RECOVERY PROTOCOL   (theme T80 · The Protein Floor)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : You are not under-training. You are under-eating protein. #shorts
+TITLE     : How Much Protein To Eat #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a high-energy beat (gym / phonk / hype), ~120-140 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-You are not under-training. You are under-eating protein.
+How Much Protein To Eat
 
-Hit the number and recovery stops being a mystery.
+Recovery starts on your plate.
 
-→ Anchor protein to every meal.
-→ A palm-sized portion, minimum.
-→ Front-load it at breakfast.
-→ Keep a default high-protein snack.
-→ Hit the floor before the extras.
+1. Anchor protein to every meal.
+2. A palm-sized portion, minimum.
+3. Front-load it at breakfast.
+4. Keep a default high-protein snack.
+5. Hit the floor before the extras.
 
 Follow @gogettrdaily for more.
 

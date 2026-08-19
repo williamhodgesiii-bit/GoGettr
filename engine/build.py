@@ -38,6 +38,18 @@ def idxof(t):
     return int(t["id"][1:])
 
 
+def ig_is_reel(i):
+    """Instagram leads with Reels, not carousels.
+
+    Reels are the only Instagram surface that reaches *non-followers* — carousels
+    are shown almost entirely to people who already follow you, which a brand-new
+    account does not have yet. So for a cold-start the day is a Reel by default,
+    with a carousel every third day to keep the depth/saves play and the full
+    cover-template rotation (which the grid audit relies on) alive.
+    """
+    return i % 3 != 0
+
+
 # ---------------------------------------------------------------- TEXTURE
 PLATE_TREATMENTS = ["chevron", "hatch", "grid", "rings", "dots", "sweep", "bars"]
 PLATE_MOODS = ["ink", "graphite", "steel", "violet"]
@@ -227,7 +239,7 @@ def ig_plan():
 
     for t in C.THEMES:
         i = idxof(t)
-        if i % 3 == 0:                       # a Reel: its opening frame is the tile
+        if ig_is_reel(i):                    # a Reel: its opening frame is the tile
             for _ in range(len(IG_REEL_RECIPES)):
                 idx = rrot % len(IG_REEL_RECIPES)
                 rrot += 1
@@ -432,16 +444,20 @@ def _arrow_list(beats):
 
 
 def cap_instagram(t, media="carousel"):
-    """The hook leads (it is all that shows above the 125-char fold), then the
-    CTA is cut to the format: a carousel is a depth play that asks for a swipe
-    and a save; a Reel is a reach play, kept lean, that asks for the watch."""
-    hook, sub = t["hook"], t["sub"]
+    """De-duplicated from the rest of the drop. The cover/first frame already
+    carries the hook, so the caption opens on the *why* (the sub) rather than
+    repeating the exact headline the other five platforms run that day — an
+    identical first line across accounts is precisely what Instagram's
+    unoriginal-content demotion keys on, and a new account has no trust to spend.
+    The ask is then cut to the format: a Reel is a lean reach play, a carousel a
+    depth play that earns the swipe and the save."""
+    sub, cta = t["sub"], t["cta"]
     if media == "video":                 # Reel — lean (research: 75-150 words)
-        body = (f"{hook}\n\n{sub}\n\n"
-                f"Sound on, and watch to the end. Save it, then follow {HANDLE} "
-                f"for a new system every day.")
+        body = (f"{sub}\n\n{cta}\n\n"
+                f"Watch to the end, save it, then follow {HANDLE} for a new "
+                f"system every day.")
     else:                                 # Carousel — depth (150-300 words)
-        body = (f"{hook}\n\n{sub}\n\n"
+        body = (f"{sub}\n\n"
                 f"{_arrow_list(t['beats'])}\n\n"
                 f"Swipe through, save it for later, and send it to someone who "
                 f"needs it. Follow {HANDLE} for a new system every day.")
@@ -490,11 +506,19 @@ def cap_pinterest(t, media="image", cards=0):
 
 
 def cap_youtube(t):
-    title = f"{t['hook']} #shorts"
+    """De-duplicated from the rest of the drop. The video already shows the hook,
+    so the title and description lead with the *searchable keyword* and the
+    theme's own line instead of the same headline every other outlet runs.
+    Shorts are increasingly a search surface: a keyword title earns impressions a
+    repeated hook does not, and a numbered breakdown reads differently from the
+    arrow lists the other captions use — so YouTube isn't a carbon copy the
+    algorithm can flag as reposted."""
+    kw = t["keyword"].title()
+    title = f"{kw} #shorts"
     if len(title) > 98:
-        title = t["hook"][:88].rstrip(". ") + " #shorts"
-    desc = (f"{t['hook']}\n\n{t['sub']}\n\n"
-            + _arrow_list(t['beats'])
+        title = kw[:88].rstrip() + " #shorts"
+    desc = (f"{kw}\n\n{t['quote']}\n\n"
+            + "\n".join(f"{k}. {b}" for k, b in enumerate(t['beats'], 1))
             + f"\n\nFollow {HANDLE} for more.\n\n"
             + " ".join(tags_for(t, 4) + ["#shorts"]))   # Shorts: keep to ~5
     return title, desc
@@ -567,12 +591,40 @@ TT_SOUND_TAG = {
 }
 
 
-def tt_sound(t, media):
+def _audio_mood(t):
+    """The kind of track that fits the theme's energy, shared by every platform
+    whose file ships silent (TikTok, YouTube Shorts, IG Reels)."""
     key = next((k for k in t["tags"] if k in TT_SOUND_TAG), "systems")
-    mood = TT_SOUND_MOOD[TT_SOUND_TAG[key]]
+    return TT_SOUND_MOOD[TT_SOUND_TAG[key]]
+
+
+def tt_sound(t, media):
+    mood = _audio_mood(t)
     return (f"Add {mood} in the TikTok editor (Add sound -> Trending) and duck it "
             f"under your on-screen text. The file ships without audio on purpose — "
             f"attaching a trending sound in-app is what earns its reach.")
+
+
+# YouTube Shorts and Instagram Reels both distribute on watch-time, and a *silent*
+# vertical video is suppressed almost automatically — the single most common
+# reason a Short or Reel gets ~0 views. These MP4s render without an audio track
+# (the type is on-screen), so the fix is a creator-facing AUDIO note in the header
+# telling you exactly what to add before you publish.
+def yt_audio(t):
+    mood = _audio_mood(t)
+    return (f"The MP4 ships silent, and a silent Short gets suppressed. Add sound "
+            f"before you post: record a quick voiceover of the hook and steps, or "
+            f"in the YouTube Shorts editor tap Add sound and pick {mood} (or a "
+            f"track from the free YouTube Audio Library). Keep it under the "
+            f"on-screen text.")
+
+
+def ig_reel_audio(t):
+    mood = _audio_mood(t)
+    return (f"The MP4 ships silent, and a silent Reel is barely pushed. In the "
+            f"Reels editor tap Add audio -> Trending (the tracks marked with the "
+            f"up-arrow) and pick {mood}; duck it under the on-screen text. On "
+            f"Reels, using a trending audio is itself a reach signal.")
 
 
 # Caption asks, rotated by day so no two posts read from the same template. The
@@ -644,13 +696,15 @@ def build_all():
                           datetime=f"{d.isoformat()} {hh:02d}:{mm:02d} ET",
                           hook=t["hook"])
             if pkey == "instagram":
-                # mostly carousels; every 3rd day a Reel (reach)
-                if i % 3 == 0:
+                # video-first for cold-start reach: a Reel by default, a carousel
+                # every third day for depth/saves and the cover rotation
+                if ig_is_reel(i):
                     slides = video_frames(t, i, "instagram")
                     common.update(fmt="vert", is_video=True, media="video",
                                   format="Reel · vertical MP4 (1080x1920)",
                                   slides=slides, durations=video_durations(len(slides)),
-                                  caption=cap_instagram(t, "video"))
+                                  caption=cap_instagram(t, "video"),
+                                  audio=ig_reel_audio(t))
                 else:
                     slides = carousel(t, i)
                     common.update(fmt="ig", is_video=False, media="carousel",
@@ -689,7 +743,7 @@ def build_all():
                 common.update(fmt="vert", is_video=True, media="video",
                               format="Shorts · vertical MP4 (1080x1920)",
                               slides=slides, durations=video_durations(len(slides)),
-                              title=title, caption=desc)
+                              title=title, caption=desc, audio=yt_audio(t))
             elif pkey == "tiktok":
                 media = rotation_plan("tt_media", TT_MEDIA)[i]
                 if media == "image":

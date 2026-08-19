@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : SOCIAL CAPITAL   (theme T85 · The Keep-In-Touch List)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Relationships do not end in conflict. They fade in silence. #shorts
+TITLE     : How To Stay In Touch #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a warm, feel-good pop track (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Relationships do not end in conflict. They fade in silence.
+How To Stay In Touch
 
-Connection is a habit, not a coincidence.
+Connection is a habit, not luck.
 
-→ List the people who matter.
-→ Reach five of them a month.
-→ No occasion required.
-→ Send what reminded you of them.
-→ Consistency, not grand gestures.
+1. List the people who matter.
+2. Reach five of them a month.
+3. No occasion required.
+4. Send what reminded you of them.
+5. Consistency, not grand gestures.
 
 Follow @gogettrdaily for more.
 

@@ -19,13 +19,13 @@ different asset, different caption, same spine.
 
 | Outlet | Format(s) used | Why (2025–26 research) |
 |---|---|---|
-| **Instagram** (main) | Carousel 1080×1350 (most days) + Reel every 3rd day | Carousels win engagement & saves (~0.55% vs 0.45% static); Reels win reach (~2.25×). We use carousels for depth, Reels for discovery. |
+| **Instagram** (main) | **Reel 1080×1920 (most days)** + Carousel 1080×1350 every 3rd day | A new account has no follower base, and carousels are shown almost entirely to people who *already* follow you — so they can't find new viewers. Reels are the only surface that reaches non-followers (~2.25× the reach), so on a cold-start they lead for discovery, with a carousel every third day for the depth/saves play (and to keep the full cover-template rotation alive). |
 | **Facebook** (linked) | Single light "chrome" card 1080×1350 + conversational caption | Distinct lighter look for FB's audience; question-led captions drive comments. |
 | **TikTok** | **Rotates** — vertical MP4 (motion) · Photo Mode carousel · single still (all 1080×1920) | No outlet ships one format every day. Video leads (native reach), but Photo Mode carousels over-index on saves/shares and a single still cuts through a video feed. The video is **real motion** — a slow Ken-Burns push on every frame and a slide/wipe cut between them, so it plays as a video, not a deck of held stills (which TikTok barely distributes). Cold-open hook in <1.5s, text-on-screen (68% watch muted). Sound is added **in-app** at upload (see below), so the file ships without audio on purpose. |
 | **X / Twitter** | Text thread + 1600×900 card | Text leads engagement on X (~3.56%); the card carries the hook, the thread carries the system. |
 | **LinkedIn** | Single image 1080×1080 + a value-packed caption | Kept deliberately simple — the steps live in the caption (where LinkedIn readers actually engage). Calmer register, no slang. |
 | **Pinterest** | **Rotates** — 2:3 Pin 1000×1500 · multi-card Carousel Pin · vertical Video Pin, sorted into 7 keyword-named boards | Still pins lead (Pinterest is still-first search), with carousels (2–5 full pins per theme) and video pins for step-by-step topics that out-save a plain pin. Keyword search, not hashtags — titles/descriptions are keyword-led and each pin is filed to a themed board. |
-| **YouTube Shorts** | Vertical MP4 1080×1920 | Hook first, **logo/CTA at the END** (moving branding off the first 3s lifts retention 15–30%). |
+| **YouTube Shorts** | Vertical MP4 1080×1920 | Hook first, **logo/CTA at the END** (moving branding off the first 3s lifts retention 15–30%). The file ships **silent** — a silent Short is suppressed automatically, so each caption carries an **AUDIO** note (add a voiceover or a track before upload). The title/description lead with the **searchable keyword**, not the on-screen hook, because Shorts is now a search surface. |
 
 Neither **TikTok** nor **Pinterest** serves the same media two days running — the outlet
 rotates video / carousel / still (TikTok) and pin / carousel / video (Pinterest), so the
@@ -74,13 +74,19 @@ in the schedule CSV and can be shifted in one place (`engine/build.py`).
   three.
 
 ## Captions — cut to the platform *and* the format
-Every caption front-loads the hook (it is all that shows above the fold — ~125
+Most captions front-load the hook (it is all that shows above the fold — ~125
 chars on IG, the first two lines on TikTok, ~40 on a Pinterest title) and then
-the ask is cut to the **media type**, on 2025–26 research:
+the ask is cut to the **media type**, on 2025–26 research. **Instagram and
+YouTube are the deliberate exception:** their caption/title text does *not* open
+on the shared hook (see *Originality* below).
 
-- **Instagram** — a carousel is a depth play (hook, sub, the full step list, a
-  *swipe + save + send*); a Reel is a reach play, kept lean (*sound on, watch to
-  the end*).
+- **Instagram** — the cover/first frame already carries the hook, so the caption
+  opens on the **sub** (the "why"), not the exact headline the other five outlets
+  run that day. A carousel is then a depth play (the full step list, a *swipe +
+  save + send*); a Reel is a reach play, kept lean (*watch to the end + save*).
+- **YouTube** — the title and description lead with the **searchable keyword**
+  (e.g. "Systems That Beat Willpower"), and the steps are a **numbered** list, so
+  YouTube reads natively for search and isn't a text copy of the IG/FB caption.
 - **TikTok** — the hook leads and the ask **rotates** post to post (no two read
   from the same template) and is cut to the format: a video points at the *save
   / comment*, a Photo Mode carousel at the *swipe*, a single still at the *save*.
@@ -94,6 +100,29 @@ the ask is cut to the **media type**, on 2025–26 research:
   description under the 500-char cap, and the lead line names the format so a
   carousel ("swipe through all N cards") or a video ("the quick breakdown")
   reads as one.
+
+## Silent video is suppressed — the AUDIO note
+A vertical video with **no audio track gets almost no reach** on any of the three
+video surfaces — it's the most common reason a Short or Reel sits at 0 views. The
+rendered MP4s ship silent on purpose (the type is on-screen and the sound is
+chosen at upload), so every video caption carries a creator-facing note naming
+exactly what to add before you post:
+
+- **TikTok** → a **SOUND** note (add a *trending* sound in-app, which links the
+  post to that sound's traffic).
+- **YouTube Shorts / Instagram Reels** → an **AUDIO** note (add a voiceover, a
+  trending Reels audio, or a YouTube Audio Library track). Do not upload the
+  silent file as-is.
+
+## Originality — why IG and YouTube are not carbon copies
+Instagram (2024–25) and YouTube both **demote content they detect as
+unoriginal / reposted**, and a brand-new account has no trust to spend. Running
+the *identical* headline and caption across seven accounts on the same day is
+exactly that pattern. So the two flagship discovery platforms are deliberately
+de-duplicated: **Instagram** opens its caption on the sub, **YouTube** leads its
+title and description with the searchable keyword and lists the steps numbered.
+The hook still appears — burned into the cover/first frame, where it's the brand's
+recognisable line — but the *indexed text* each platform submits is its own.
 
 ## Hashtags — broad reach, within each platform's limit
 Tags are chosen for **broad, high-traffic reach** (e.g. `#selfimprovement`,
@@ -143,7 +172,7 @@ stack is too tall, type steps down and optional lines drop out until it fits —
 so a volt bar, a hairline or a footer can never land on a descender, and text
 can never run off the artboard.
 
-`python -m engine.audit` proves it. It re-renders all **2,175 slides** and fails on:
+`python -m engine.audit` proves it. It re-renders all **2,048 slides** and fails on:
 
 - a slide out of format, crossing a margin, or entering the video UI-safe band;
 - any two foreground elements overlapping;

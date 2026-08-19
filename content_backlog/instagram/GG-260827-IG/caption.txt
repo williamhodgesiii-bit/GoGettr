@@ -1,25 +1,20 @@
 POST ID   : GG-260827-IG
 PLATFORM  : Instagram (+Facebook link)
 PUBLISH   : 2026-08-27 08:00 ET  (Thu)
-FORMAT    : Carousel · 7 slides (1080x1350)
+FORMAT    : Reel · vertical MP4 (1080x1920)
 PILLAR    : MONEY SYSTEMS   (theme T11 · The $100 Test)
-PRIMARY   : 01_cover.png
-ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+AUDIO     : The MP4 ships silent, and a silent Reel is barely pushed. In the Reels editor tap Add audio -> Trending (the tracks marked with the up-arrow) and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM; duck it under the on-screen text. On Reels, using a trending audio is itself a reach signal.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-You get $100. It must improve next month. Where does it go?
-
 Give each dollar one job.
 
-→ Sleep.
-→ Skill.
-→ Training.
-→ A tool that saves time.
-→ Comment your allocation before you see everyone else's.
+Drop your allocation in the comments.
 
-Swipe through, save it for later, and send it to someone who needs it. Follow @gogettrdaily for a new system every day.
+Watch to the end, save it, then follow @gogettrdaily for a new system every day.
 
 #money #personalfinance #finance #wealth #selfimprovement

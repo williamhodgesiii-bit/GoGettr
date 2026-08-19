@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : SOCIAL CAPITAL   (theme T86 · Specific Praise)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Great job means nothing. Name the exact thing they did. #shorts
+TITLE     : How To Give Genuine Praise #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a warm, feel-good pop track (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Great job means nothing. Name the exact thing they did.
+How To Give Genuine Praise
 
-Specific praise is remembered. Generic praise is noise.
+Detail is what makes praise land.
 
-→ Say what they did, precisely.
-→ Say the effect it had.
-→ Say it in front of others.
-→ Skip the empty superlatives.
-→ Detail is what makes praise land.
+1. Say what they did, precisely.
+2. Say the effect it had.
+3. Say it in front of others.
+4. Skip the empty superlatives.
+5. Detail is what makes praise land.
 
 Follow @gogettrdaily for more.
 

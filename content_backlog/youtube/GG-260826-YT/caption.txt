@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : WORK CAPACITY   (theme T10 · Capability Stack)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : How to become hard to replace — without a new title. #shorts
+TITLE     : How To Be Indispensable At Work #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-How to become hard to replace — without a new title.
+How To Be Indispensable At Work
 
-Career security is a stack, not a label.
+Career security is a stack, not a title.
 
-→ Solve before escalation.
-→ Write clearly.
-→ Learn without a classroom.
-→ Keep promises.
-→ Make the people around you better.
+1. Solve before escalation.
+2. Write clearly.
+3. Learn without a classroom.
+4. Keep promises.
+5. Make the people around you better.
 
 Follow @gogettrdaily for more.
 

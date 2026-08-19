@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : THE AUDIT   (theme T03 · Future Audit)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : If nothing changes for 365 days, are you okay with the result? #shorts
+TITLE     : Life Audit Checklist #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a calm cinematic or soft-piano track, ~70-90 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-If nothing changes for 365 days, are you okay with the result?
+Life Audit Checklist
 
-Answer honestly. Your lowest answer is your next project.
+Your lowest answer is your next project.
 
-→ Same income?
-→ Same body?
-→ Same habits?
-→ Same people around you?
-→ Your lowest answer is the next project.
+1. Same income?
+2. Same body?
+3. Same habits?
+4. Same people around you?
+5. Your lowest answer is the next project.
 
 Follow @gogettrdaily for more.
 

@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : PURCHASE LAB   (theme T100 · The Capsule Wardrobe)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Decision fatigue starts at your closet every morning. #shorts
+TITLE     : Capsule Wardrobe Basics #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Decision fatigue starts at your closet every morning.
+Capsule Wardrobe Basics
 
-Fewer, better pieces that all work together.
+Decide the wardrobe once, wear it daily.
 
-→ Keep what you actually wear.
-→ One palette, everything matches.
-→ Fewer choices, sharper look.
-→ Quality over a crowded rail.
-→ Decide the wardrobe once.
+1. Keep what you actually wear.
+2. One palette, everything matches.
+3. Fewer choices, sharper look.
+4. Quality over a crowded rail.
+5. Decide the wardrobe once.
 
 Follow @gogettrdaily for more.
 

@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : ENVIRONMENT ENGINEERING   (theme T93 · Make It Obvious)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : You do not lack discipline. Your setup fights your goals. #shorts
+TITLE     : Design Environment For Habits #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-You do not lack discipline. Your setup fights your goals.
+Design Environment For Habits
 
-The easy option usually wins, so rig the environment.
+Willpower loses to layout.
 
-→ Put the good habit in your path.
-→ Hide the friction that stops you.
-→ Add steps to the thing you quit.
-→ Let the room decide for you.
-→ Willpower loses to layout.
+1. Put the good habit in your path.
+2. Hide the friction that stops you.
+3. Add steps to the thing you quit.
+4. Let the room decide for you.
+5. Willpower loses to layout.
 
 Follow @gogettrdaily for more.
 

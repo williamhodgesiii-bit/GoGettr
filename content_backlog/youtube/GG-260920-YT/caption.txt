@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : ENVIRONMENT ENGINEERING   (theme T35 · The 10% Better Room)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Do not redo the room. Fix the most annoying 10%. #shorts
+TITLE     : Small Home Upgrades That Matter #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Do not redo the room. Fix the most annoying 10%.
+Small Home Upgrades That Matter
 
-Choose the highest-friction corner and end it.
+Fix the most annoying 10%.
 
-→ Find the corner you avoid.
-→ Name the one friction.
-→ Fix only that.
-→ Notice how the whole room lifts.
-→ Repeat next week, one corner at a time.
+1. Find the corner you avoid.
+2. Name the one friction.
+3. Fix only that.
+4. Notice how the whole room lifts.
+5. Repeat next week, one corner at a time.
 
 Follow @gogettrdaily for more.
 

@@ -47,9 +47,12 @@ into Metricool / Later / Buffer / Publer. Columns map cleanly: `date`, `time`
 folder for the media.
 
 ## Per-platform notes
-- **Instagram** — carousels (7–8 slides): upload `01…08` in order. Reels (every 3rd day):
-  upload `video.mp4`, add a trending audio in-app. IG is the main page; mirror to
-  Facebook or use the FB-specific card in `facebook/`.
+- **Instagram** — **Reel-first** (most days): upload `video.mp4` and **add a
+  trending audio in-app** before posting — see the `AUDIO:` line in `caption.txt`.
+  A silent Reel barely gets pushed, and on a new account Reels are the only surface
+  that reaches non-followers. Carousels (every 3rd day, 7–8 slides): upload `01…08`
+  in order. IG is the main page; mirror to Facebook or use the FB-specific card in
+  `facebook/`.
 - **Facebook** — one image + a comment-friendly caption. Lighter look on purpose.
 - **TikTok** — media type rotates (never the same two days running). If the
   folder has `video.mp4`, upload it and **add a trending sound in-app** (native
@@ -70,18 +73,25 @@ folder for the media.
   titles/descriptions are keyword-led and carry **no hashtags** (Pinterest no
   longer recommends them).
 - **YouTube Shorts** — upload `video.mp4`, paste the title line + description.
+  **Add audio first** (voiceover or a track) — see the `AUDIO:` line in
+  `caption.txt`. A silent Short gets suppressed. The title/description lead with
+  the searchable keyword, not the on-screen hook (Shorts is a search surface).
 
 ## Hashtags (already capped to each platform's 2025/26 limit)
 Broad, high-traffic tags only — and never more than a platform rewards:
-**Instagram 5** (hard cap since Dec 2025), **TikTok 5** (incl. #fyp),
-**YouTube Shorts 5** (incl. #shorts), **LinkedIn 3**, **X 2**, **Facebook 2**,
-**Pinterest 0** (keywords + boards instead). They're baked into each caption.
+**Instagram 5** (hard cap since Dec 2025), **TikTok 4–5** (niche/long-tail, **no
+#fyp** — it does nothing for reach and reads as low-effort), **YouTube Shorts 5**
+(incl. #shorts), **LinkedIn 3**, **X 2**, **Facebook 2**, **Pinterest 0**
+(keywords + boards instead). They're baked into each caption.
 
 ## About the videos
 Per the Vault's *Easy MP4* rule, videos are clean vertical slideshows (hook →
-system → the turn → CTA, ~11s) with no audio baked in — **add a trending native
-sound when you post**. That's the highest-reach move on TikTok/Reels/Shorts and
-keeps you clear of music licensing.
+system → the turn → CTA, ~11s) with no audio baked in — **add sound when you
+post** (a trending sound in-app, or a voiceover). Every video caption spells out
+what to add on its `SOUND:` (TikTok) or `AUDIO:` (YouTube/Reels) line. This is not
+optional: a **silent** vertical video is the single most common reason a Short or
+Reel sits at 0 views. Adding native sound is the highest-reach move on
+TikTok/Reels/Shorts and keeps you clear of music licensing.
 
 ## Want changes?
 The whole backlog regenerates from `engine/` (`python -m engine.render`):

@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : SYSTEM DESIGN   (theme T70 · The Not-To-Do List)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Your to-do list is full because your not-to-do list is empty. #shorts
+TITLE     : What Not To Do List #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Your to-do list is full because your not-to-do list is empty.
+What Not To Do List
 
-Protect your focus by naming what you refuse.
+What you refuse protects what you finish.
 
-→ List what you always regret doing.
-→ No meetings without an agenda.
-→ No phone in the first hour.
-→ No yes on the day of the ask.
-→ What you refuse protects what you finish.
+1. List what you always regret doing.
+2. No meetings without an agenda.
+3. No phone in the first hour.
+4. No yes on the day of the ask.
+5. What you refuse protects what you finish.
 
 Follow @gogettrdaily for more.
 

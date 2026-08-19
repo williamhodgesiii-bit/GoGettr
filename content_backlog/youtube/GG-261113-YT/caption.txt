@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : SOCIAL CAPITAL   (theme T89 · Remember The Name)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : You did not forget the name. You never really heard it. #shorts
+TITLE     : How To Remember Names #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a warm, feel-good pop track (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-You did not forget the name. You never really heard it.
+How To Remember Names
 
-Attention at hello is the whole trick.
+People feel seen when you remember.
 
-→ Say it back the moment you hear it.
-→ Use it once in the first minute.
-→ Link it to a face or a fact.
-→ Ask again if you missed it.
-→ People feel seen when you remember.
+1. Say it back the moment you hear it.
+2. Use it once in the first minute.
+3. Link it to a face or a fact.
+4. Ask again if you missed it.
+5. People feel seen when you remember.
 
 Follow @gogettrdaily for more.
 

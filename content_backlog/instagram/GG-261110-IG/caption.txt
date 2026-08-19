@@ -1,25 +1,20 @@
 POST ID   : GG-261110-IG
 PLATFORM  : Instagram (+Facebook link)
 PUBLISH   : 2026-11-10 08:00 ET  (Tue)
-FORMAT    : Carousel · 8 slides (1080x1350)
+FORMAT    : Reel · vertical MP4 (1080x1920)
 PILLAR    : SOCIAL CAPITAL   (theme T86 · Specific Praise)
-PRIMARY   : 01_cover.png
-ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_recap.png, 08_close.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+AUDIO     : The MP4 ships silent, and a silent Reel is barely pushed. In the Reels editor tap Add audio -> Trending (the tracks marked with the up-arrow) and pick a warm, feel-good pop track; duck it under the on-screen text. On Reels, using a trending audio is itself a reach signal.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Great job means nothing. Name the exact thing they did.
-
 Specific praise is remembered. Generic praise is noise.
 
-→ Say what they did, precisely.
-→ Say the effect it had.
-→ Say it in front of others.
-→ Skip the empty superlatives.
-→ Detail is what makes praise land.
+Give one specific compliment today.
 
-Swipe through, save it for later, and send it to someone who needs it. Follow @gogettrdaily for a new system every day.
+Watch to the end, save it, then follow @gogettrdaily for a new system every day.
 
 #confidence #communication #success #relationships #selfimprovement

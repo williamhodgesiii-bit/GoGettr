@@ -1,19 +1,23 @@
 POST ID   : GG-261102-IG
 PLATFORM  : Instagram (+Facebook link)
 PUBLISH   : 2026-11-02 08:00 ET  (Mon)
-FORMAT    : Reel · vertical MP4 (1080x1920)
+FORMAT    : Carousel · 8 slides (1080x1350)
 PILLAR    : RECOVERY PROTOCOL   (theme T78 · Minimum Effective Dose)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_cover.png
+ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_recap.png, 08_close.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-You do not need the perfect program. You need to show up.
-
 The workout you repeat beats the one you skip.
 
-Sound on, and watch to the end. Save it, then follow @gogettrdaily for a new system every day.
+→ Two sessions a week is the floor.
+→ Twenty minutes still counts.
+→ Same days, no debate.
+→ Progress the weight, not the plan.
+→ Consistency out-lifts intensity.
+
+Swipe through, save it for later, and send it to someone who needs it. Follow @gogettrdaily for a new system every day.
 
 #fitness #health #motivation #gym #selfimprovement

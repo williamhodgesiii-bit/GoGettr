@@ -1,25 +1,20 @@
 POST ID   : GG-261106-IG
 PLATFORM  : Instagram (+Facebook link)
 PUBLISH   : 2026-11-06 08:00 ET  (Fri)
-FORMAT    : Carousel · 8 slides (1080x1350)
+FORMAT    : Reel · vertical MP4 (1080x1920)
 PILLAR    : RECOVERY PROTOCOL   (theme T82 · The Deload Week)
-PRIMARY   : 01_cover.png
-ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_recap.png, 08_close.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+AUDIO     : The MP4 ships silent, and a silent Reel is barely pushed. In the Reels editor tap Add audio -> Trending (the tracks marked with the up-arrow) and pick a calm cinematic or soft-piano track, ~70-90 BPM; duck it under the on-screen text. On Reels, using a trending audio is itself a reach signal.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Rest is not the reward for the work. It is part of it.
-
 Planned easy weeks are why hard weeks keep working.
 
-→ Schedule an easy week every fourth.
-→ Cut volume, keep the habit.
-→ Sleep like it is the training.
-→ Come back stronger, not fried.
-→ You grow on the recovery, not the grind.
+Put your next easy week on the calendar.
 
-Swipe through, save it for later, and send it to someone who needs it. Follow @gogettrdaily for a new system every day.
+Watch to the end, save it, then follow @gogettrdaily for a new system every day.
 
 #health #wellness #selfcare #mindset #selfimprovement

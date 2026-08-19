@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : THE AUDIT   (theme T08 · The 7-Day Time Leak Audit)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Your week is leaking. Find the hole before you add another goal. #shorts
+TITLE     : Time Management Audit #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Your week is leaking. Find the hole before you add another goal.
+Time Management Audit
 
-For seven days, mark every block that was neither work nor recovery.
+Find the leak before you add another goal.
 
-→ Mark every non-work, non-recovery block.
-→ Circle anything you did by default.
-→ Add the minutes.
-→ Pick the biggest leak.
-→ Next week, block it before it starts.
+1. Mark every non-work, non-recovery block.
+2. Circle anything you did by default.
+3. Add the minutes.
+4. Pick the biggest leak.
+5. Next week, block it before it starts.
 
 Follow @gogettrdaily for more.
 

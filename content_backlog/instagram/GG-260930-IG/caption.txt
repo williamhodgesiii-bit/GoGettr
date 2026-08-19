@@ -1,19 +1,23 @@
 POST ID   : GG-260930-IG
 PLATFORM  : Instagram (+Facebook link)
 PUBLISH   : 2026-09-30 08:00 ET  (Wed)
-FORMAT    : Reel · vertical MP4 (1080x1920)
+FORMAT    : Carousel · 7 slides (1080x1350)
 PILLAR    : ENVIRONMENT ENGINEERING   (theme T45 · The Emergency Info Note)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_cover.png
+ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Make one note with the info you would hate to search for under stress.
-
 Create it before you need it.
 
-Sound on, and watch to the end. Save it, then follow @gogettrdaily for a new system every day.
+→ Emergency contacts.
+→ Insurance and policy numbers.
+→ Medications and doses.
+→ Roadside and account lines.
+→ Create it before you need it.
+
+Swipe through, save it for later, and send it to someone who needs it. Follow @gogettrdaily for a new system every day.
 
 #productivity #habits #discipline #selfimprovement #motivation

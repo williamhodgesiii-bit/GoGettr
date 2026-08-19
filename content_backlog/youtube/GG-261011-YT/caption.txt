@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : SYSTEM DESIGN   (theme T56 · Build The Machine — Recap)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : You do not rise to your goals. You fall to your systems. #shorts
+TITLE     : How To Build Life Systems That Last #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-You do not rise to your goals. You fall to your systems.
+How To Build Life Systems That Last
 
-Eight weeks in one line: build the machine, skip the mood.
+Build the machine. Skip the mood.
 
-→ Fewer decisions.
-→ Automatic money.
-→ Scheduled recovery.
-→ Proof of work.
-→ Track it or it did not happen.
+1. Fewer decisions.
+2. Automatic money.
+3. Scheduled recovery.
+4. Proof of work.
+5. Track it or it did not happen.
 
 Follow @gogettrdaily for more.
 

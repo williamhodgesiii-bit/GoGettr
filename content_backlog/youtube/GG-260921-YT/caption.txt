@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : CAREER SIGNALS   (theme T36 · Career Signals)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : What your future employer cares about more than your GPA. #shorts
+TITLE     : What Employers Actually Want #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-What your future employer cares about more than your GPA.
+What Employers Actually Want
 
 Build evidence, not just credentials.
 
-→ Can you explain clearly?
-→ Can you solve without being chased?
-→ Can people rely on your word?
-→ Can you show finished work?
-→ Build evidence, not just credentials.
+1. Can you explain clearly?
+2. Can you solve without being chased?
+3. Can people rely on your word?
+4. Can you show finished work?
+5. Build evidence, not just credentials.
 
 Follow @gogettrdaily for more.
 

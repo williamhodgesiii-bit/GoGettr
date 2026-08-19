@@ -1,19 +1,23 @@
 POST ID   : GG-260903-IG
 PLATFORM  : Instagram (+Facebook link)
 PUBLISH   : 2026-09-03 08:00 ET  (Thu)
-FORMAT    : Reel · vertical MP4 (1080x1920)
+FORMAT    : Carousel · 8 slides (1080x1350)
 PILLAR    : RECEIPTS   (theme T18 · False Signals)
-PRIMARY   : video.mp4
-ASSETS    : video.mp4
+PRIMARY   : 01_cover.png
+ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_recap.png, 08_close.png
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Things that look like success but usually are not.
-
 Measure what compounds, not what photographs well.
 
-Sound on, and watch to the end. Save it, then follow @gogettrdaily for a new system every day.
+→ A car payment that owns the month.
+→ A calendar packed with low-value work.
+→ A wardrobe funded by future income.
+→ A title with no transferable skill.
+→ Measure what compounds, not what photographs well.
+
+Swipe through, save it for later, and send it to someone who needs it. Follow @gogettrdaily for a new system every day.
 
 #money #personalfinance #finance #wealth #selfimprovement

@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : PURCHASE LAB   (theme T07 · Status Filter)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Would you still want it if nobody could ever see it? #shorts
+TITLE     : Stop Impulse Spending #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Would you still want it if nobody could ever see it?
+Stop Impulse Spending
 
 Separate preference from performance.
 
-→ Remove the audience.
-→ Remove the logo.
-→ Remove the launch-day hype.
-→ Remove your friends seeing it.
-→ Still want it?
+1. Remove the audience.
+2. Remove the logo.
+3. Remove the launch-day hype.
+4. Remove your friends seeing it.
+5. Still want it?
 
 Follow @gogettrdaily for more.
 

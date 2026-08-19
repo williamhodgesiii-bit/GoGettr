@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : BORING EDGE   (theme T29 · Boring Edge)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : What successful people make boring. #shorts
+TITLE     : Boring Habits That Build Success #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a calm cinematic or soft-piano track, ~70-90 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-What successful people make boring.
+Boring Habits That Build Success
 
-The goal is to make the right move unsurprising.
+Make the right move unsurprising.
 
-→ Saving.
-→ Training.
-→ Following up.
-→ Sleeping.
-→ Make the right move unsurprising.
+1. Saving.
+2. Training.
+3. Following up.
+4. Sleeping.
+5. Make the right move unsurprising.
 
 Follow @gogettrdaily for more.
 

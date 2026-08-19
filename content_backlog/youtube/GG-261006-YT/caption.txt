@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : MINI CHALLENGES   (theme T51 · The One-Week No-Multitask Meal)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : For seven meals, eat without a screen. Notice the pace. #shorts
+TITLE     : Mindful Eating Challenge #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a high-energy beat (gym / phonk / hype), ~120-140 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-For seven meals, eat without a screen. Notice the pace.
+Mindful Eating Challenge
 
 Seven meals, not forever.
 
-→ No phone at the table.
-→ No show in the background.
-→ Just the meal.
-→ Notice how much less you need after.
-→ Seven meals, not forever.
+1. No phone at the table.
+2. No show in the background.
+3. Just the meal.
+4. Notice how much less you need after.
+5. Seven meals, not forever.
 
 Follow @gogettrdaily for more.
 

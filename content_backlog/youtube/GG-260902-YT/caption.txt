@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : ESCAPE VELOCITY   (theme T17 · Freedom Math)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : How many months could you breathe if income stopped tomorrow? #shorts
+TITLE     : How To Calculate Your Runway #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-How many months could you breathe if income stopped tomorrow?
+How To Calculate Your Runway
 
-That is runway, not net worth. Build the number that changes decisions.
+Runway is the number that changes your decisions.
 
-→ Cash you can actually use.
-→ Essential monthly burn.
-→ Divide.
-→ That is runway, not net worth.
-→ Build the number that changes your decisions.
+1. Cash you can actually use.
+2. Essential monthly burn.
+3. Divide.
+4. That is runway, not net worth.
+5. Build the number that changes your decisions.
 
 Follow @gogettrdaily for more.
 

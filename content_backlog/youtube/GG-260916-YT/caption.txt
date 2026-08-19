@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : RECOVERY PROTOCOL   (theme T31 · The Energy Audit)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Track your energy for 5 days. The pattern is louder than motivation. #shorts
+TITLE     : How To Manage Your Energy #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a calm cinematic or soft-piano track, ~70-90 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Track your energy for 5 days. The pattern is louder than motivation.
+How To Manage Your Energy
 
-Design the day around your real peaks.
+The pattern is louder than motivation.
 
-→ Note energy every two hours.
-→ Mark the true peak and the crash.
-→ Guard the peak for your hardest work.
-→ Protect the crash with recovery.
-→ Stop scheduling against your own biology.
+1. Note energy every two hours.
+2. Mark the true peak and the crash.
+3. Guard the peak for your hardest work.
+4. Protect the crash with recovery.
+5. Stop scheduling against your own biology.
 
 Follow @gogettrdaily for more.
 

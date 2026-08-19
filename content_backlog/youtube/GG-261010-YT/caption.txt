@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : SOCIAL CAPITAL   (theme T55 · The Better Second Question)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Most conversations die on the second question. Here is the fix. #shorts
+TITLE     : How To Have Better Conversations #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a warm, feel-good pop track (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Most conversations die on the second question. Here is the fix.
+How To Have Better Conversations
 
-Trade the reflex question for a real one.
+Curiosity is the whole skill.
 
-→ Skip 'so what do you do'.
-→ Ask about the part they lit up on.
-→ Follow the energy, not the script.
-→ Let silence do some work.
-→ Curiosity is the whole skill.
+1. Skip 'so what do you do'.
+2. Ask about the part they lit up on.
+3. Follow the energy, not the script.
+4. Let silence do some work.
+5. Curiosity is the whole skill.
 
 Follow @gogettrdaily for more.
 

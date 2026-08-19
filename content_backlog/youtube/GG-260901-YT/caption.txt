@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : DECISION FILTER   (theme T16 · The Future Me Test)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Before the next yes, buy, quit or delay — run this test. #shorts
+TITLE     : How To Make Better Decisions #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a calm cinematic or soft-piano track, ~70-90 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Before the next yes, buy, quit or delay — run this test.
+How To Make Better Decisions
 
 Make decisions for the person who inherits them.
 
-→ Will tomorrow-you thank you?
-→ Will one-year-you still care?
-→ Will five-year-you pay for it?
-→ If the answer worsens with time, change the move.
-→ Decide for the person who inherits it.
+1. Will tomorrow-you thank you?
+2. Will one-year-you still care?
+3. Will five-year-you pay for it?
+4. If the answer worsens with time, change the move.
+5. Decide for the person who inherits it.
 
 Follow @gogettrdaily for more.
 

@@ -1,25 +1,20 @@
 POST ID   : GG-260919-IG
 PLATFORM  : Instagram (+Facebook link)
 PUBLISH   : 2026-09-19 08:00 ET  (Sat)
-FORMAT    : Carousel · 8 slides (1080x1350)
+FORMAT    : Reel · vertical MP4 (1080x1920)
 PILLAR    : SOCIAL CAPITAL   (theme T34 · Reputation Loop)
-PRIMARY   : 01_cover.png
-ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_recap.png, 08_close.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+AUDIO     : The MP4 ships silent, and a silent Reel is barely pushed. In the Reels editor tap Add audio -> Trending (the tracks marked with the up-arrow) and pick a warm, feel-good pop track; duck it under the on-screen text. On Reels, using a trending audio is itself a reach signal.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Your reputation is compounding while you are not in the room.
-
 Reputation is the meeting you do not attend.
 
-→ On time or late.
-→ Prepared or improvising.
-→ Keeps word or needs reminders.
-→ Useful or self-promotional.
-→ Reputation is the meeting you do not attend.
+What do they say after you leave?
 
-Swipe through, save it for later, and send it to someone who needs it. Follow @gogettrdaily for a new system every day.
+Watch to the end, save it, then follow @gogettrdaily for a new system every day.
 
 #confidence #communication #success #relationships #selfimprovement

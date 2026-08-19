@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : RECOVERY PROTOCOL   (theme T83 · Movement Snacks)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Sitting still for eight hours undoes one good workout. #shorts
+TITLE     : Movement Breaks At Work #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a high-energy beat (gym / phonk / hype), ~120-140 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Sitting still for eight hours undoes one good workout.
+Movement Breaks At Work
 
-Scatter tiny movement through the day, not just the gym.
+One workout cannot undo a still day.
 
-→ Stand and move every hour.
-→ Ten squats between meetings.
-→ Walk while the kettle boils.
-→ Take the stairs by default.
-→ Small movement, all day long.
+1. Stand and move every hour.
+2. Ten squats between meetings.
+3. Walk while the kettle boils.
+4. Take the stairs by default.
+5. Small movement, all day long.
 
 Follow @gogettrdaily for more.
 

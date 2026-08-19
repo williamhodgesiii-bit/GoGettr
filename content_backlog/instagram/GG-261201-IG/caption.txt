@@ -1,25 +1,20 @@
 POST ID   : GG-261201-IG
 PLATFORM  : Instagram (+Facebook link)
 PUBLISH   : 2026-12-01 08:00 ET  (Tue)
-FORMAT    : Carousel · 7 slides (1080x1350)
+FORMAT    : Reel · vertical MP4 (1080x1920)
 PILLAR    : MINI CHALLENGES   (theme T107 · Walk After Meals)
-PRIMARY   : 01_cover.png
-ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+AUDIO     : The MP4 ships silent, and a silent Reel is barely pushed. In the Reels editor tap Add audio -> Trending (the tracks marked with the up-arrow) and pick a high-energy beat (gym / phonk / hype), ~120-140 BPM; duck it under the on-screen text. On Reels, using a trending audio is itself a reach signal.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-For five days, walk ten minutes after every meal.
-
 A short walk does more than the number suggests.
 
-→ Ten minutes, right after eating.
-→ No pace goal, just move.
-→ Notice the steadier energy after.
-→ Notice the easier evenings.
-→ Let five days make the case.
+Walk ten minutes after your next meal.
 
-Swipe through, save it for later, and send it to someone who needs it. Follow @gogettrdaily for a new system every day.
+Watch to the end, save it, then follow @gogettrdaily for a new system every day.
 
 #discipline #motivation #selfimprovement #habits #success

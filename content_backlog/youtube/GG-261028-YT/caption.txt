@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : WORK CAPACITY   (theme T73 · Ask For The Feedback)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Stop asking how am I doing. Ask what they can answer. #shorts
+TITLE     : How To Ask For Feedback #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Stop asking how am I doing. Ask what they can answer.
+How To Ask For Feedback
 
-Vague questions get vague, useless answers.
+Specific questions unlock real answers.
 
-→ Ask what one thing to change.
-→ Ask where you slowed the team.
-→ Ask what a raise would require.
-→ Say thanks, then actually do it.
-→ Specific questions unlock real answers.
+1. Ask what one thing to change.
+2. Ask where you slowed the team.
+3. Ask what a raise would require.
+4. Say thanks, then actually do it.
+5. Specific questions unlock real answers.
 
 Follow @gogettrdaily for more.
 

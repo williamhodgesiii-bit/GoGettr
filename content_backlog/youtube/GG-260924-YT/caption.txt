@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : BORING EDGE   (theme T39 · Age Shift)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Things that become valuable fast after 25. #shorts
+TITLE     : Things That Matter More After 25 #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a calm cinematic or soft-piano track, ~70-90 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Things that become valuable fast after 25.
+Things That Matter More After 25
 
-The boring things stop being boring.
+The boring things stop being boring after 25.
 
-→ Sleep.
-→ Good credit.
-→ Cooking.
-→ Real friendships.
-→ A body that still works without negotiation.
+1. Sleep.
+2. Good credit.
+3. Cooking.
+4. Real friendships.
+5. A body that still works without negotiation.
 
 Follow @gogettrdaily for more.
 

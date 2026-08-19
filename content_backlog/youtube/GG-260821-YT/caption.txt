@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : RECEIPTS   (theme T05 · Wake-Up Sequence)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : At some point the handoff never comes. The first move is yours. #shorts
+TITLE     : Take Ownership Of Your Life #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a calm cinematic or soft-piano track, ~70-90 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-At some point the handoff never comes. The first move is yours.
+Take Ownership Of Your Life
 
 Responsibility is where leverage starts.
 
-→ No one builds your savings.
-→ No one protects your calendar.
-→ No one trains your body for you.
-→ No one creates your next option.
-→ Responsibility is where leverage starts.
+1. No one builds your savings.
+2. No one protects your calendar.
+3. No one trains your body for you.
+4. No one creates your next option.
+5. Responsibility is where leverage starts.
 
 Follow @gogettrdaily for more.
 

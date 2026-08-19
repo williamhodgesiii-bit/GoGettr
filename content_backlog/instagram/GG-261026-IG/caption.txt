@@ -1,25 +1,20 @@
 POST ID   : GG-261026-IG
 PLATFORM  : Instagram (+Facebook link)
 PUBLISH   : 2026-10-26 08:00 ET  (Mon)
-FORMAT    : Carousel · 7 slides (1080x1350)
+FORMAT    : Reel · vertical MP4 (1080x1920)
 PILLAR    : WORK CAPACITY   (theme T71 · The Brag Document)
-PRIMARY   : 01_cover.png
-ASSETS    : 01_cover.png, 02_beat.png, 03_beat.png, 04_beat.png, 05_beat.png, 06_beat.png, 07_close.png
+PRIMARY   : video.mp4
+ASSETS    : video.mp4
+AUDIO     : The MP4 ships silent, and a silent Reel is barely pushed. In the Reels editor tap Add audio -> Trending (the tracks marked with the up-arrow) and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM; duck it under the on-screen text. On Reels, using a trending audio is itself a reach signal.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-You will forget your own wins by review season. Log them.
-
 Memory is a bad advocate. Keep the receipts.
 
-→ One line every Friday.
-→ What you shipped and what it moved.
-→ Numbers wherever a number exists.
-→ Save the thank-you notes too.
-→ Show the record, not a vibe.
+Start the file with this week's win.
 
-Swipe through, save it for later, and send it to someone who needs it. Follow @gogettrdaily for a new system every day.
+Watch to the end, save it, then follow @gogettrdaily for a new system every day.
 
 #career #success #entrepreneur #motivation #selfimprovement

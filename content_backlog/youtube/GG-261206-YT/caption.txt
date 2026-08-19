@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : SYSTEM DESIGN   (theme T112 · Volume Two — Recap)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : Motivation is a mood. A system is a machine you can trust. #shorts
+TITLE     : Life Systems That Last #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-Motivation is a mood. A system is a machine you can trust.
+Life Systems That Last
 
-Eight more weeks in one line: automate the right defaults.
+Build the machine. Skip the mood.
 
-→ Pay yourself first.
-→ Guard one deep block.
-→ Two sessions, ten thousand steps.
-→ Never miss twice.
-→ Build the machine, skip the mood.
+1. Pay yourself first.
+2. Guard one deep block.
+3. Two sessions, ten thousand steps.
+4. Never miss twice.
+5. Build the machine, skip the mood.
 
 Follow @gogettrdaily for more.
 

@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : SYSTEM DESIGN   (theme T96 · Lead Vs Lag)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : You cannot control the scale. You can control the reps. #shorts
+TITLE     : Lead Versus Lag Measures #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a clean lo-fi or corporate-motivational beat, ~90-110 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-You cannot control the scale. You can control the reps.
+Lead Versus Lag Measures
 
-Chase the input you own, not the outcome you do not.
+Own the input, earn the result.
 
-→ Weight is a lag measure.
-→ Workouts are a lead measure.
-→ Track what you control today.
-→ Let outcomes trail the inputs.
-→ Own the input, earn the result.
+1. Weight is a lag measure.
+2. Workouts are a lead measure.
+3. Track what you control today.
+4. Let outcomes trail the inputs.
+5. Own the input, earn the result.
 
 Follow @gogettrdaily for more.
 

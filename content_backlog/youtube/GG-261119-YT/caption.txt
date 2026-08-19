@@ -5,21 +5,22 @@ FORMAT    : Shorts · vertical MP4 (1080x1920)
 PILLAR    : THE COMEBACK   (theme T95 · The Reset Ritual)
 PRIMARY   : video.mp4
 ASSETS    : video.mp4
-TITLE     : You did not fail. You just have not restarted yet. #shorts
+TITLE     : How To Get Back On Track #shorts
+AUDIO     : The MP4 ships silent, and a silent Short gets suppressed. Add sound before you post: record a quick voiceover of the hook and steps, or in the YouTube Shorts editor tap Add sound and pick a calm cinematic or soft-piano track, ~70-90 BPM (or a track from the free YouTube Audio Library). Keep it under the on-screen text.
 
 ------------------------------------------------------------
 CAPTION (copy below):
 ------------------------------------------------------------
 
-You did not fail. You just have not restarted yet.
+How To Get Back On Track
 
-The gap between slip and reset is all that matters.
+The comeback is the whole skill.
 
-→ Skip the shame spiral.
-→ Do the smallest possible rep.
-→ Restart the same hour, not Monday.
-→ One rep rebuilds the identity.
-→ The comeback is the whole skill.
+1. Skip the shame spiral.
+2. Do the smallest possible rep.
+3. Restart the same hour, not Monday.
+4. One rep rebuilds the identity.
+5. The comeback is the whole skill.
 
 Follow @gogettrdaily for more.
 
